@@ -1,0 +1,395 @@
+ xxxxxxxxxx : special MESSUI 0.175/0.190/0.215 versions for chess modules 
+=========================================================================
+> Modules in messuix
+^ Modules in MessExtra (new sensorboard interface)
++ Modules in MessChess (using WinBoard and chessplugins)
+
+ APPLIED CONCEPTS INC / CHAFITZ
+ ==============================                                     Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
++boris        1978  Boris rev. 01                           8  F8      2  2.5  256B  David Lindsey    985
++borisa       1978  Boris rev. 00                           8  F8      2  2.5  256B  David Lindsey    985
++borisdpl     1979  Boris Diplomat                          8  F8    1.5  2.5  256B  David Lindsey    985
++ggm_boris    1980  GGM Boris-Sargon 2.5                    8  6502    2    8     2  D&K Spracklen   1370
++ggm_sandy    1981  GGM Sandy Edition                       8  6502    2    8     2  John Aker       1475
++ggm_stein    1982  GGM Steinitz Edition-4                  8  6502    2   24     4  Larry Atkin     1575
++ggm_steina   1982  GGM Steinitz @ 4 MHz                    8  6502    4   24     4  Larry Atkin     1705
++ggm_steinb   1982  GGM Steinitz @ 20 MHz                   8  6502   20   24     4  Larry Atkin     1835
+^prodigy      1981  Destiny Prodigy                         8  6502    2    8     2  John Aker       1465
+
+ AVE Micro Systems
+ =================                                                  Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+^arb          1980  ARB Sargon 2.5                          8  6502    2    8     2  D&K Spracklen   1370
+^arbgms       1980  ARB Sargon 4.0 Grand Master Series      8  6502    2   20     2  D&K Spracklen   1705
+^arbv2        2012  ARB V2 Sargon 4.0                       8  6502   16   20    32  D&K Spracklen   1940
+
+ BREA Research Institute
+ =======================                                            Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
++intel02      1986  Intellect-02 (3 levels)                 8  8080  1.5    8     1  ????            ----
++intel02a     1989  Intellect-02 (4 levels)                 8  8080  1.5    8     1  ????            ----
+
+ Chess King
+ ==========                                                         Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+>ckmaster     1984  Master                                  8  Z80     4    8     2  R.Lang/D.Levy   ----
+
+ Commodore
+ =========                                                          Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
++chmate       1978  Chessmate                               8  6504    1    5  320B  P. Jennings      815
+
+ Conic
+ =====                                                              Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
++cncchess     1979  Master I                                8  F8      2    2  256B  ????            ----
+
+ Consumenta / Loproc
+ ===================                                                Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+^concply      1985  Conchess Plymate (Amsterdam, T8)        8  6502    4*  32     4  Ulf Rathsmann   1945
+^concplyv     1990  Conchess Plymate Victoria               8  6502  6.1*  32     4  Ulf Rathsmann   1980
+^concstd      1982  Conchess (standard)                     8  6502    2   24     4  Ulf Rathsmann   1530
+
+ CXG Systems / Newcrest Technology
+ =================================                                  Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+ ch2001       1984  Chess 2001                              8  Z80     4   16     2  Richard Lang    1660
+ ch2001_8     1984  Chess 2001 (8 MHz)                      8  Z80     8   16     2  Richard Lang    1720
+^sdtor        1989  Sphinx Dominator v2.5                   8  6502    4   32     8  Frans Morsch    1940
+^sphinx40     1987  Sphinx 40                              16  68000   8   64   128  M.Taylor/D.Levy 1720
+
+ Data Cash Systems
+ =================                                                  Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
++cmpchess     1977  CompuChess                              8  F8    1.8    2  256B  D.B. Goodrich    760
+
+ Energopribor
+ ============                                                       Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+^debutm       1994  Debut-M                                16  8086  5.4   16     4  V. Rybinkin     1795
+
+ FIDELITY
+ ========                                                           Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+-cc1          1977  Chess Challenger 1                      8  8080    2    2  512B  Ron Nelson       810
++cc3          1977  Chess Challenger 3                      8  8080    2    4  512B  Ron Nelson       895
+ cc7          1979  Chess Challenger 7-B (BCC)              8  Z80   3.6    4  256B  Ron Nelson      1100
+ cc7o         1979  Chess Challenger 7 (CC7)                8  Z80   3.6    4  256B  Ron Nelson      1100
+ cc10         1978  Chess Challenger 10-B                   8  Z80     4    4  512B  Ron Nelson      1205
+ cc10a        1978  Chess Challenger 10                     8  Z80     4    4  512B  Ron Nelson      1205
+ chesster     1990  Chesster Chess Challenger v1.3          8  6502    5   32     8  D&K Spracklen   1900
+ chesstera    1990  Chesster Chess Challenger v1.0          8  6502    5   32     8  D&K Spracklen   1900
+ csc          1981  Champion Sensory Chess Challenger       8  6502    2   32     4  D&K Spracklen   1510
+ csce         1981  Elite Champion Challenger               8  6502    4   32     4  D&K Spracklen   1600
+ fdes2000     1988  Designer 2000                           8  6502    3   32     8  D&K Spracklen   1810
+ fdes2000d    1988  Designer Display 2000                   8  6502    3   32     8  D&K Spracklen   1810
+ fdes2100     1988  Designer 2100                           8  6502    5   32     8  D&K Spracklen   1885
+ fdes2100d    1988  Designer Display 2100                   8  6502    6   64     8  D&K Spracklen   1900
+ fdes2265     1989  Designer Mach III Master 2265          16  68000  16   64    80  D&K Spracklen   2045
+ fdes2325     1991  Designer Mach IV Master 2325           32  68020  20   64   544  D&K Spracklen   2125
+ feag         1986  Elite Avantgarde (5/6 MHz)              8  6502    5*  28    16  D&K Spracklen   1835
+ feag2100     1986  Elite Avantgarde 2100 (5/6 MHz)         8  6502    6*  64     8  D&K Spracklen   1890
+ feagv2       1989  Elite Avantgarde V2 (128kB RAM)        16  68000  16  128   128  D&K Spracklen   2045
+ feagv3       1989  Elite Avantgarde V3 (512kB RAM)        16  68000  16  128   512  D&K Spracklen   2050
+~feagv5       1989  Elite Avantgarde V5 (1 CPU, 20 MHz)    16  68000  16  128   128  D&K Spracklen   2050
+^feagv5d      1989  Elite Avantgarde V5 (dual CPU)         16  68000  16  128   128  D&K Spracklen   2050
+ feagv7       1989  Elite Avantgarde V7 (20 MHz)           32  68020  20  128  1024  D&K Spracklen   2080
+ feagv7oc     1989  Elite Avantgarde V7 (28 MHz)           32  68020  28  128  1024  D&K Spracklen   2110
+ feagv7a      1989  Elite Avantgarde V7a (20 MHz)          32  68020  20  128  1024  D&K Spracklen   2080
+ feagv7aoc    1989  Elite Avantgarde V7a (28 MHz)          32  68020  28  128  1024  D&K Spracklen   2110
+ feagv9       1989  Elite Avantgarde V9 (32 MHz)           32  68030  32  128  1024  D&K Spracklen   2160
+ feagv9oc     1989  Elite Avantgarde V9 (40 MHz)           32  68030  40  128  1024  D&K Spracklen   2180
+ feagv10      1990  Elite Avantgarde V10 (25 MHz)          32  68040  25  128  1024  D&K Spracklen   2165
+~feagv11      2002  Elite Avantgarde V11 (68040 CPU)       32  68060  72  128  2048  D&K Spracklen   2260
+~feagv11rs    2002  Elite Avantgarde V11 (166.33 MHz)      32  68060  72  128  2048  D&K Spracklen   2335
+ feasbu       1983  Elite A/S Challenger (Budapest)         8  6502  3.2   28     3  D&K Spracklen   1745
+ feasbu_4     1983  Elite A/S Challenger (Budapest 4 MHz)   8  6502    4   28     3  D&K Spracklen   1765
+ feasbu_8     1983  Elite A/S Challenger (Budapest 8 MHz)   8  6502    8   28     3  D&K Spracklen   1825
+ feasgla      1984  Elite A/S Challenger (Glasgow)          8  6502  3.6   28     4  D&K Spracklen   1860
+ feasgla_4    1984  Elite A/S Challenger (Glasgow 4 MHz)    8  6502    4   28     4  D&K Spracklen   1870
+ feasgla_8    1984  Elite A/S Challenger (Glasgow 8 MHz)    8  6502    8   28     4  D&K Spracklen   1930
+ feleg        1985  Elegance (AS12-B 4 MHz)                 8  6502    4   24     4  D&K Spracklen   1820
+ feleg_8      1985  Elegance (AS12-B 8 MHz)                 8  6502    8   24     4  D&K Spracklen   1880
+ fepriv       1984  Elite Private (red version 3.6/5 MHz)   8  6502  3.6*  24     4  D&K Spracklen   1870
+ fex68k       1987  Excel 68000 (set 1)                    16  68000  12   64    16  D&K Spracklen   1915
+ fex68ka      1987  Excel 68000 (set 2)                    16  68000  12   64    16  D&K Spracklen   1915
+ fex68kb      1987  Excel 68000 (set 3)                    16  68000  12   64    16  D&K Spracklen   1915
+ fex68km2     1988  Excel 68000 Mach II C+ v1              16  68000  12   64   144  D&K Spracklen   1965
+ fex68km2a    1988  Excel 68000 Mach II C+ v2              16  68000  12   64   144  D&K Spracklen   1965
+ fex68km3     1988  Excel 68000 Mach III DB53              16  68000  16   64    80  D&K Spracklen   2045
+ fex68km4     1989  Excel 68020 Mach IV Master 2325        32  68020  20   64   544  D&K Spracklen   2125
+ fexcel0      1985  Excellence (Original 3 MHz)             8  6502    3   16     2  D&K Spracklen   1785
+ fexcel       1988  Excel Display (Excellence-B 3 MHz)      8  6502    3   32     8  D&K Spracklen   1785
+ fexcel_4     1988  Excel Display (Excellence-B 4 MHz)      8  6502    4   32     8  D&K Spracklen   1840
+ fexcel_5     1988  Excel Display (Excellence-B 5 MHz)      8  6502    5   32     8  D&K Spracklen   1860
+ fexcela      1985  Excellence EP12 v2 (4 MHz)              8  6502    4   16     2  D&K Spracklen   1840
+ fexcela1     1985  Excellence EP12 v1 (3 MHz)              8  6502    3   16     2  D&K Spracklen   1785
+ fexcelp      1986  Par Excellence v2 (5 MHz)               8  6502    5   32     8  D&K Spracklen   1875
+ fexcelp1     1986  Par Excellence v1 (5 MHz)               8  6502    5   32     8  D&K Spracklen   1875
+ fexcelp_10   1986  Par Excellence v2 (Tuned 10 MHz)        8  6502   10   32     8  D&K Spracklen   1970
+ fexcelp_16   1986  Par Excellence v2 (Tuned 16 MHz)        8  6502   16   32     8  D&K Spracklen   2070
+ fexcelv      1988  Excellence Voice (Excellence-B 3 MHz)   8  6502    3   64     8  D&K Spracklen   1785
+ fexep12      1985  RCS Granit (Excellence EP12 6.5 MHz)    8  6502  6.5   16     4  D&K Spracklen   1850
+ fparex       1986  RCS Granit-S (Par Excellence* 8 MHz)    8  6502    8   32     8  D&K Spracklen   1915
+^fphantom     1988  Phantom                                 8  6502    5   64     8  D&K Spracklen   1875
+ fpres        1982  Prestige Challenger (Original 4 MHz)    8  6502    4   24     4  D&K Spracklen   1800
+ fpres_8      1982  Prestige Challenger (Original 8 MHz)    8  6502    8   24     4  D&K Spracklen   1860
+ fpresbu      1983  Prestige Challenger (Budapest 4 MHz)    8  6502    4   24     4  D&K Spracklen   1875
+ fpresbu_8    1983  Prestige Challenger (Budapest 8 MHz)    8  6502    8   24     4  D&K Spracklen   1935
+ fscc12a      1984  Sensory Chess Challenger 12             8  6502    3   20     4  D&K Spracklen   1745
+ fscc12       1984  Sensory Chess Challenger 12-B           8  6502    4   20     4  D&K Spracklen   1770
+ fscc6        1982  Sensory Chess Challenger 6              8  I8040  11    4  256B  Ron Nelson      1150
+ fscc8        1980  Sensory Chess Challenger 8              8  Z80   3.9    4  512B  Ron Nelson      1115
+ fscc9a       1982  Sensory Chess Challenger 9 v2           8  6502  1.6*  16     2  D&K Spracklen   1590
+ fscc9a1      1982  Sensory Chess Challenger 9 v1           8  6502  1.6*  16     2  D&K Spracklen   1590
+ fscc9        1983  Sensory Chess Challenger 9-B (2 MHz)    8  6502    2   16     2  D&K Spracklen   1610
+ fscc9_3      1983  Sensory Chess Challenger 9-B (3 MHz)    8  6502    3   16     2  D&K Spracklen   1645
+ fscc9_8      1983  Sensory Chess Challenger 9-B (8 MHz)    8  6502    8   16     2  D&K Spracklen   1730
+ fscc9ps      1983  Sensory 9 Playmatic S                   8  6502  3.1   16     2  D&K Spracklen   1705
+ kishon       1991  Kishon Chesster v2.3 (3.6 MHz)          8  6502  3.6   32     8  D&K Spracklen   1875
+ kishon_7     1991  Kishon Chesster v2.3 (7.2 MHz)          8  6502  7.2   32     8  D&K Spracklen   1980
+ kishona      1991  Kishon Chesster v2.2                    8  6502  3.6   32     8  D&K Spracklen   1875
+ super9cc     1983  Super 9 Sensory Chess Challenger        8  6502    2   30     4  D&K Spracklen   1675
+ super9dx     1984  Super 9 (Deluxe 2.5 MHz)                8  6502  2.5   30     4  D&K Spracklen   1695
+ super9st     1984  Super 9 (Septennial 3 MHz)              8  6502    3   30     4  D&K Spracklen   1710
+ vsc          1980  Voice Sensory Chess Challenger          8  Z80   3.9   24     4  Ron Nelson      1190
+ vcc          1979  Chess Challenger Voice                  8  Z80     4   16     1  Ron Nelson      1165
+ uvc          1979  Chess Challenger Voice Advanced         8  Z80     4   16     1  Ron Nelson      1165
+
+ France Double R
+ ===============                                                    Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+^regence      1982  La Regence (TSB 4)                      8  Z80     4   12     2  Richard Lang    1700
+
+ MATTEL
+ ======                                                             Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+^mchess       1980  Mattel Computer Chess                   8  I8050   6    4  256B  Julio Kaplan    1150
+
+ MEPHISTO
+ ========                                                           Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+ academy      1989  Academy (English)                       8  6502  4.9   48     8  Ed Schroeder    1980
+ academyg     1989  Academy (German, new)                   8  6502  4.9   48     8  Ed Schroeder    1980
+ academyga    1989  Academy (German, old)                   8  6502  4.9   48     8  Ed Schroeder    1980
+ alm16        1988  Almeria 16 Bit                         16  68000  12  128   512  Richard Lang    2100
+ alm32        1988  Almeria 32 Bit                         32  68020  12  128  1024  Richard Lang    2070
+ alm32_oc     1988  Almeria 32 Bit (24 MHz)                32  68020  24  128  1024  Richard Lang    2190
+ amsterd      1985  Amsterdam                              16  68000  12   64    16  Richard Lang    1935
+ amsterda     1985  Amsterdam (old)                        16  68000  12   64    16  Richard Lang    1935
+^berl16       1992  Berlin 68000 v0.03                     16  68000  12  128   512  Richard Lang    2190
+^berl16_oc    1992  Berlin 68000 v0.03 (24 MHz)            16  68000  24  128   512  Richard Lang    2230
+^berl16a      1992  Berlin 68000 v0.02                     16  68000  12  128   512  Richard Lang    2190
+^berl16a_oc   1992  Berlin 68000 v0.02 (24 MHz)            16  68000  24  128   512  Richard Lang    2230
+^berl16l      1996  Berlin 68000 London Upgrade            16  68000  12  128   512  Richard Lang    2180
+^berl16l_oc   1996  Berlin 68000 London Upgrade (24 MHz)   16  68000  24  128   512  Richard Lang    2220
+^berl32t8p    1991  TM Berlin 68030 (prototype)            32  68030  66* 256  2048  Richard Lang    2385
+ berlinp      1994  Berlin Pro 68020                       32  68020  24  256  1024  Richard Lang    2275
+ berlinpl     1996  Berlin Pro 68020 London Upgrade        32  68020  24  256  1024  Richard Lang    2280
+ bup          1985  B&P v2                                  8  6502  3.7   32     4  Ulf Rathsman    1810
+ bup0         1985  B&P v1                                  8  6502  3.7   32     4  Ulf Rathsman    1810
+ dallas16     1986  Dallas 68000                           16  68000  12   64    16  Richard Lang    2005
+ dallas16a    1986  Dallas (old)                           16  68000  12   64    16  Richard Lang    2005
+ dallas32     1986  Dallas 68020                           32  68020  14   64    64  Richard Lang    2095
+ gen32        1993  Genius 68030 v4.01                     32  68030  33  256   768  Richard Lang    2340
+ gen32_oc     1993  Genius 68030 v4.01 (66 MHz)            32  68030  66  256   768  Richard Lang    2400
+ gen32a       1993  Genius 68030 v4.00                     32  68030  33  256   768  Richard Lang    2340
+ gen32a_oc    1993  Genius 68030 v4.00 (66 MHz)            32  68030  66  256   768  Richard Lang    2400
+ gen32l       1996  Genius 68030 v5.00 London              32  68030  33  256   768  Richard Lang    2335
+ gen32l_oc    1996  Genius 68030 v5.00 London (66 MHz)     32  68030  66  256   768  Richard Lang    2395
+ glasgow      1984  Glasgow III-S                          16  68000  12   64    16  [ T. Nitsche    1775
+ glasgow_o    1984  Glasgow III-S (Original Speed)         16  68000 7.2   64    16  [     &         1730
+ glasgow_t    1984  Glasgow III-S (Turbo Mode 18x)         16  68000 130   64    16  [ E. Henne      1980
+ lond16       1996  London 16 Bit                          16  68000  12  128   512  Richard Lang    2180
+ lond32       1996  London 32 Bit                          32  68020  12  256  1024  Richard Lang    2220
+ lond32_oc    1996  London 32 Bit (24 MHz)                 32  68020  24  256  1024  Richard Lang    2280
+^lond32t      1996  TM London 68030                        32  68030  36  256  2048  Richard Lang    2335
+^lond32t8     1996  TM London 68030 (WM version)           32  68030  66* 256  8192  Richard Lang    2385
+^lond32t8x    1996  TM London 68040 (experimental)         32  68040 132* 256  8192  Richard Lang    2460
+ lyon16       1990  Lyon 16 Bit                            16  68000  12  128   512  Richard Lang    2160
+ lyon32       1990  Lyon 32 Bit                            32  68020  12  128  1024  Richard Lang    2160
+ lyon32_oc    1990  Lyon 32 Bit (24 MHz)                   32  68020  24  128  1024  Richard Lang    2270
+^lyon32t      1990  TM Lyon 68030                          32  68030  36  128  2048  Richard Lang    2295
+^lyon32t8     1990  TM Lyon 68030 (WM version)             32  68030  66* 128  8192  Richard Lang    2345
+>megaiv       1988  Mega IV (set 1)                         8  6502  4.9   32     8  Ed Schroeder    1955
+>megaiv_10    1988  Mega IV (set 1) (10 MHz)                8  6502   10   32     8  Ed Schroeder    2015
+>megaiva      1988  Mega IV (set 2)                         8  6502  4.9   32     8  Ed Schroeder    1955
+>megaiva_10   1988  Mega IV (set 2) (10 MHz)                8  6502   10   32     8  Ed Schroeder    2015
++mephisto     1980  Mephisto I                              8  1802  3.6*   6     1  [ T. Nitsche    1220
++mephisto1x   1981  Mephisto I X                            8  1802  3.6*  12     2  [     &         1300
++mephisto2    1981  Mephisto II (set 1)                     8  1802  6.1*  12     2  [     &         1400
++mephisto2a   1981  Mephisto II (set 2)                     8  1802  6.1*  12     2  [     &         1400
+^mephisto2e   1981  Mephisto II ESB                         8  1802  6.1*  12     2  [     &         1400
+^mephisto3    1983  Mephisto III                            8  1802  6.1*  32     4  [     &         1505
+^mephisto3b   1983  Mephisto III (ver. B)                   8  1802  6.1*  32     4  [ E. Henne      1505
+ milano       1991  Milano v1.02                            8  6502  4.9   64     8  Ed Schroeder    2005
+ milano10     1991  Milano v1.02 (10 MHz)                   8  6502   10   64     8  Ed Schroeder    2065
+ milanoa      1991  Milano v1.01                            8  6502  4.9   64     8  Ed Schroeder    2005
+ milanoa10    1991  Milano v1.01 (10 MHz)                   8  6502   10   64     8  Ed Schroeder    2065
+^mm1          1983  MM I (ver. A)                           8  1806    8   32     4  [ T. Nitsche    1525
+^mm1b         1983  MM I (ver. B)                           8  1806    8   32     4  [ E. Henne      1525
+ mm2          1985  MM IIa v1                               8  6502  3.7   32     4  Ulf Rathsman    1840
+ mm20         1985  MM II v0                                8  6502  3.7   32     4  Ulf Rathsman    1840
+ mm2a         1985  MM IIa v2                               8  6502  3.7   32     4  Ulf Rathsman    1840
+ mm2b         1985  MM IIa v3                               8  6502  3.7   32     4  Ulf Rathsman    1840
+ mm4          1987  MM IV v3                                8  6502  4.9   32     8  Ed Schroeder    1955
+ mm4a         1987  MM IV v1                                8  6502  4.9   32     8  Ed Schroeder    1955
+ mm4b         1987  MM IV v2                                8  6502  4.9   32     8  Ed Schroeder    1955
+ mm4tk        1987  MM IV TurboKit                          8  6502   18   32     8  Ed Schroeder    2080
+ mm4tk_mr     1987  MM IV TurboKit (modified ROM)           8  6502   18   32     8  Ed Schroeder    2080
+ mm5          1990  MM V 5.1                                8  6502  4.9   32     8  Ed Schroeder    2005
+ mm50         1990  MM V 5.0                                8  6502  4.9   32     8  Ed Schroeder    2005
+ mm5p         1989  Rebel-X (MM V prototype)                8  6502  4.9   48     8  Ed Schroeder    2000
+ mm5ptk       1989  Rebel-X TurboKit (MM V prototype)       8  6502   18   48     8  Ed Schroeder    2115
+ mm5tk        1990  MM V 5.1 TurboKit                       8  6502   18   32     8  Ed Schroeder    2125
+^mmirage      1984  Mirage                                  8  1806    8   16     2  Nitsche/Henne   1545
+>modena       1992  Modena (set 1)                          8  6502  4.2   32     8  Frans Morsch    1965
+>modena_8     1992  Modena (set 1) (8 MHz)                  8  6502    8   32     8  Frans Morsch    2025
+>modenaa      1992  Modena (set 2)                          8  6502  4.2   32     8  Frans Morsch    1965
+>modenaa_8    1992  Modena (set 2) (8 MHz)                  8  6502    8   32     8  Frans Morsch    2025
+>modenab      1992  Modena (set 3)                          8  6502  4.2   32     8  Frans Morsch    1965
+>modenab_8    1992  Modena (set 3) (8 MHz)                  8  6502    8   32     8  Frans Morsch    2025
+^mondial      1985  Mondial                                 8  6502    2   16     2  Frans Morsch    1745
+>mondial2     1987  Mondial II                              8  6502    2   32     2  Frans Morsch    1800
+^mondl68k     1988  Mondial 68000XL                        16  68000  12   64    16  Richard Lang    2005
+ montec       1987  Monte Carlo v1 (4/8 MHz)                8  6502    4*  32     8  Frans Morsch    1880
+ montec2      1987  Monte Carlo v2 (4/8 MHz)                8  6502    4*  32     8  Frans Morsch    1880
+ monteciv     1990  Monte Carlo IV LE (4/8 MHz)             8  6502    8*  32     8  Ed Schroeder    2015
+ montreux     1995  Montreux v1.00 (14/30/40 MHz)          32  ARM6   14* 256  2048  J. de Koning    2260
+>mrisc        1992  Risc                                   32  ARM2   14  128  1024  Ed Schroeder    2260
+>mrisc_28     1992  Risc (28 MHz)                          32  ARM2   28  128  1024  Ed Schroeder    2320
+>mrisc2       1994  Risc II                                32  ARM2   14  128  1024  Ed Schroeder    2260
+>mrisc2_28    1994  Risc II (28 MHz)                       32  ARM2   28  128  1024  Ed Schroeder    2320
+ nshort       1993  Nigel Short (Milano v2.0)               8  6502  4.9   64     8  Ed Schroeder    2030
+ nshort10     1993  Nigel Short (Milano v2.0) (10 MHz)      8  6502   10   64     8  Ed Schroeder    2090
+ nshort20     1993  Nigel Short (Milano v2.0) (20 MHz)      8  6502   20   64     8  Ed Schroeder    2150
+ polgar       1989  Polgar v1.5                             8  6502  4.9   64     8  Ed Schroeder    1975
+ polgar10     1990  Polgar v10.0                            8  6502   10   64     8  Ed Schroeder    2085
+ polgar101    1990  Polgar v10.1                            8  6502   10   64     8  Ed Schroeder    2085
+ port16       1989  Portorose 16 Bit v1.01                 16  68000  12  128   512  Richard Lang    2145
+ port32       1989  Portorose 32 Bit v1.03                 32  68020  12  128  1024  Richard Lang    2145
+ port32_oc    1989  Portorose 32 Bit v1.03 (24 MHz)        32  68020  24  128  1024  Richard Lang    2240
+ port32a      1989  Portorose 32 Bit v1.01                 32  68020  12  128  1024  Richard Lang    2145
+ port32a_oc   1989  Portorose 32 Bit v1.01 (24 MHz)        32  68020  24  128  1024  Richard Lang    2240
+^port32t      1989  TM Portorose 68030                     32  68030  36  128  2048  Richard Lang    2270
+ rebel5       1986  Rebell 5.0 v2                           8  6502  4.9   32     8  Ed Schroeder    1870
+ rebel50      1986  Rebell 5.0 v1                           8  6502  4.9   32     8  Ed Schroeder    1870
+ rebel5tk     1986  Rebell 5.0 TurboKit                     8  6502   18   32     8  Ed Schroeder    1990
+ roma16       1987  Roma 68000                             16  68000  12   64    16  Richard Lang    2005
+ roma16a      1987  Roma 68000 (old)                       16  68000  12   64    16  Richard Lang    2005
+ roma32       1987  Roma 68020                             32  68020  14   64    64  Richard Lang    2075
+>smondial     1986  Super Mondial A                         8  6502    4   32     8  Frans Morsch    1880
+>smondial_8   1986  Super Mondial A (8 MHz)                 8  6502    8   32     8  Frans Morsch    1940
+>smondialab   1986  Super Mondial AB                        8  6502    4   32     8  Frans Morsch    1880
+>smondialab_8 1986  Super Mondial AB (8 MHz)                8  6502    8   32     8  Frans Morsch    1940
+>smondialb    1986  Super Mondial B                         8  6502    4   32     8  Frans Morsch    1880
+>smondialb_8  1986  Super Mondial B (8 MHz)                 8  6502    8   32     8  Frans Morsch    1940
+>smondial2    1988  Super Mondial II                        8  6502    4   32     8  Ed Schroeder    1940
+>smondial2_8  1988  Super Mondial II (8 MHz)                8  6502    8   32     8  Ed Schroeder    2000
+ van16        1991  Vancouver 16 Bit                       16  68000  12  256   512  Richard Lang    2180
+ van32        1991  Vancouver 32 Bit                       32  68020  12  256  1024  Richard Lang    2220
+ van32_oc     1991  Vancouver 32 Bit (24 MHz)              32  68020  24  256  1024  Richard Lang    2260
+^van32t       1991  TM Vancouver 68030                     32  68030  36  256  2048  Richard Lang    2335
+^van32t8      1991  TM Vancouver 68030 (WM version)        32  68030  66* 256  8192  Richard Lang    2385
+
+ NOVAG
+ =====                                                              Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
++ccdelta1     1979  Chess Champion Delta-1                  8  F8      2    4  256B  ????             685
+ ccmk1        1978  Chess Champion MK I                     8  F8    1.8*   2  256B  D.B. Goodrich    760
+ ccmk2        1979  Chess Champion MK II (ver. 1)           8  6504    1*   5  320B  P. Jennings      815
++ccmk2a       1979  Chess Champion MK II (ver. 2)           8  6504    1    5  320B  P. Jennings      815
+ chesstrv     1980  Chess Champion Pocket Chess             8  F8      4*   2  320B  M. Johnson      1060
+ cfortea      1986  Constellation Forte A (4-20 MHz)        8  6502    5*  64     4  D. Kittinger    1930
+ cforteb      1986  Constellation Forte B (4-20 MHz)        8  6502    5*  64     4  D. Kittinger    1885
+^const        1983  Constellation                           8  6502    2   16     2  D. Kittinger    1695
+^const36      1984  Constellation 3.6 (set 1)               8  6502  3.6   16     2  D. Kittinger    1750
+^const36a     1986  Constellation 3.6 (Set 2)               8  6502  3.6   16     2  D. Kittinger    1680
+^constq       1986  Constellation Quattro                   8  6502    4   16     2  D. Kittinger    1685
+^cp2000       1980  Chess Champion Chess Partner 2000       8  F8      2    4  256B  M. Johnson      1000
+ diablo68     1991  Diablo 68000 (16 MHz)                  16  68000  16   96    80  D. Kittinger    2040
+ diablo_20    1991  Diablo 68000 (20 MHz)                  16  68000  20   96    80  D. Kittinger    2060
+ diablo_24    1991  Diablo 68000 (24 MHz)                  16  68000  24   96    80  D. Kittinger    2075
+ nocto        1987  Octo (6/12/15 MHz)                      8  80C49  15*   2  128B  D. Kittinger    1070
+ npresto      1984  Presto (6/12/15 MHz)                    8  80C49  12*   2  128B  D. Kittinger    1050
+^savant       1981  Savant                                  8  Z80     6   24     4  D. Kittinger    1365
+^savant2      1982  Savant II                               8  Z80     6   32     4  D. Kittinger    1460
+ scorpio68    1991  Scorpio 68000 (16/20/24 MHz)           16  68000  16*  96    80  D. Kittinger    2040
+ sexperta     1988  Super Expert A v2 (5-10 MHz)            8  6502    6*  96     8  D. Kittinger    2010
+ sexperta1    1987  Super Expert A v1 (5-9 MHz)             8  6502    5*  96     8  D. Kittinger    1865
+ sexpertb     1988  Super Expert B (5-10 MHz)               8  6502    6*  96     8  D. Kittinger    2010
+ sexpertc     1990  Super Expert C v3.6 (5-10 MHz)          8  6502    6*  96     8  D. Kittinger    2040
+ sexpertc1    1990  Super Expert C v1.2 (5-10 MHz)          8  6502    6*  96     8  D. Kittinger    2040
+ sfortea      1987  Super Forte A v3 (5-10 MHz)             8  6502    5*  96     8  D. Kittinger    1865
+ sfortea1     1987  Super Forte A v1 (5-10 MHz)             8  6502    5*  96     8  D. Kittinger    1865
+ sfortea2     1987  Super Forte A v2 (5-10 MHz)             8  6502    5*  96     8  D. Kittinger    1865
+ sforteb      1989  Super Forte B (5-10 MHz)                8  6502    6*  96     8  D. Kittinger    2010
+ sfortec      1990  Super Forte C (5-10 MHz)                8  6502    6*  96     8  D. Kittinger    2040
+^ssensor4     1981  Super Sensor IV                         8  6502    2    8     1  D. Kittinger    1200
++ssystem3     1979  Chess Champion Super System III         8  6502    2    8     1  David Levy      1110
+ supercon     1984  Super Constellation (4-18 MHz)          8  6502    4*  56     4  D. Kittinger    1810
+ superc_n     1984  Super-Constellation (Normal 4 MHz)      8  6502    4   56     4  D. Kittinger    1810
+ superc_t     1984  Super-Constellation (Tuned 18 MHz)      8  6502   18   56     4  D. Kittinger    2050
+
+ SAITEK
+ ======                                                             Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+^ccmk5        1981  Chess Champion Mark V                   8  6502    2   32    16  [ D.Broughton   1465
+^ccmk6        1982  Chess Champion Mark VI Philidor         8  6502    2   32    16  [ M.Taylor      1385
+^corona       1990  Corona II (ver. D+)                     8  6502    5*  64     8  Julio Kaplan    1930
+^coronaa      1988  Corona (ver. C)                         8  6502    5*  64     8  Julio Kaplan    1930
+ risc2500     1992  RISC 2500 v1.04 (14-40 MHz)            32  ARM6   14* 128  2048  J. de Koning    2240
+ risc2500a    1992  RISC 2500 v1.03 (14-40 MHz)            32  ARM6   14* 128  2048  J. de Koning    2240
+^sstar28k     1983  Superstar 28K                           8  6502    2   24     4  Julio Kaplan    1570
+^stratos      1987  Stratos (set 1)                         8  6502  5.7*  64    16  Julio Kaplan    1820
+^stratosa     1987  Stratos (set 2)                         8  6502  5.7*  64    16  Julio Kaplan    1820
+^tking        1990  Turbo King II (ver. D+)                 8  6502    5*  64    16  Julio Kaplan    1890
+^tkinga       1988  Turbo King (ver. B, set 1)              8  6502    5*  64    16  Julio Kaplan    1885
+^tkingb       1988  Turbo King (ver. B, set 2)              8  6502    5*  64    16  Julio Kaplan    1885
+^tstar432     1985  Turbostar 432                           8  6502    4   32     8  Julio Kaplan    1770
+
+ TASC
+ ======                                                             Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+^tascr30      1993  ChessSystem R30 v1.01 (The King 2.50)  32  ARM6   30  256   512  J. de Koning    2370
+^tascr30a     1993  ChessSystem R30 v0.31 (The King 2.20)  32  ARM6   30  256   512  J. de Koning    2365
+^tascr30b     1993  ChessSystem R30 v0.31 (The King 2.23)  32  ARM6   30  256   512  J. de Koning    2380
+^tascr30g     1993  ChessSystem R30 v0.31 (Gideon 2.1)     32  ARM6   30  256   512  Ed Schroeder    2320
+^tascr40      1994  ChessSystem R40 v1.01 (The King 2.50)  32  ARM6   40  256  1024  J. de Koning    2400
+^tascr40a     1994  ChessSystem R40 v0.31 (The King 2.20)  32  ARM6   40  256  1024  J. de Koning    2395
+^tascr40b     1994  ChessSystem R40 v0.31 (The King 2.23)  32  ARM6   40  256  1024  J. de Koning    2410
+^tascr40g     1994  ChessSystem R40 v0.31 (Gideon 2.1)     32  ARM6   40  256  1024  Ed Schroeder    2350
+
+ VEB
+ ===                                                                Freq. ROM   RAM
+ Module       Year  Chess computer                         Bit  CPU  MHz   kB    kB  Program author   Elo
+-----------------------------------------------------------------------------------------------------------
+ chessmst     1984  ChessMaster CM                          8  U880  2.5   10     2  [ D. Schultze   1100
+ chessm_4     1985  ChessMaster CM (4 MHz)                  8  U880    4   10     2  [     &         1150
+-chessmsta    1985  ChessMaster CM v2 (4 MHz)               8  U880    4   10     2  [ R. Worbs      1150
+ chessmstdm   1987  ChessMaster Diamond (PM10/PM11)         8  U880    4   16     3  [ W. Pähtz      1190
+ sc1          1981  Schachcomputer SC-1                     8  U880  2.5    9     1  Ron Nelson      ----
+ sc1_4        1981  Schachcomputer SC-1 (4 MHz)             8  U880    4    9     1  Ron Nelson      ----
+ sc2          1981  Schachcomputer SC-2                     8  U880  2.5    9     1  Ron Nelson      ----
+ sc2_4        1981  Schachcomputer SC-2 (4 MHz)             8  U880    4    9     1  Ron Nelson      ----
+ slc1         1989  Schach- und Lerncomputer SLC-1          8  U880  2.5    4     1  D.Scheuschner   ----
+ slc10        1989  Schach- und Lerncomputer SLC-1 v0       8  U880  2.5    4     1  D.Scheuschner   ----

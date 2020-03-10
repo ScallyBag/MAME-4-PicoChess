@@ -1,0 +1,35 @@
+[Blz05m game]
+level = 5 min/game
+
+[Blz10m game]
+level = 10 min/game
+
+[Blz15m game]
+level = 15 min/game
+
+[Blz30m game]
+level = 30 min/game
+
+[Blz60m game]
+level = 60 min/game
+
+[Move 01s]
+level = 1 sec/move
+
+[Move 05s]
+level = 5 sec/move
+
+[Move 10s]
+level = 10 sec/move
+
+[Move 30s]
+level = 30 sec/move
+
+[Tourn 40m2h]
+level = 40/2:00 moves/hrs
+
+[Easy5m/game]
+level = 5 min/game
+
+[Easy5s/move]
+level = 5 sec/move

@@ -1,0 +1,29 @@
+[Normal1 5s]
+level = NORML 01
+
+[Normal2 10s]
+level = NORML 02
+
+[Normal3 15s]
+level = NORML 03
+
+[Normal4 30s]
+level = NORML 04
+
+[Blitz 2 5m]
+level = BLITZ 02
+
+[Blitz 5 15m]
+level = BLITZ 05
+
+[Blitz 7 30m]
+level = BLITZ 07
+
+[Blitz 9 60m]
+level = BLITZ 09
+
+[HandC 4 50%]
+level = HANDC 04
+
+[Beginner 03]
+level = EASY 03
