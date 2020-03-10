@@ -1,0 +1,3 @@
+interface = {}
+
+return interface
