@@ -10,7 +10,7 @@ wait
 # Download MAME
 echo "Downloading MAME as mame_emulation, this will take a while"
 cd ~/
-#sudo git clone https://github.com/mamedev/mame/ mame_emulation
+sudo git clone https://github.com/mamedev/mame/ mame_emulation
 wait
 
 # Move mame_emulation to /opt/picochess/engines/
