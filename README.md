@@ -9,6 +9,7 @@ Please be patient and bare in mind that:
 * Certain functions like 'Alternate Move' & 'Take Back' do not work
 * Loading some Engines, resetting the pieces to 'New Game' and closing or rebooting PicoChess can take a while
 * You will need to match any time shown in the level settings by setting the same or similar times within the Time settings 
+* Not all levels are included for each engine, read the associated Computer Chess Manual or study the lua file for more info 
  
 100% emulation speed for all Engines is only guarenteed on the RPi 4b however only 12 emulations run slower than this on my RPi 3b+, these are:
  
@@ -38,17 +39,30 @@ Warning: -video none doesn't make much sense without -seconds_to_run
 uci  
 id name Mephisto MM V (set 1) (mess 0.219)  
 option name Speed type spin default 100 min 0 max 10000  
-option name Level type string default level 1  
+option name Level type string default le 1  
 uciok  
 quit  
 Average speed: 100.00% (8 seconds)  
  
-I will list what updates are required and which prerequisite programs to install.
+# Install instructions:
+
+* Update your Buster system via 
+sudo apt update && sudo apt upgrade
  
-I will also create a Bash file with comments and text to download the relevant code, copy it to the required folders and to explain the process.
+* Install the following Packages:
+sudo apt install git build-essential python libsdl2-dev libsdl2-ttf-dev libfontconfig-dev qt5-default zip unzip git
+
+* Install My MAME GutHub repository:
+sudo git clone https://github.com/ScallyBag/MAME-4-PicoChess
+
+* Change folders to the newly installed repository:
+cd ~/MAME-4-PicoChess
+
+* Run my Bash file to install everything else:
+sudo ./AddMAME.sh
  
+* Reboot and enjoy either partial MAME or full MAME 
  
-* More to come
  
  
 Al.
