@@ -9,9 +9,9 @@ Please be patient and bare in mind that:
 * Certain functions like 'Alternate Move' & 'Take Back' do not work
 * Loading some Engines, resetting the pieces to 'New Game' and closing or rebooting PicoChess can take a while
 * You will need to match any time shown in the level settings by setting the same or similar times within the Time settings 
-* Not all levels are included for each engine, read the associated Computer Chess Manual or study the lua file for more info 
+* Not all levels are included for each Engine, read the associated Computer Chess Manual or study the lua file for more Info 
  
-100% emulation speed for all Engines is only guarenteed on the RPi 4b however only 12 emulations run slower than this on my RPi 3b+, these are:
+100% emulation speed for all Engines is only guaranteed on the RPi 4b however only 12 emulations run slower than this on my RPi 3b+, these are:
  
 arbv2 running at 70%  
 feag running at 60%  
@@ -44,26 +44,27 @@ uciok
 quit  
 Average speed: 100.00% (8 seconds)  
  
-# Install instructions:
+# Install Instructions:
 
-* Update your Buster system via 
+* Update your Buster system:  
 sudo apt update && sudo apt upgrade
  
-* Install the following Packages:
+* Install the following Packages:  
 sudo apt install git build-essential python libsdl2-dev libsdl2-ttf-dev libfontconfig-dev qt5-default zip unzip git
 
-* Install My MAME GutHub repository:
+* Install My MAME GutHub repository:  
 sudo git clone https://github.com/ScallyBag/MAME-4-PicoChess
 
-* Change folders to the newly installed repository:
+* Change folders to the newly installed repository:  
 cd ~/MAME-4-PicoChess
 
-* Run my Bash file to install everything else:
-sudo ./AddMAME.sh
+* Run my fully commented Bash file to install everything else:  
+sudo ./AddMAME.sh  
  
 * Reboot and enjoy either partial MAME or full MAME 
  
- 
+  
+  
  
 Al.
   
