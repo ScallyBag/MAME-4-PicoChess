@@ -24,27 +24,27 @@ lond32t8 running at 49%
 lyon32t8 running at 47%
 tascr30_gideon running at 45%
 tascr30_king running at 47%
- 
+  
 To monitor the speed percentage in your environment, navigate to /opt/picochess/engines/armv7l and type:
  
 sudo ./engname  (i.e. sudo ./mm5)
 uci
 quit
 a speed %age will then be shown, e.g:
-
+ 
 Al@PicoChess:/opt/picochess/engines/armv7l $ sudo ./mm5
 Error opening translation file English
 Warning: -video none doesn't make much sense without -seconds_to_run
 uci
 id name Mephisto MM V (set 1) (mess 0.219)
 option name Speed type spin default 100 min 0 max 10000
-option name Level type string default le 1
+option name Level type string default level 1
 uciok
 quit
 Average speed: 100.00% (8 seconds)
-  
+ 
 I will list what updates are required and which prerequisite programs to install.
-
+ 
 I will also create a Bash file with comments and text to download the relevant code, copy it to the required folders and to explain the process.
  
  
