@@ -19,7 +19,7 @@ sleep 1
 sudo mv -vn ~/mame_emulation/ /opt/picochess/engines/
 
 # Copy the provided mess compile to mame_emulation
-echo "Unzipping & Copying mess to mame_emulation and initialise it"
+echo "Unzip & Copy mess to mame_emulation and initialise it"
 sleep 1
 cd ~/MAME-4-PicoChess/files/
 sudo unzip mess.zip
@@ -30,19 +30,19 @@ cd /opt/picochess/engines/mame_emulation/
 sudo ./mess -cc
 
 # Copy Dirk's lua files for the PicoChess interface
-echo "Copy Dirk's interface lua files to mame_emulation"
+echo "Copy Dirk's lua interface files to mame_emulation"
 sleep 1
 cd ~/MAME-4-PicoChess/files/
 sudo cp -r plugins /opt/picochess/engines/mame_emulation/
 
 # Copy the provided lua files to mame_emulation
-echo "Copy the Engine lua interfaces to mame_emulation"
+echo "Copy the lua Engine interfaces to mame_emulation"
 sleep 1
 cd ~/MAME-4-PicoChess/files/interfaces/
 sudo cp -r *.lua /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/
 
 # Copy Dirk's lua plugins for some engines
-echo "Copy Dirk's engine lua plugins for some engines"
+echo "Copy Dirk's lua Engine plugins for some engines"
 sleep 1
 cd /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/molli-plugins/
 sudo cp -r *.lua /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/
@@ -63,6 +63,10 @@ sudo mv -vn armv7l armv7lPICO
 sudo cp -r armv7l-MAME-part armv7l
 #sudo cp -r armv7l-MAME-full armv7l  #if you have all ROMs
 
-echo "You can revert to your existing engines by copying armv7lPICO to armv7l, this still keeps a copy of them plus the 2 possible MAME engine folders"
+echo "You can revert to your existing engines by copying armv7lPICO to armv7l"
+echo "This still keeps a copy of your original engines folder plus the 2 possible MAME engine folders"
 sleep 1
-echo "Now reboot and enjoy the 6 MAME engines. If you find the full set of ROMs copy them to /opt/picochess/engines/mame_emulation/roms/  and then copy /opt/picochess/engines/armv7l-MAME-full as armv7l instead"
+echo "Now reboot and enjoy the 6 MAME engines"
+echo "If you find the full set of ROMs, copy them to /opt/picochess/engines/mame_emulation/roms/"
+echo "You will also need to copy /opt/picochess/engines/armv7l-MAME-full/ as /opt/picochess/engines/armv7l/ to play them"
+echo "I can't provide the location of these ROMs, so please don't ask"

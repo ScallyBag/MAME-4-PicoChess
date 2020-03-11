@@ -10,6 +10,7 @@ Please be patient and bare in mind that:
 * Loading some Engines, resetting the pieces to 'New Game' and closing or rebooting PicoChess can take a while
 * You will need to match any time shown in the level settings by setting the same or similar times within the Time settings 
 * Not all levels are included for each Engine, read the associated Computer Chess Manual or study the lua file for more Info 
+* Copyright prevents me from telling you where to find the complete ROM set, so please don't ask
  
 100% emulation speed for all Engines is only guaranteed on the RPi 4b however only 12 emulations run slower than this on my RPi 3b+, these are:
  
@@ -62,11 +63,10 @@ cd ~/MAME-4-PicoChess
 sudo ./AddMAME.sh  
  
 * Reboot and enjoy either partial MAME or full MAME 
- 
   
   
- 
+  
 Al.
   
 ScallyCoops@gmail.com
- 
+  
