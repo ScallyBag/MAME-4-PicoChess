@@ -62,7 +62,7 @@ cd ~/MAME-4-PicoChess
 * Run my fully commented Bash file to install everything else:  
 sudo ./AddMAME.sh  
  
-* Reboot and enjoy either partial MAME or full MAME 
+* Reboot and enjoy
   
   
   
