@@ -1,3 +1,4 @@
+
 #!/bin/bash
 # Download and distribute the files required for MAME-4-PicoChess
 
@@ -19,7 +20,7 @@ sleep 1
 sudo mv -vn ~/mame_emulation/ /opt/picochess/engines/
 
 # Copy the provided mess compile to mame_emulation
-echo "Unzip & Copy mess to mame_emulation and initialise it"
+echo "Unzip & Copy my compiled mess file to mame_emulation and initialise it"
 sleep 1
 cd ~/MAME-4-PicoChess/files/
 sudo unzip mess.zip
@@ -48,7 +49,7 @@ cd /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/molli-pl
 sudo cp -r *.lua /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/
 
 # Copy the ROMs allowed from Ed Schröder's Rebel13 site:
-echo "Copy the allowed ROMs from Ed Schröder's Rebel13 site, this is also where you copy the full set of ROMs"
+echo "Copy the allowed ROMs from Ed Schröder's Rebel13 site"
 sleep 1
 cd ~/MAME-4-PicoChess/files/roms/
 sudo cp *.zip /opt/picochess/engines/mame_emulation/roms/
@@ -63,10 +64,11 @@ sudo mv -vn armv7l armv7lPICO
 sudo cp -r armv7l-MAME-part armv7l
 #sudo cp -r armv7l-MAME-full armv7l  #if you have all ROMs
 
-echo "You can revert to your existing engines by copying armv7lPICO to armv7l"
+echo "You can revert to your existing engines by deleting armv7l & copying armv7lPICO to armv7l"
 echo "This still keeps a copy of your original engines folder plus the 2 possible MAME engine folders"
-sleep 1
 echo "Now reboot and enjoy the 6 MAME engines"
+sleep 1
+echo  ""
 echo "If you find the full set of ROMs, copy them to /opt/picochess/engines/mame_emulation/roms/"
 echo "You will also need to copy /opt/picochess/engines/armv7l-MAME-full/ as /opt/picochess/engines/armv7l/ to play them"
 echo "I can't provide the location of these ROMs, so please don't ask"
