@@ -1,4 +1,3 @@
-
 #!/bin/bash
 # Download and distribute the files required for MAME-4-PicoChess
 
