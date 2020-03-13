@@ -10,9 +10,9 @@ Please be patient and bare in mind that:
 * Loading some Engines, resetting the pieces to 'New Game' and closing or rebooting PicoChess can take a while
 * You will need to match any time shown in the level settings by setting the same or similar times within the Time settings 
 * Not all levels are included for each Engine, read the associated Computer Chess Manual or study the lua file for more Info 
-* Copyright prevents me from telling you where to find the complete ROM set, so please don't ask or post the address, if found
+* Copyright prevents me from telling you where to find the complete ROM set, so please don't ask or post the address
   
-We extend our Thanks to the Author for all his hard work and allowing us to use his lua files 
+We extend our thanks to the Author for all his hard work and allowing us to use his lua files 
   
 100% emulation speed for all Engines is guaranteed on the RPi 4b however only a few emulations run slower on earlier RPi's
   
