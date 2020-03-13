@@ -8,10 +8,10 @@ Please be patient and bare in mind that:
 * This is still a work in progress
 * Certain functions like 'Alternate Move' & 'Take Back' do not work
 * Loading some Engines, resetting the pieces to 'New Game' and closing or rebooting PicoChess can take a while
-* You will need to match any time shown in the level settings by setting the same or similar times within the Time settings 
-* Select 'No Book' in the Book menu, each Engine will then use it's own built in books file 
+* You will need to match any time shown in the level settings by setting the same or similar times within the Time menu 
+* Select 'No Book' in the Book menu, each Engine will then use it's own built in books file
 * Not all Levels are included for each Engine, read the associated Computer Chess Manual or study the lua file for more information 
-* Copyright prevents us from telling you where to find the complete ROM set, so please don't ask. However should you find the ROMs you can legally use those of any Chess Computer you own, but please don't the address
+* Copyright prevents us from telling you where to find the complete ROM set, so please don't ask. However should you find the ROMs you can legally use those of any Chess Computer you own, but please don't post the address
   
 We extend our thanks to the Author for all his hard work and for allowing us to use his lua files 
   
