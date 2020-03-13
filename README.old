@@ -5,18 +5,29 @@
 This will only work on pre-existing PicoChess systems running on Raspbian Buster on a RPi 3, RPi 3b+ or RPi 4b.
  
 Please be patient and bare in mind that:
-* This is still work on progress
+* This is still work in progress
 * Certain functions like 'Alternate Move' & 'Take Back' do not work
 * Loading some Engines, resetting the pieces to 'New Game' and closing or rebooting PicoChess can take a while
 * You will need to match any time shown in the level settings by setting the same or similar times within the Time settings 
 * Not all levels are included for each Engine, read the associated Computer Chess Manual or study the lua file for more Info 
 * Copyright prevents me from telling you where to find the complete ROM set, so please don't ask
+ 
+100% emulation speed for all Engines is only guaranteed on the RPi 4b however only 12 emulations run slower than this on my RPi 3b+, these are:
+ 
+arbv2 running at 70%  
+feag running at 60%  
+feagv10 running at 85%  
+feagv11 no %age given  
+feasbu running at 86%  
+fepriv running at 72%  
+fscc12 running at 60%  
+gen32 running at 72%  
+lond32t8 running at 49%  
+lyon32t8 running at 47%  
+tascr30_gideon running at 45%  
+tascr30_king running at 47%  
   
-We extend our gratitude to Franz Huber for all his hard work and allowing us to use his lua files 
-  
-100% emulation speed for all Engines is guaranteed on the RPi 4b however only a few emulations run slower on earlier RPi's
-  
-To monitor the speed in your environment, navigate to /opt/picochess/engines/armv7l and type:
+To monitor the speed percentage in your environment, navigate to /opt/picochess/engines/armv7l and type:
  
 sudo ./engname  (i.e. sudo ./mm5)  
 uci  
