@@ -5,7 +5,7 @@
 This will only work on pre-existing PicoChess systems running on Raspbian Buster on a RPi 3, RPi 3b+ or RPi 4b.
  
 Please be patient and bare in mind that:
-* This is still a work on progress
+* This is still a work in progress
 * Certain functions like 'Alternate Move' & 'Take Back' do not work
 * Loading some Engines, resetting the pieces to 'New Game' and closing or rebooting PicoChess can take a while
 * You will need to match any time shown in the level settings by setting the same or similar times within the Time settings 
@@ -21,7 +21,7 @@ To monitor the speed in your environment, navigate to /opt/picochess/engines/arm
 sudo ./engname  (i.e. sudo ./mm5)  
 uci  
 quit  
-an avergage speed percentage will then be shown, e.g. :  
+an average speed percentage will then be shown, e.g. :  
  
 Al@PicoChess:/opt/picochess/engines/armv7l $ sudo ./mm5  
 Error opening translation file English  
