@@ -417,30 +417,13 @@ local function set_option(name, value)
 	end
 end
 
--- split a string --molli for Picochess
-local function split(self, delimiter)
-    local result = { }
-    local from  = 1
-    local delim_from, delim_to = string.find( self, delimiter, from  )
-
-    while delim_from do
-    table.insert( result, string.sub( self, from , delim_from-1 ) )
-    from  = delim_to + 1
-        delim_from, delim_to = string.find( self, delimiter, from  )
-    end
-    table.insert( result, string.sub( self, from  ) )
-    return result
-end
-
 local function execute_uci_command(cmd)
-
-    local s_uci = "" --molli for Picochess
-
-    if string.find(cmd, " ") then
-        s_uci = split(cmd, " ")
-    end
-
-
+	if cmd:match("^position fen") ~= nil then
+		local m = cmd:find("moves")
+		if m ~= nil then
+                        cmd = "position startpos " .. cmd:sub(m)
+		end
+	end
 	if cmd == "uci" then
 		protocol = cmd
 		send_cmd("id name " .. describe_system())
@@ -506,21 +489,6 @@ local function execute_uci_command(cmd)
 				interface.start_play(not game_started)
 			end
 		end
-    elseif string.len(cmd) > 15 and s_uci[1] == "position" and s_uci[2] == "fen" then
-        -- molli for Picochess
-        game_started = true
-        local last_move = ""
-        -- molli: support position fen uci command
-        if s_uci[9] == "moves" then
-            -- MOVE handing
-            for i=10,#s_uci do
-            last_move = s_uci[i]  -- this will be last new move
-            end --for
-            make_move(last_move, "", true)
-            piece_from = nil
-            piece_to = nil
-            sel_started = false
-        end
 	else
 		manager:machine():logerror("Unhandled UCI command '" .. cmd .. "'")
 	end

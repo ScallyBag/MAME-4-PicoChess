@@ -46,6 +46,8 @@ echo "Copy Dirk's lua Engine plugins for some engines"
 sleep 1
 cd /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/molli-plugins/
 sudo cp -r *.lua /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/
+cd /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/
+sudo rm -rf molli-plugins
 
 # Copy the ROMs allowed from Ed Schröder's Rebel13 site:
 echo "Copy the allowed ROMs from Ed Schröder's Rebel13 site"
