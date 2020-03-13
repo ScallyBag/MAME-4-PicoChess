@@ -41,7 +41,7 @@ Average speed: 100.00% (8 seconds)
 sudo apt update && sudo apt upgrade
  
 * Install the following Packages:  
-sudo apt install git build-essential libsdl2-dev libsdl2-ttf-dev libfontconfig-dev qt5-default zip unzip
+sudo apt install git build-essential libsdl2-dev libsdl2-ttf-dev libfontconfig1-dev qt5-default zip unzip
 
 * Install My MAME GitHub repository:  
 cd ~/  
