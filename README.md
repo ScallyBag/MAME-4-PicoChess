@@ -51,7 +51,7 @@ sudo git clone https://github.com/ScallyBag/MAME-4-PicoChess
 cd ~/MAME-4-PicoChess
 
 * Run my fully commented Bash file to install everything else:  
-sudo ./AddMAME.sh  
+./AddMAME.sh  
  
 * Reboot and enjoy
   
