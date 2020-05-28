@@ -1,4 +1,0 @@
-#!/bin/bash
-
-cd /opt/picochess/engines/mame_emulation; SDL_VIDEODRIVER=dummy /opt/picochess/engines/mame_emulation/mess -skip_gameinfo -lightgunprovider none -video none -plugin chessengine risc2500
-

@@ -1,0 +1,35 @@
+[S-40/2h]
+speed = 0
+level = 6
+
+[0-1s move]
+level = 0
+
+[1-3s move]
+level = 1
+
+[2-10s move]
+level = 2
+
+[3-30s move]
+level = 3
+
+[4-60s move]
+level = 4
+
+[5-2m move]
+level = 5
+
+[6-3m move]
+level = 6
+
+[7-6m move]
+level = 7
+
+[8-12m move]
+level = 8
+
+[9-Analysis]
+level = 9
+
+

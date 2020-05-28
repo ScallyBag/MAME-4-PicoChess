@@ -1,5 +1,10 @@
 #!/bin/bash
-# Download and distribute the files required for MAME-4-PicoChess
+# Distribute the files required for MAME-4-PicoChess
+
+clear
+echo "This will not work alongside my new Switchable Image as the folder names have changed"
+echo "Hit CTRL C to cancel this Bash script"
+sleep 7
 
 # Closing PicoChess
 clear
@@ -7,69 +12,30 @@ echo "Closing PicoChess"
 sudo service picochess stop
 wait
 
-# Download MAME
-echo "Downloading MAME as mame_emulation, this will take a while"
-cd ~/
-sudo git clone https://github.com/mamedev/mame/ mame_emulation
-wait
-
 # Move mame_emulation to /opt/picochess/engines/
-echo "Moving mame_emulation to /opt/picochess/engines/ unless it exists"
+cd ~/MAME-4-PicoChess/mame_emulation
+echo ""
+echo "Unzipping mess & copying mame_emulation to /opt/picochess/engines"
 sleep 1
-sudo mv -vn ~/mame_emulation/ /opt/picochess/engines/
-
-# Copy the provided mess compile to mame_emulation
-echo "Unzip & Copy my compiled mess file to mame_emulation and initialise it"
-sleep 1
-cd ~/MAME-4-PicoChess/files/
 sudo unzip mess.zip
 wait
-sudo cp -r mess /opt/picochess/engines/mame_emulation/
-wait
-cd /opt/picochess/engines/mame_emulation/
-sudo ./mess -cc
+rm mess.zip
+./mess -cc 
+cd ~/MAME-4-PicoChess
+sudo cp -r mame_emulation /opt/picochess/engines
 
-# Copy Dirk's lua files for the PicoChess interface
-echo "Copy Dirk's lua interface files to mame_emulation"
+# Rename your existing armv7l to armv7lPICO and copy the armv7l-MAME file to /opt/picochess/engines
+echo ""
+echo "Renaming your existing armv7l to armv7lPICO (unless it exists) and applying the armv7l-MAME folder"
 sleep 1
-cd ~/MAME-4-PicoChess/files/
-sudo cp -r plugins /opt/picochess/engines/mame_emulation/
-
-# Copy the provided lua files to mame_emulation
-echo "Copy the lua Engine interfaces to mame_emulation"
-sleep 1
-cd ~/MAME-4-PicoChess/files/interfaces/
-sudo cp -r *.lua /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/
-
-# Copy Dirk's lua plugins for some engines
-echo "Copy Dirk's lua Engine plugins for some engines"
-sleep 1
-cd /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/molli-plugins/
-sudo cp -r *.lua /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/
-cd /opt/picochess/engines/mame_emulation/plugins/chessengine/interfaces/
-sudo rm -rf molli-plugins
-
-# Copy the ROMs allowed from Ed Schröder's Rebel13 site:
-echo "Copy the allowed ROMs from Ed Schröder's Rebel13 site"
-sleep 1
-cd ~/MAME-4-PicoChess/files/roms/
-sudo cp *.zip /opt/picochess/engines/mame_emulation/roms/
-
-# Rename your existing armv7l to armv7lPICO and copy the relevant armv7l file to /opt/picochess/engines/
-echo "Rename your existing armv7l to armv7lPICO (unless it exists) and copy the 2 armv7l folders for part & full ROMs"
-sleep 1
-cd ~/MAME-4-PicoChess/files/
-sudo cp -r armv7l-MAME-* /opt/picochess/engines/
-cd /opt/picochess/engines/
+sudo cp -r armv7l-MAME /opt/picochess/engines
+cd /opt/picochess/engines
 sudo mv -vn armv7l armv7lPICO
-sudo cp -r armv7l-MAME-part armv7l
-#sudo cp -r armv7l-MAME-full armv7l  #if you have all ROMs
+sudo cp -r armv7l-MAME armv7l
 
+echo ""
 echo "You can revert to your existing engines by deleting armv7l & copying armv7lPICO to armv7l"
-echo "This still keeps a copy of your original engines folder plus the 2 possible MAME engine folders"
+echo "This will still keep a copy of your original engine folder plus the armv7l-MAME engine folder"
 echo "Now reboot and enjoy the 6 MAME engines"
-sleep 1
 echo  ""
-echo "If you find the full set of ROMs, copy them to /opt/picochess/engines/mame_emulation/roms/"
-echo "You will also need to copy /opt/picochess/engines/armv7l-MAME-full/ as /opt/picochess/engines/armv7l/ to play them"
-echo "I can't provide the location of these ROMs, so please don't ask"
+

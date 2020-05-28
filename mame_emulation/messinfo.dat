@@ -1,0 +1,5764 @@
+#     MESSINFO.DAT v0.215     
+#
+
+$info=academy,academyg,academyga
+$mame
+0.143u8 [Cowering]
+
+Mephisto Academy, Hegener & Glaser, 1989
+
+After Mephisto in this series already with the Monte Carlo Mephisto, Mephisto Monte Carlo IV, and the special edition Mephisto Monte Carlo IV LE was successful, the Mephisto Academy is the latest model of this attractive wooden units with wood-magnetic sensor board (source, translated from german: https://www.schach-computer.info/wiki/index.php/Mephisto_Academy).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Machine promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Academy Schachcomputer system.
+
+ROMSET:
+51296 bytes in 3 files / 30.83Kb packed
+
+$end
+$info=alm16
+$mame
+0.143u8 [Cowering]
+
+Mephisto Almeria 68000, Hegener & Glaser Muenchen, 1988
+
+With the Mephisto Almeria Hegener & Glaser entered new territory in many ways. Accented with a color key menu system provided despite a huge equipment for light, but anyway very basic operation. The new comfort features included a game storage for up to 50 chess games (20 with all settings such as game level or draw factor), a 32-digit very knowledgeble dot matrix display and a programmable opening book which primarily parallel was the series book can be activated. Also at the chess-playing program was created manually (source / in german: https://www.schach-computer.info/wiki/index.php/Mephisto_Almeria_68000).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Machine promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Almeria 68000 system.
+
+ROMSET:
+131072 bytes in 2 files / 63.66Kb packed
+
+$end
+$info=alm32
+$mame
+0.143u8 [Cowering]
+
+Mephisto Almeria 68020, Hegener & Glaser Muenchen, 1988
+
+With the Mephisto Almeria Hegener & Glaser entered new territory in many ways. Accented with a color key menu system provided despite a huge equipment for light, but anyway very basic operation. The new comfort features included a game storage for up to 50 chess games (20 with all settings such as game level or draw factor), a 32-digit very knowledgeble dot matrix display and a programmable opening book which primarily parallel was the series book can be activated. Also at the chess-playing program was created manually. The opening theory has been expanded from 40,000 half-moves (Roma) to a whopping 60000/2, while trains now made much more varied. The reflectance factor (also called the contempt factor) could now be changed in 7 steps (from -0.75 to +0.75 pawns pawns). Mephisto was the first (and as the first Richard Long Program) have now been used hash tables (and here it was not economical: 16 bits = 512 kilobytes, 32 kilobytes = 1024 bits), which contributed mainly in the final to a significant speed increase (source / in german: https://www.schach-computer.info/wiki/index.php/Mephisto_Almeria_68020).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Machine promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Almeria 68020 system.
+
+ROMSET:
+131072 bytes in 1 file / 59.79Kb packed
+
+$end
+$info=amsterd,amsterda
+$mame
+0.120 [Dirk Verwiebe]
+
+Mephisto Amsterdam, Hegener & Glaser Muenchen, 1984
+
+Founded in 1969 by Manfred Hegener and Florian Glaser, Hegener & Glaser became at the beginning of the 80s synonyms of Chess Computer in Germany, with its series of Mephisto Chess Computers. Mephisto Amsterdam was introduced in 1985. It was programmed by Richard Lang (source: https://www.schach-computer.info/wiki/index.php/Mephisto_Amsterdam).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.196: Machine promoted to working [Sandro Ronco].
+- 0.120: Dirk Verwiebe added Mephisto Mephisto Amsterdam system.
+
+ROMSET:
+46080 bytes in 2 files / 34.61Kb packed
+
+$end
+$info=arb,arbgms
+$mame
+0.207 [hap, Berger]
+
+Auto Response Board, AVE Micro Systems, 1980
+chess modules: Sargon 2.5, Sargon 4.0 Grand Master Series
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+arb.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.207: hap and Berger added AVE Micro Systems Auto Response Board system.
+
+ROMSET:
+None required.
+
+$end
+$info=arbv2
+$mame
+0.209 [anon]
+
+ARB V2 Sargon 4.0 (Auto Response Board), hack (Steve Braid), 2012
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: anon added ARB V2 Sargon 4.0, hack (Steve Braid), 2012 system.
+
+ROMSET:
+65536 bytes in 1 file / 54.96Kb packed
+
+$end
+$info=backgamc
+$mame
+0.207 [hap, Berger]
+
+Backgammon Challenger ACR, Fidelity Electronics, 1979
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.207: hap and Berger added Fidelity Electronics Backgammon Challenger system.
+
+ROMSET:
+4096 bytes in 1 file
+
+$end
+$info=berl16,berl16_oc,berl16a,berl16a_oc
+$mame
+0.210 [Sandro Ronco]
+
+Mephisto Berlin 68000, Hegener & Glaser Muenchen, 1992
+
+In April 1992, Mephisto's black 68000 device appeared as the top-of-the-line device of the black device line. The case of the computer differs only in the lettering and in the fact that field rather than edge diodes are used by the Mephisto Milano. Also included for the Berlin are a third set of figures, miniature tiles, a "laptop lid" and lottery forms.The inside of the device features a 68000 processor with 12 MHz, which processes a slightly modified Vancouver program (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_Berlin_68000).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: Sandro Ronco added Mephisto Berlin 68000 system.
+
+ROMSET:
+131072 bytes in 2 files / 97.3Kb packed
+
+$end
+$info=berl16l,berl16l_oc
+$mame
+0.210 [Sandro Ronco]
+
+Mephisto Berlin 68000 London Upgrade, Hegener & Glaser Muenchen, 1996
+
+In April 1992, Mephisto's black 68000 device appeared as the top-of-the-line device of the black device line. The case of the computer differs only in the lettering and in the fact that field rather than edge diodes are used by the Mephisto Milano. Also included for the Berlin are a third set of figures, miniature tiles, a "laptop lid" and lottery forms.The inside of the device features a 68000 processor with 12 MHz, which processes a slightly modified Vancouver program. The two program EPROMs are easily accessible under one flap, making the London version easily installable by the user. (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_Berlin_68000).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: Sandro Ronco added Mephisto Berlin 68000 London Upgrade system.
+
+ROMSET:
+131072 bytes in 2 files / 99.2Kb packed
+
+$end
+$info=berl32t8p,lond32t,lond32t8,lond32t8x,lyon32t,lyon32t8,port32t,van32t,van32t8
+$mame
+0.215 [hap]
+
+Mephisto TM (Tournament Machines), Hegener & Glaser Muenchen, 1996
+
+All machines with 68030 CPU. Versions available for sale had 36MHz & 2MB RAM, versions used in Chess World Championships had 50-66MHz & 8MB RAM. 'Berlin' is a development/prototype version (internal name 'Vancouver').
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: hap added Mephisto TM (Tournament Machines) system.
+
+ROMSET:
+- 128/256 kB
+
+$end
+$info=berlinp
+$mame
+0.143u8 [Cowering]
+
+Mephisto Berlin Pro 68020, Hegener & Glaser Muenchen, 1994
+
+The Berlin Professional was developed by the German manufacturer Mephisto as a direct alternative to the successful Saitek Risc 2500. This compact contains exactly like the chess computer genius / Module set the World Cup 1993 program, Genius 2.0 by Richard Long. The chess program is supported by a very powerful hardware, the proven Motorola 68020, a 32-bit processor which is clocked at 24 MHz. For hash tables is 1 MB of RAM. The clock frequency was doubled compared to Mephisto Berlin 68000. The equipment of the Berlin Professional is exemplary (source, translated from german: https://www.schach-computer.info/wiki/index.php/Mephisto_Berlin_Professional).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Machine promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Berlin Pro 68020 system.
+
+ROMSET:
+262144 bytes in 1 file / 104.93Kb packed
+
+$end
+$info=berlinpl
+$mame
+0.143u8 [Cowering]
+
+Mephisto Berlin Pro London Upgrade, Hegener & Glaser Muenchen, 1996
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Clone promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Berlin Pro London Upgrade V5.00 system.
+
+ROMSET:
+262144 bytes in 1 file / 108.77Kb packed
+
+$end
+$info=boris
+$mame
+0.200 [TrevEB, Sean Riddle, The Dumping Union]
+
+Boris (rev. 01), Applied Concepts, 1978
+
+By the early 1980s, computer software companies and others began selling dedicated chess computers and boards. Some consumer chess boards included interesting features, such as feedback and evaluation, that allowed beginners to improve their game. Boris displayed messages in response to the player’s moves such as: "I expected that" (source: http://www.computerhistory.org/chess/art-431614f43ad74/).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Changed description to 'Boris (rev. 01)'.
+- 0.208: Changed description to 'Boris'.
+- 0.200: TrevEB, Sean Riddle, The Dumping Union added Applied Concepts Boris - Electronic Chess Computer system.
+
+ROMSET:
+3072 bytes in 2 files / 2.49Kb packed
+
+$end
+$info=borisa
+$mame
+0.209 [Sean Riddle]
+
+Boris (rev. 00), Applied Concepts, 1978
+
+By the early 1980s, computer software companies and others began selling dedicated chess computers and boards. Some consumer chess boards included interesting features, such as feedback and evaluation, that allowed beginners to improve their game. Boris displayed messages in response to the player’s moves such as: "I expected that" (source: http://www.computerhistory.org/chess/art-431614f43ad74/).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Sean Riddle added Applied Concepts Boris (rev. 00) system.
+
+ROMSET:
+4096 bytes in 2 files / 2.96Kb packed
+
+$end
+$info=borisdpl
+$mame
+0.144u7 [Sean Riddle, Justin Kerk]
+
+Boris Diplomat, Chafitz Inc./Applied Concepts Inc., 1979
+
+Boris Diplomat has been designed for ease and flexibility of operation, using the most dependable circuitry available. He should provide you with many hundreds of hours of chess enjoyment. Here are several things you should know in order to get the most out of BORIS DIPLOMAT. BORIS DIPLOMAT operates of 6 non-rechargeable alkaline AA battery cells, or through his A/C power adapter plugged into a 110V wall outlet. To open the battery compartment for changing batteries, slide a pen knife, nail file, or similar tool under the edge of the compartment lid and snap it open (source: http://www.spacious-mind.com/html/boris_diplomat__blue_.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.146u1: The correct year of manufacture is 1979 (MT Bug #04885) [AntoPISA, Sandro Ronco].
+- 0.144u7: Sean Riddle and Justin Kerk added skeleton driver of Boris Diplomat system.
+
+ROMSET:
+2048 bytes in 1 file / 1.93Kb packed
+
+$end
+$info=bup,bup0,bupa
+$mame
+
+Mephisto B&P, Hegener & Glaser, 1985
+
+Technical information, in german, and pictures: https://www.schach-computer.info/wiki/index.php?title=Mephisto_B%26P
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+mephisto_mm2.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+-
+
+ROMSET:
+32768 bytes in 2 files / 23.49Kb packed
+
+$end
+$info=cc1
+$mame
+0.208 [hap, Berger]
+
+Chess Challenger, Fidelity Electronics, 1977
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Preliminary
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: hap and Berger added Fidelity Electronics Chess Challenger system.
+
+ROMSET:
+2048 bytes in 1 file / 1.09Kb packed
+
+$end
+$info=cc10,cc10_wb
+$mame
+0.140 [Kevin Horton, Jonathan Gevaryahu, Sandro Ronco]
+
+Chess Challenger 10 (model CCX, rev. B), Fidelity Electronics, 1978
+
+The Fidelity Chess Challenger 10 was brought in three versions on the market, referred to as A, B and C version, the C version is considered the game strongest, but this is in relation to total a relatively modest skill level of CC10 to see (source / translated from German: https://www.schach-computer.info/wiki/index.php/Fidelity_Chess_Challenger_10).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.207: Changed description to 'Chess Challenger 10 (model CCX, rev. B)'.
+- 0.140: Kevin Horton, Jonathan Gevaryahu and Sandro Ronco added skeleton driver of Fidelity Chess Challenger 10 system.
+
+ROMSET:
+4096 bytes in 1 file / 1.94Kb packed
+
+$end
+$info=cc10a,cc10a_wb
+$mame
+0.140 [Kevin Horton, Jonathan Gevaryahu, Sandro Ronco]
+
+Chess Challenger 10 (model CCX), Fidelity Electronics, 1978
+
+The Fidelity Chess Challenger 10 was brought in three versions on the market, referred to as A, B and C version, the C version is considered the game strongest, but this is in relation to total a relatively modest skill level of CC10 to see (source / translated from German: https://www.schach-computer.info/wiki/index.php/Fidelity_Chess_Challenger_10).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: hap added Chess Challenger 10 (model CCX).
+- 0.140: Kevin Horton, Jonathan Gevaryahu and Sandro Ronco added skeleton driver of Fidelity Chess Challenger 10 system.
+
+ROMSET:
+4096 bytes in 1 file / 1.94Kb packed
+
+$end
+$info=cc3
+$mame
+0.209 [hap, Berger, Sean Riddle]
+
+Chess Challenger 3, Fidelity Electronics, 1977
+
+Only four months after the introduction of the very first chess computer in the world, an improved version appeared. His name? Chess Challenger 3 because of its 3 levels. The chess program of its predecessor, the Chess Challenger 1 has exactly 2316 bits (2 KB ROM). Challenger 3 has 2332 bits, so a minimal extension. But the most important improvement is that one can enter the moves with the usual standard notation (source: http://www.schaakcomputers.nl/hein_veldhuis/database/files/07-1977%20%5BD-8601%5D%20Fidelity%20-%20Chess%20Challenger%203.pdf).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: hap, Berger and Sean Riddle added Fidelity Electronics Chess Challenger 3 system.
+
+ROMSET:
+4096 bytes in 1 file / 3.28Kb packed
+
+$end
+$info=cc7,cc7_wb
+$mame
+0.171 [hap, Berger]
+
+Chess Challenger 7 (model BCC, rev. B), Fidelity Electronics, 1979
+
+With more than 600 000 units sold in the world, the Fidelity Electronics Chess Challenger 7 (CC7) is the first true commercial success in the history of mass market chess computer (source: http://www.boris-is-king.com/presentationcc7eng.htm).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.207: Changed description to 'Chess Challenger 7 (model BCC, rev. B)'.
+- 0.171: hap and Berger added Fidelity Electronics Chess Challenger 7 (rev. B) system.
+
+ROMSET:
+4096 bytes in 1 file / 3.56Kb packed
+
+$end
+$info=cc7o,cc7o_wb
+$mame
+0.209 [Sean Riddle]
+
+Chess Challenger 7 (model CC7), Fidelity Electronics, 1979
+
+With more than 600 000 units sold in the world, the Fidelity Electronics Chess Challenger 7 (CC7) is the first true commercial success in the history of mass market chess computer (source: http://www.boris-is-king.com/presentationcc7eng.htm).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Sean Riddle added Fidelity Electronics Chess Challenger 7 (model CC7) system.
+
+ROMSET:
+4096 bytes in 1 file / 3.55Kb packed
+
+$end
+$info=ccdelta1,ccdelta1x
+$mame
+0.193 [hap, Berger, bataais]
+
+Chess Champion: Delta-1, Novag, 1980
+
+The NOVAG CHESS CHAMPION DELTA-1 with its powerful, progressive program, faster response time and sleek, portable format is versatile for the beginner and advanced enough for the experienced player (source: http://www.spacious-mind.com/html/delta-1.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.220: 'modified' version (ccdelta1x) by bataais and hap (the original ROM program didn't access the correct evaluation table)
+- 0.193: hap and Berger added Novag Chess Champion: Delta-1 system.
+
+ROMSET:
+4096 bytes in 1 file / 3.21Kb packed
+
+$end
+$info=ccmk1,ccmk1_wb
+$mame
+0.119 [Wilbert Pol]
+
+Chess Champion: MK I, Computer Electronic, 1979
+
+The Chess Champion MK I was Novag's first dedicated chess computer released in September 1978. It had a Fairchild F8 8-Bit processor running with 1.78 MHz, 2 KB ROM, and 256 bytes RAM. The program was a clone of the Data Cash Systems Inc. CompuChess program, which was developed by David B. Goodrich & Associates, while other sources claim David Levy was involved in the development (source: http://chessprogramming.wikispaces.com/Chess+Champion+MK+I).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.144u1: Renamed (mk1) to (ccmk1).
+- 0.128: Added clickable artwork [Hobie Troxell].
+- 0.119: Fixed interrupt issues and re-enabled driver [Wilbert Pol].
+
+ROMSET:
+2048 bytes in 1 file / 1.75Kb packed
+
+$end
+$info=ccmk2,ccmk2_wb,ccmk2a,chmate
+$mame
+0.37b8 [PeT]
+
+Chess Champion: MK II, Quelle International, 1979
+
+The Chess Champion MK II was Novag's second dedicated chess computer released in 1979. It had a 6502 compatible 6504 8-Bit processor running with 1 MHz, 5 KB ROM, and 320 bytes RAM. The program was based on Peter Jennings' Microchess 1.5 (source: http://chessprogramming.wikispaces.com/Chess+Champion+MK+II).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.144u1: Renamed (mk2) to (ccmk2).
+- 0.128: Added clickable artwork [Hobie Troxell].
+- 0.112: Updated to use the new artwork system [Justin Kerk].
+- 0.37b8: PeT added Chess Champion MK II system.
+
+ROMSET:
+5120 bytes in 2 files / 3.89Kb packed
+
+$end
+$info=ccmk5
+$mame
+0.213 [hap, Berger]
+
+Chess Champion: Mark V, SciSys, 1981
+
+A dedicated chess computer manufactured by Scisys-W Ltd. Hong Kong from 1981. Primary author of a Z80 based development version was David Broughton, while the translation to the 6502 production version was done by Mark Taylor. Both programmers were recruited into Levy's and O’Connell's company Philidor Software which was closely related to Winkler's Scisys-W Ltd. who manufactured and traded most of their computers until in summer 1981 Levy and O’Connell decided to loosen their relationship with SciSys and founded their new software company Intelligent Software (source: https://www.chessprogramming.org/Chess_Champion_Mark_V).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: hap an Berger added Saitek Chess Champion: Mark V system.
+
+ROMSET:
+1920079 bytes in 5 files / 119.91Kb packed
+
+$end
+$info=ccmk6
+$mame
+0.213 [hap, Berger]
+
+Chess Champion: Mark VI/Philidor, SciSys, 1982
+
+Following the initial success of the Chess Champion Mark V, Scisys were keen to follow up with a stronger program and a Sensor Board. Scisys were aware of the need to appeal to customers who preferred to play with a real chess board rather than follow the game on the LCD screen of the Mark V. Early on the Sensor Board project appeared to be going to plan. Kevin O’Connell of Intelligent Software showed a working prototype to author Tim Harding as early as August 1981. At the Second European Microcomputer Chess Championships held at the Personal Computer World (PCW) show in September 1981 two Philidor experimental programs came 4th and 5th. Development of the next program was on track. By March 1982 a price of £155 was already being quoted for the Sensor Board. A patent application was filed on 19th July 1982 (link). However the months went by with no further news of a release date. The Mark VI was released just before Christmas in 1982. The cost of the Mark V chess computer was reduced from £275 to £199, with the Mark VI module costing another £199. In January 1983 PCW carried an article about Scisys and the Mark V and VI, including a game with evaluations throughout between the old and the new. The Mark VI won OK (source: http://www.chesscomputeruk.com/html/chess_champion_mark_vi___senso.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: hap an Berger added Saitek Chess Champion: Mark VI/Philidor system.
+
+ROMSET:
+1924175 bytes in 6 files / 24.0Kb packed
+
+$end
+$info=cfortea
+$mame
+0.186 [Berger]
+
+Constellation Forte (version A), Novag, 1986
+
+The Super Forte represents the evolution of the (Constellation) Forte, who was heir to the legendary Super Constellation, the Super Forte is thus a sense 'grandson' of the Super Connie. The same chess engine can exploit his pride in the handsome wood-magnetic sensor board the Super Expert. The Super Forte was released in three versions: in 1987, version A, 1988/1989 in the version B, and finally 1989/1990 in the version C. distinguishing these can be through the selective stages. A version has only the option Selective On / Off, version B is set to Selective Level 3, version C on selective level 5 On all versions is discussed in more detail in the following article to each his playful identical wood counterparts: Novag Super Expert C (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Super_Forte).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.186: Berger added Novag Constellation Forte (version A) machine.
+
+ROMSET:
+65536 bytes in 2 files / 41.5Kb packed
+
+$end
+$info=cforteb
+$mame
+0.143u8 [Cowering]
+
+Constellation Forte (version B), Novag, 1986
+
+The Super Forte represents the evolution of the (Constellation) Forte, who was heir to the legendary Super Constellation, the Super Forte is thus a sense 'grandson' of the Super Connie. The same chess engine can exploit his pride in the handsome wood-magnetic sensor board the Super Expert. The Super Forte was released in three versions: in 1987, version A, 1988/1989 in the version B, and finally 1989/1990 in the version C. distinguishing these can be through the selective stages. A version has only the option Selective On / Off, version B is set to Selective Level 3, version C on selective level 5 On all versions is discussed in more detail in the following article to each his playful identical wood counterparts: Novag Super Expert C (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Super_Forte).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+WIP:
+- 0.184: Machine promoted to working [hap].
+- 0.182: Renamed (sforteba) to (cforteb) and changed description in 'Constellation Forte (version B)'.
+- 09/06/2013 r23569: Bugfix #5061: [Documentation] (mmodular.c) sfortea, sforteb, sforteba, sfortec: Fixed descriptions for sfortea, sforteb, sforteba, and sfortec [AntoPISA, Wilbert Pol].
+- 0.143u8: Cowering added Novag Super Forte B Chess Computer (ALT) system.
+
+ROMSET:
+98304 bytes in 3 files / 67.72Kb packed
+
+$end
+$info=ch2001
+$mame
+0.184 [hap, Berger]
+
+Chess 2001, CXG, 1984
+
+Chess 2001, a dedicated chess computer developed by Intelligent Software based on their experimental development program Intelligent Chess Software, which in turn was based on Richard Lang's Cyrus, written in Z80 assembly language. The computer had a 16 KiB ROM, and a 2 KiB RAM, the Z80 processor ran at 4 MHz in the customary version. The machine was manufactured by Newcrest Technology and released for sale in early 1984 as CXG Chess 2001. It was further sold in the USA as the ComputaChess Champion and in Australia as Hanimex HCG1900 (source: https://chessprogramming.wikispaces.com/Chess+2001).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.184: hap and Berger added CXG Chess 2001 system.
+
+ROMSET:
+16384 bytes in 1 file / 12.5Kb packed
+
+$end
+$info=checkc4
+$mame
+0.207 [hap, Berger]
+
+Checker Challenger (model ACR), Fidelity Electronics, 1978
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.207: hap and Berger added Fidelity Electronics Checker Challenger (model ACR) system.
+
+ROMSET:
+4096 bytes in 1 file
+
+$end
+$info=chessmst
+$mame
+0.132 [Sandro Ronco]
+
+Chess-Master (set 1), VEB Mikroelektronik Erfurt, 1984
+
+Chess-Master, a dedicated chess computer series manufactured in the 80s by VEB Mikroelektronik 'Karl Marx' Erfurt. Chess-Master ran on an 8-bit U880 CPU, which was an unlicensed Z80 clone, and had 10 KB ROM and 2 KB RAM. The chess program was initially written by Dieter Schultze and Rüdiger Worbs. Automatic Piece Recognition was implemented with Hall effect sensors under each square of the chessboard, while pieces had two reverse directed permanent magnets with different compensation embedded, so that a cyclic running multiplexed I/O program, also polling the keyboard, could recognize the pieces (source: http://www.general-files.com/download/source/gs58cc6000h32i0).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.178: Fixed HALT button. Added layout with script [Sandro Ronco].
+- 0.177: Added reset and halt buttons [hap].
+- 0.142u4: Added layout and input ports [Sandro Ronco].
+- 0.132: Sandro Ronco added skeleton driver of Chess-Master (set 1) system.
+
+ROMSET:
+10240 bytes in 10 files / 9.04Kb packed
+
+$end
+$info=chessmsta
+$mame
+0.178 [uncredited]
+
+Chess-Master (set 2), VEB Mikroelektronik Erfurt, 1984
+
+Chess-Master, a dedicated chess computer series manufactured in the 80s by VEB Mikroelektronik 'Karl Marx' Erfurt. Chess-Master ran on an 8-bit U880 CPU, which was an unlicensed Z80 clone, and had 10 KB ROM and 2 KB RAM. The chess program was initially written by Dieter Schultze and Rüdiger Worbs. Automatic Piece Recognition was implemented with Hall effect sensors under each square of the chessboard, while pieces had two reverse directed permanent magnets with different compensation embedded, so that a cyclic running multiplexed I/O program, also polling the keyboard, could recognize the pieces (source: http://www.general-files.com/download/source/gs58cc6000h32i0).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.178: uncredited added VEB Mikroelektronik Erfurt Chess-Master (set 2) system.
+
+ROMSET:
+10240 bytes in 2 files / 7.61Kb packed
+
+$end
+$info=chessmstdm
+$mame
+0.178 [Sandro Ronco]
+
+Chess-Master Diamond, VEB Mikroelektronik Erfurt, 1987
+
+The idea of the chess player Wolfgang Pähtz, uncle of the youth world champion Elisabeth Pähtz, refined Chess Masters took place at the Leipzig Messe 1987. The scope of the program memory is of 10 to 16 KB, the RAM of 2, increased to 3 KB. The display options of chess computer work during the game extremely diverse. Up to 200 half moves may be redeemed. By extension modules a total memory of 32 KB is possible. There was the opening module PM10 with approximately 800 variants and the final module PM11. The latter is after the end of the opening also recommended as a normal game module. As with its predecessor is done to detect the trains by means of Hall sensors (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Chess-Master_Diamond).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+chessmstdm.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.178: Sandro Ronco added VEB Mikroelektronik Erfurt Chess-Master Diamond system.
+
+ROMSET:
+16384 bytes in 1 file / 12.2Kb packed
+
+$end
+$info=chesster
+$mame
+0.178 [hap, yovan]
+
+Chesster Challenger (V1.3), Fidelity Electronics, 1990
+
+Although the Fidelity Chesster Challenger is based on the Fidelity Designer 2100 there are a number of important differences. Firstly the clock speed is 5 MHz rather than 6 MHz. The opening book is 16,000 ply and designed for variety compared with the 28,000 ply opening book of the Fidelity Designer 2100, and the narrower optimised 16,000 ply opening book of the Fidelity Par Excellence. Perhaps a more important difference is the Chesster's voice synthesizer chip and special speaker. Chesster has a vocabulary of over 300 words, which are combined into a large number of phrases. Pressing h1 at the start of the game will make Chesster go through the entire repetoire, which takes 10 minutes. The vocabulary is divided between Character Mode, Coach Mode, Demonstration Mode and Move Assistance Mode which are all selectable, individually or in combination. The vocabulary is the same as for the robot version, the Fidelity Chesster Phantom, with which it shares the 5 MHz clock speed and program. The German language version, the Kishon Chesster is believed to be based on the Designer 2000 running at 3.6 MHz. There is also a budget version called the Fidelity Little Chesster. There are two circuit boards shown in the photographs below. On the left is the Chesster Challenger and on the right the Fidelity Designer 2100 Display (source: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Chesster_Challenger).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.178: hap and yovan added Fidelity Electronics Chesster Challenger system.
+
+ROMSET:
+163840 bytes in 2 files / 119Kb packed
+
+$end
+$info=chesstera
+$mame
+0.184 [yovan]
+
+Chesster Challenger, Fidelity Electronics, 1990
+
+Although the Fidelity Chesster Challenger is based on the Fidelity Designer 2100 there are a number of important differences. Firstly the clock speed is 5 MHz rather than 6 MHz. The opening book is 16,000 ply and designed for variety compared with the 28,000 ply opening book of the Fidelity Designer 2100, and the narrower optimised 16,000 ply opening book of the Fidelity Par Excellence. Perhaps a more important difference is the Chesster's voice synthesizer chip and special speaker. Chesster has a vocabulary of over 300 words, which are combined into a large number of phrases. Pressing h1 at the start of the game will make Chesster go through the entire repetoire, which takes 10 minutes. The vocabulary is divided between Character Mode, Coach Mode, Demonstration Mode and Move Assistance Mode which are all selectable, individually or in combination. The vocabulary is the same as for the robot version, the Fidelity Chesster Phantom, with which it shares the 5 MHz clock speed and program. The German language version, the Kishon Chesster is believed to be based on the Designer 2000 running at 3.6 MHz. There is also a budget version called the Fidelity Little Chesster. There are two circuit boards shown in the photographs below. On the left is the Chesster Challenger and on the right the Fidelity Designer 2100 Display (source: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Chesster_Challenger).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+WIP:
+- 0.184: yovan added Fidelity Electronics Chesster Challenger system.
+
+ROMSET:
+163840 bytes in 2 files / 119Kb packed
+
+$end
+$info=chesstrv,chesstrv_wb
+$mame
+0.144u4 [Curt Coder]
+
+Chess Champion: Pocket Chess, Novag, 1980
+
+This game has many names: Novag/SciSys Chess Champion Pocket Chess, Acetronic Chess Traveler, Tandy Computerized Chess etc. (source, translated from french: http://electronicchess.free.fr/).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Chess Traveler' and manufacturer to 'SciSys'.
+- 0.146u1: The correct year of manufacture is 1980 (MT Bug #04880) [AntoPISA, Sandro Ronco].
+- 0.144u4: Curt Coder added Acetronic Chess Traveller system.
+
+ROMSET:
+2048 bytes in 1 file / 1.85Kb packed
+
+$end
+$info=ckmaster
+$mame
+0.193 [hap, Berger]
+
+Master (Chess King), Chess King, 1984
+
+Chess King is the only UK company that I am aware of which manufactured chess computers. It was initially to be a joint venture by Computer Games Ltd and Intelligent Software Ltd, but CGL dropped out and Intelligent Software, the company of David Levy and Kevin O’Connell, went it alone with Berkshire electronics manufacturer Adam Cung. Several other well known chess computers were both designed and programmed in the UK, but they were manufactured in Hong Kong. Examples include the Scisys Chess Champion Super System III and Mark V. The Chess King Master is found in small numbers only. Mainly in the UK, though this one came from Germany and has manuals in English and German. Its features include 32 edge LEDs rather than the normal 16. It contains a version of Richard Lang’s Cyrus program (source: http://www.chesscomputeruk.com/html/chess_king_master.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.193: hap and Berger added Chess King Master system.
+
+ROMSET:
+8192 bytes in 1 file / 6.91Kb packed
+
+$end
+$info=cmpchess
+$mame
+0.208 [hap]
+
+CompuChess, Data Cash Systems, 1977
+
+Data Cash Systems Inc. also started to develop a chess computer in mid 1976. They hired independant consultants, D. B. Goodrich & Associates of Largo, Florida, for the design and development of the chess program. It is not known who the actual chess programmer was. Possibly David Goodrich himself? Suggestions that it was Peter Jennings seem to be wrong. In interviews Peter Jennings has never mentioned any involvement with CompuChess, prior to programming the Commodore Chessmate. His Microchess program was written for a 6502 based microcomputer and ported to a 8080 based microcomputer in 1977. The CompuChess has a Fairchild 3850 processor with a different architecture to the 6502 and 8080. The other early chess computer based on a Fairchild 3850 is the Chafitz Boris, which is now known to have been programmed by David Lindsey. Mike Johnson is another chess programmer known for his Fairchild chip programs. The CompuChess program was named the "Chess One-Move Calculation" program and perhaps should be acknowledged as the work of Goodrich, unless information to the contrary becomes available (source: https://www.schach-computer.info/wiki/index.php/CompuChess).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.208: hap added Data Cash Systems CompuChess system.
+
+ROMSET:
+2048 bytes in 1 file / 1.73Kb packed
+
+$end
+$info=cncchess
+$mame
+0.209 [hap, Sean Riddle]
+
+Master I (Conic), Conic, 1979
+
+The Computer Chess is programmed to play 5 different skill levels; each with different standard and “thinking time”; the first 4 levels are designed for average players while the last two are for problem solving with a high degree of intelligence. Features: Built-in Micro-Computer, Five Skill Levels, Unique illegal move check, Simulated Electronic Sound indicating game status, Complete or survival game, AC/DC operation. Special Moves: Promote a Queen, Castling, En Passant. Special Features: Cancel a Move, Delete a piece, Insert a piece, Search a piece (source: http://www.spacious-mind.com/html/computer_chess1.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: hap and Sean Riddle added Conic Computer Chess system.
+
+ROMSET:
+2048 bytes in 1 file / 1.82Kb packed
+
+$end
+$info=cncchess2
+$mame
+0.215 [hap, bataais]
+
+Computer Chess (Conic), Conic, 1980
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: hap and bataais added Conic Computer Chess system.
+
+ROMSET:
+4096 bytes in 1 file / 3.2Kb packed
+
+$end
+$info=concply
+$mame
+0.215 [hap]
+
+Conchess Plymate (Amsterdam, T8), Systemhuset / Loproc, 1985
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+conchess_plymate.xml
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.215: hap added Conchess Conchess Plymate (Amsterdam, T8) system.
+
+ROMSET:
+32768 bytes in 1 file / 20.4Kb packed
+
+$end
+$info=concplyv
+$mame
+0.215 [hap]
+
+Conchess Plymate Victoria, Systemhuset / Loproc, 1990
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.215: hap added Conchess Plymate Victoria system.
+
+ROMSET:
+32768 bytes in 1 file / 20.3Kb packed
+
+$end
+$info=concstd
+$mame
+0.215 [hap, Berger]
+
+Conchess (standard), Consumenta / Loproc, 1982
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+conchess_standard.xml
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.215: hap and Berger added Conchess (standard) system.
+
+ROMSET:
+24576 bytes in 3 files / 15.8Kb packed
+
+$end
+$info=const
+$mame
+0.210 [hap]
+
+Constellation / Constallation 3.6 / Constellation Quattro, Novag, 1983/84/86
+
+Externally, the Constellation presented to the public in May 1983 is designed like the Novag Sensor Dynamic. One can distinguish both devices practically only at the writing, and if someone has upgraded its sensor Dynamic with the Constellation exchange module, also this small difference does not apply. However, the proven basic program of the Sensor Dynamic has been significantly expanded and improved. Now there are more game levels (18 instead of eight), a larger compute depth (according to the manufacturer in some cases up to 24 half-moves) and a larger opening library (about 3,000 instead of 600 half-moves). The Constellation now rules all international chess rules and reclaims stalemate, draw after the 3- and 50-train rule, technical draw, chess and Matt independently. Even the elementary Matt tours with lady, with two towers, with a tower, with two runners and farmer endgames do not cause him any significant difficulties (source, translated from German: https://www.schach-computer.info/wiki/index.php/Novag_Constellation).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: hap added Novag Constellation Chess Computer system.
+
+ROMSET:
+16384 bytes in 2 files / 12 Kb packed
+
+$end
+$info=const36,const36a
+$mame
+0.213 [Berger]
+
+Constellation 3.6MHz (set 1), Novag, 1984
+
+Constellation (Nickname Connie), a dedicated chess computer with a 8-bit 6502 CPU and 16 KB ROM and 2 KB RAM, manufactured and market in 1983 by Novag, running a program developed by primary author David Kittinger, supported by chess master Scott McDonald. It was the forerunner of the mighty Super Constellation, and participated along with its big brother at the WMCCC 1983 in Budapest (source: https://www.chessprogramming.org/Constellation).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: Berger added Novag Constellation 3.6MHz (set 1) system.
+
+ROMSET:
+16384 bytes in 1 file / 12.3Kb packed
+
+$end
+$info=constq
+$mame
+0.213 [hap, anonymous]
+
+Constellation Quattro, Novag, 1986
+
+The naming of a product is always a delicate thing, especially if this is intended for the international market, such as chess computer. At an early stage, manufacturers used terms such as Super, Turbo, Mega, Star to emphasize the special quality and performance. Another way was to specify a clear product line so that the consumer could assign the chess computer directly to a company. Known were city names at Mephisto, well-known grandmaster at Applied Concepts and gems at Novag (source translated from German: http://chess-computer.blogspot.com/2016/10/novag-quattro-forte-symphonie.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: hap and anonymous added Novag Constellation Quattro system.
+
+ROMSET:
+16384 bytes in 1 file / xx.xxKb packed
+
+$end
+$info=corona,coronaa
+$mame
+0.210 [hap]
+
+Kasparov Corona Chess Computer, Saitek, 1988
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+saitek_egr.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: hap added Saitek Kasparov Corona Chess Computer system.
+
+ROMSET:
+65536 bytes in 2 files / 48 Kb packed
+
+$end
+$info=cp2000
+$mame
+0.209 [hap, bataais]
+
+Chess Champion: Chess Partner 2000, Novag, 1980
+
+This game was produced by SciSys as Chess Partner 2000 and by Novag as Chess Champion Chess Partner 2000.
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: hap and bataais added Chess Champion Chess Partner 2000.
+
+ROMSET:
+4096 bytes in 1 file / 3.35Kb packed
+
+$end
+$info=csc,cscg
+$mame
+0.144u4 [Lord Nightmare, Kevtris, Sandro Ronco]
+
+Champion Sensory Chess Challenger, Fidelity Electronics, 198?
+
+The Champion Chess Challenger contains an even better program than was used to win the First World Microcomputer Chess Championship in London, England, September, 1980, and the First Official North American Microcomputer Chess Championship held in San Jose, California. Has many outstanding features, including Fidelity's advanced Sensory playing surface (source: http://www.spacious-mind.com/html/champion_sensory_challenger.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Champion Sensory Chess Challenger'.
+- 03/02/2013 r20690: Fixed csc and mm2 regressions [Sandro Ronco].
+- 0.144u4: Lord Nightmare, Kevtris and Sandro Ronco added Fidelity Champion Chess Challenger (model CSC) system.
+
+ROMSET:
+37376 bytes in 6 files / 26.58Kb packed
+
+$end
+$info=csce,csceg
+$mame
+0.208 [hap, Berger]
+
+Elite Champion Challenger, Fidelity Electronics, 1981
+
+This is a limited-release chess computer based on the CSC.
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: hap and Berger added Fidelity Electronics Elite Champion Challenger system.
+
+ROMSET:
+61440 bytes in 12 files / 25.30Kb packed
+
+$end
+$info=dallas,dallas16,dallas16a
+$mame
+0.120 [Dirk Verwiebe]
+
+Mephisto Dallas 16 Bit, Hegener & Glaser Muenchen, 1984
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.196: Clone promoted to working [Sandro Ronco].
+- 0.120: Dirk Verwiebe added Mephisto Dallas 16 Bit system.
+
+ROMSET:
+56832 bytes in 2 files / 42.09Kb packed
+
+$end
+$info=dallas32
+$mame
+0.120 [Dirk Verwiebe]
+
+Mephisto Dallas 32 Bit, Hegener & Glaser Muenchen, 1984
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.196: Clone promoted to working [Sandro Ronco].
+- 0.120: Dirk Verwiebe added Mephisto Dallas 32 Bit system.
+
+ROMSET:
+65536 bytes in 1 file / 39.29Kb packed
+
+$end
+$info=damesc
+$mame
+0.185 [hap, yovan]
+
+Dame Sensory Challenger, Fidelity Electronics, 1981
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.185: hap and yovan added Fidelity Electronics Dame Sensory Challenger system.
+
+ROMSET:
+8192 bytes in 1 file / 5.16Kb packed
+
+$end
+$info=debutm
+$mame
+0.210 [hap]
+
+Debut-M, Energopribor, 1984
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: hap added Energopribor Debut-M system.
+
+ROMSET:
+16384 bytes in 2 files / 12.7Kb packed
+
+$end
+$info=diablo68
+$mame
+0.143u8 [Cowering]
+
+Diablo 68000, Novag, 1991
+
+In 1991 Dave Kittinger finally managed to bring out its programs to 16-bit hardware, it appeared the wooden device Diablo 68000 and the technically identical hardware device Novag Scorpio 68000. The timber unit, incidentally, the last of the company Novag in this series was largely externally identical to the previous model, while the design of the plastic device has been completely revised. The Motorola 68000 used Prozessoer was clocked at 16 MHz and the program had been like when Novag Super Forte C size of 96 KB. As a novelty, but now came to the first 64K bytes for hash tables and advanced to the 16K RAM (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Diablo_68000).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.182: Machine promoted to working [hap].
+- 0.143u8: Cowering added Novag Diablo 68000 Chess Computer system.
+
+ROMSET:
+100448 bytes in 4 files / 71.88Kb packed
+
+$end
+$info=exchess
+$mame
+0.215 [hap, Sean Riddle]
+
+Senator (Executive) Chess, SciSys, 1981
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: hap and Sean Riddle added Saitek Senator (Executive) Chess system.
+
+ROMSET:
+856706 bytes in 2 files / 71.0Kb packed
+
+$end
+$info=fdes2000
+$mame
+0.179 [yovan]
+
+Designer 2000, Fidelity Electronics, 1989
+
+The designer 2000 (1987) contains the Fidelity Excellence program (1985) in a chess board designed by the Italian artist Franco Rocco. The 2000 number indicates a US estimation of the Elo level. At the same time, the Designer 1500 included the weak Chess Challenger 8 program and the Designer 2100 the very good "Par Excellence". In 1990/1991, the Excel Mach III and IV were also proposed as "Designer 2265 master" and "Designer 2325 master" (source: http://electronicchess.free.fr/heroes.html#designer2000).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.179: yovan added Fidelity Electronics Designer 2000 system.
+
+ROMSET:
+32768 bytes in 1 file / 23.9Kb packed
+
+$end
+$info=fdes2000d
+$mame
+0.181 [yovan]
+
+Designer 2000 Display, Fidelity Electronics, 1988
+
+The designer 2000 (1987) contains the Fidelity Excellence program (1985) in a chess board designed by the Italian artist Franco Rocco. The 2000 number indicates a US estimation of the Elo level. At the same time, the Designer 1500 included the weak Chess Challenger 8 program and the Designer 2100 the very good "Par Excellence". In 1990/1991, the Excel Mach III and IV were also proposed as "Designer 2265 master" and "Designer 2325 master". The designer display is a very good game derived from the "par excellence". This "display" model includes a little LCD screen (source: http://electronicchess.free.fr/heroes.html#designer2000).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.181: yovan added Fidelity Electronics Designer 2000 Display system.
+
+ROMSET:
+32768 bytes in 1 file / 22.8Kb packed
+
+$end
+$info=fdes2100
+$mame
+0.184 [hap]
+
+Designer 2100, Fidelity Electronics, 1988
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+WIP:
+- 0.184: hap added Fidelity Electronics Designer 2100 system.
+
+ROMSET:
+32768 bytes in 1 file / 25.4Kb packed
+
+$end
+$info=fdes2100d
+$mame
+0.180 [hap, Berger]
+
+Designer 2100 Display, Fidelity Electronics, 1988
+
+The designer 2000 (1987) contains the Fidelity Excellence program (1985) in a chess board designed by the Italian artist Franco Rocco. The 2000 number indicates a US estimation of the Elo level. At the same time, the Designer 1500 included the weak Chess Challenger 8 program and the Designer 2100 the very good "Par Excellence". In 1990/1991, the Excel Mach III and IV were also proposed as "Designer 2265 master" and "Designer 2325 master" (source: http://electronicchess.free.fr/heroes.html#designer2000).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.180: hap and Berger added Fidelity Electronics Designer 2100 Display system.
+
+ROMSET:
+65536 bytes in 2 files / 44.0Kb packed
+
+$end
+$info=fdes2265
+$mame
+0.193 [hap, yoyo_chessboard]
+
+Designer Mach III Master 2265, Fidelity Electronics, 1989
+
+Anyone familiar with the usual black and gray fidelity boxes will be pleasantly surprised by the look of the Designer 2265. Its 29.5 x 29.5 x 2.6 cm plastic case with the cheekily raised corners does not catapult him into the luxury heights of a Saitek Renaissance, but is definitely neat to look at and clear enough to play games on it. The actual playing field, 20 x 20 cm in size, is equipped with pressure sensors that respond quite well to light pressure. On the side are the 16 LEDs with which the designer transmits the trains to his user. Unfortunately, the LEDs are installed below the actual surface of the designer and can only be seen through relatively tiny viewing windows. This looks elegant at first, but at the expense of clarity (source, translated from German: https://www.schach-computer.info/wiki/index.php/Fidelity_Designer_2265_Master).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.193: hap and yoyo_chessboard added Fidelity Electronics Designer Mach III Master 2265 system.
+
+ROMSET:
+65536 bytes in 2 files / 45.6Kb packed
+
+$end
+$info=fdes2325
+$mame
+0.193 [hap, yoyo_chessboard]
+
+Designer Mach IV Master 2325, Fidelity Electronics, 1991
+
+Dan & Kathe Spracklen’s program first appeared in a 2325 USCF rated chess computer in 1989 in the Fidelity Excel Mach IV Master and Version 6 of the Elite Avant Garde. These were amongst the last Fidelity chess computers to be produced before Fidelity was sold to Hegener & Glaser, makers of Mephistos. However Fidelity largely continued operations as an independent company. The Designer board version of the 2325 was not to appear for another two years, after Sid Samole had stepped down as Fidelity president. The new management set the price of the Designer 2325 Master at a very competitive level, $500. Less than half the previous price of the Excel Mach IV. That price also included the standard issue Mephisto style case (source: http://www.chesscomputeruk.com/html/fidelity_designer_2325_master.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.193: hap and yoyo_chessboard added Fidelity Electronics Designer Mach IV Master 2325 system.
+
+ROMSET:
+65792 bytes in 2 files / 44.3Kb packed
+
+$end
+$info=feag,feagg
+$mame
+0.207 [hap, Berger]
+
+Elite Avant Garde (model 6081), Fidelity Electronics, 1986
+
+In late 1985 / early 1986, Fidelity launched the avant-garde successor to the Fidelity Elite A / S. Visually, the devices are similar, but buttons and display have been brought from the front (Elite A / S) to the right and added to a second display. The program was the so-called "Elite XC", which won the open American computer championship in Mobile (Alabama) in 1985. Therefore, the device was also named "Mobile Master (6081)". On the 8bit base of the 6502 processor, the 1986 Fidelity Elite Avantgarde 2100 (6088) followed, which included a slightly redesigned par excellence program with a larger reopening library (28,000 half leads) (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_Avantgarde).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+fidel_scc.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Elite Avant Garde (model 6081)'.
+- 0.207: hap and Berger added Fidelity Electronics Elite Avant Garde (model 6081, English) system.
+
+ROMSET:
+28672 bytes in 4 files / 18.25Kb packed
+
+$end
+$info=feag2100,feag2100a,feag2100g
+$mame
+0.179 [hap, anonymous]
+
+Elite Avant Garde 2100, Fidelity Electronics, 1986
+
+Technical information and pictures: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_Avantgarde_2100
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Elite Avant Garde 2100'.
+- 0.179: hap, anonymous added Fidelity Electronics Elite Avant Garde 2100 (English) system.
+
+ROMSET:
+53248 bytes in 4 files / 29.1Kb packed
+
+$end
+$info=feagv10
+$mame
+0.171 [hap, Micha]
+
+Elite Avant Garde (model 6117-10), Fidelity Electronics, 1990
+
+In late 1985 / early 1986, Fidelity launched the avant-garde successor to the Fidelity Elite A / S. Visually, the devices are similar, but buttons and display have been brought from the front (Elite A / S) to the right and added to a second display. The program was the so-called "Elite XC", which won the open American computer championship in Mobile (Alabama) in 1985. Therefore, the device was also named "Mobile Master (6081)". On the 8bit base of the 6502 processor, the 1986 Fidelity Elite Avantgarde 2100 (6088) followed, which included a slightly redesigned par excellence program with a larger reopening library (28,000 half leads) (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_Avantgarde).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.171: hap and Micha added Fidelity Electronics Elite Avant Garde (model 6117-10) system.
+
+ROMSET:
+131072 bytes in 4 files / 94.9Kb packed
+
+$end
+$info=feagv11
+$mame
+0.171 [hap, Micha]
+
+Elite Avant Garde (model 6117-11), hack (Wilfried Bucke), 2002
+
+In late 1985 / early 1986, Fidelity launched the avant-garde successor to the Fidelity Elite A / S. Visually, the devices are similar, but buttons and display have been brought from the front (Elite A / S) to the right and added to a second display. The program was the so-called "Elite XC", which won the open American computer championship in Mobile (Alabama) in 1985. Therefore, the device was also named "Mobile Master (6081)". On the 8bit base of the 6502 processor, the 1986 Fidelity Elite Avantgarde 2100 (6088) followed, which included a slightly redesigned par excellence program with a larger reopening library (28,000 half leads) (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_Avantgarde).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.171: hap and Micha added hack (Wilfried Bucke) Elite Avant Garde (model 6117-11) system.
+
+ROMSET:
+131072 bytes in 4 files / 94.9Kb packed
+
+$end
+$info=feagv2
+$mame
+0.171 [hap, Micha]
+
+Elite Avant Garde (model 6114-2), Fidelity Electronics, 1989
+
+In late 1985 / early 1986, Fidelity launched the avant-garde successor to the Fidelity Elite A / S. Visually, the devices are similar, but buttons and display have been brought from the front (Elite A / S) to the right and added to a second display. The program was the so-called "Elite XC", which won the open American computer championship in Mobile (Alabama) in 1985. Therefore, the device was also named "Mobile Master (6081)". On the 8bit base of the 6502 processor, the 1986 Fidelity Elite Avantgarde 2100 (6088) followed, which included a slightly redesigned par excellence program with a larger reopening library (28,000 half leads) (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_Avantgarde).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Elite Avant Garde (model 6114-2)'.
+- 0.171: hap and Micha added Fidelity Electronics Elite Avant Garde (model 6114-2/3/4) system.
+
+ROMSET:
+131072 bytes in 2 files / 88.9Kb packed
+
+$end
+$info=feagv3
+$mame
+0.208 [hap, Berger]
+
+Elite Avant Garde (model 6114-3), Fidelity Electronics, 1989
+
+In late 1985 / early 1986, Fidelity launched the avant-garde successor to the Fidelity Elite A / S. Visually, the devices are similar, but buttons and display have been brought from the front (Elite A / S) to the right and added to a second display. The program was the so-called "Elite XC", which won the open American computer championship in Mobile (Alabama) in 1985. Therefore, the device was also named "Mobile Master (6081)". On the 8bit base of the 6502 processor, the 1986 Fidelity Elite Avantgarde 2100 (6088) followed, which included a slightly redesigned par excellence program with a larger reopening library (28,000 half leads) (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_Avantgarde).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: hap and Berger added Fidelity Electronics Elite Avant Garde (model 6114-3) system.
+
+ROMSET:
+131072 bytes in 2 files / 88.9Kb packed
+
+$end
+$info=feagv5,feagv5d
+$mame
+0.207 [anonymous]
+
+Elite Avant Garde (model 6114-5), Fidelity Electronics, 1989
+
+In late 1985 / early 1986, Fidelity launched the avant-garde successor to the Fidelity Elite A / S. Visually, the devices are similar, but buttons and display have been brought from the front (Elite A / S) to the right and added to a second display. The program was the so-called "Elite XC", which won the open American computer championship in Mobile (Alabama) in 1985. Therefore, the device was also named "Mobile Master (6081)". On the 8bit base of the 6502 processor, the 1986 Fidelity Elite Avantgarde 2100 (6088) followed, which included a slightly redesigned par excellence program with a larger reopening library (28,000 half leads) (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_Avantgarde).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+fidel_scc.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.207: anonymous added Fidelity Electronics Elite Avant Garde (model 6114-5) system.
+
+ROMSET:
+196608 bytes in 4 files / 129.98Kb packed
+
+$end
+$info=feagv7
+$mame
+0.171 [hap, Micha]
+
+Elite Avant Garde (model 6117-7, set 1), Fidelity Electronics, 1990
+
+In late 1985 / early 1986, Fidelity launched the avant-garde successor to the Fidelity Elite A / S. Visually, the devices are similar, but buttons and display have been brought from the front (Elite A / S) to the right and added to a second display. The program was the so-called "Elite XC", which won the open American computer championship in Mobile (Alabama) in 1985. Therefore, the device was also named "Mobile Master (6081)". On the 8bit base of the 6502 processor, the 1986 Fidelity Elite Avantgarde 2100 (6088) followed, which included a slightly redesigned par excellence program with a larger reopening library (28,000 half leads) (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_Avantgarde).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.171: hap and Micha added Fidelity Electronics Elite Avant Garde (model 6117-7) system.
+
+ROMSET:
+131072 bytes in 2 files / 89.0Kb packed
+
+$end
+$info=feagv7a
+$mame
+0.191 [CB-Emu]
+
+Elite Avant Garde (model 6117-7, set 2), Fidelity Electronics, 1990
+
+In late 1985 / early 1986, Fidelity launched the avant-garde successor to the Fidelity Elite A / S. Visually, the devices are similar, but buttons and display have been brought from the front (Elite A / S) to the right and added to a second display. The program was the so-called "Elite XC", which won the open American computer championship in Mobile (Alabama) in 1985. Therefore, the device was also named "Mobile Master (6081)". On the 8bit base of the 6502 processor, the 1986 Fidelity Elite Avantgarde 2100 (6088) followed, which included a slightly redesigned par excellence program with a larger reopening library (28,000 half leads) (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_Avantgarde).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+fidel_scc.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.191: added Fidelity Electronics Elite Avant Garde (model 6117-7, set 2) system.
+
+ROMSET:
+131072 bytes in 2 files / 89.1Kb packed
+
+$end
+$info=feagv9
+$mame
+0.175 [anonymous]
+
+Elite Avant Garde (model 6117-9), Fidelity Electronics, 1990
+
+In late 1985 / early 1986, Fidelity launched the avant-garde successor to the Fidelity Elite A / S. Visually, the devices are similar, but buttons and display have been brought from the front (Elite A / S) to the right and added to a second display. The program was the so-called "Elite XC", which won the open American computer championship in Mobile (Alabama) in 1985. Therefore, the device was also named "Mobile Master (6081)". On the 8bit base of the 6502 processor, the 1986 Fidelity Elite Avantgarde 2100 (6088) followed, which included a slightly redesigned par excellence program with a larger reopening library (28,000 half leads) (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_Avantgarde).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.175: anonymous added Fidelity Electronics Elite Avant Garde (model 6117-9) system.
+
+ROMSET:
+131072 bytes in 2 files / 89Kb packed
+
+$end
+$info=feasbu,feasbug
+$mame
+0.175 [hap, anonymous]
+
+Elite A/S Challenger (Budapest program), Fidelity Electronics, 1983
+
+Technical information and pictures: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_A/S_Glasgow
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Elite A/S Challenger (Budapest program)'.
+- 0.179: Promoted to working [hap].
+- 0.175: hap and anonymous added Fidelity Electronics Elite A/S Challenger (Budapest program, English) system.
+
+ROMSET:
+28672 bytes in 3 files / 21.6Kb packed
+
+$end
+$info=feasgla,feasglag
+$mame
+0.175 [hap, anonymous]
+
+Elite A/S Challenger (Glasgow program), Fidelity Electronics, 1984
+
+Technical information and pictures: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Elite_A/S_Glasgow
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Elite A/S Challenger (Glasgow program)'.
+- 0.179: Promoted to working [hap].
+- 0.175: hap and anonymous added Fidelity Electronics Elite A/S Challenger (Glasgow program, English) system.
+
+ROMSET:
+28672 bytes in 4 files / 17.3Kb packed
+
+$end
+$info=feleg
+$mame
+0.198 [hap, yoyo_chessboard]
+
+Elegance Chess Challenger, Fidelity Electronics, 1985
+
+Elegance (Fidelity Elegance, Chess Challenger Elegance), a dedicated chess computer of the Chess Challenger series by Fidelity Electronics, produced and distributed since 1984. Like the Fidelity Elite A/S the computer with a 6502 processor ran a Sargon based program by Dan and Kathe Spracklen. Elegance had a compact, wooden sensory board with reed switches and magnets in the chessmen (source: https://chessprogramming.wikispaces.com/Elegance).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+fidel_scc.xml
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.198: hap and yoyo_chessboard added Fidelity Electronics Elegance Chess Challenger system.
+
+ROMSET:
+24576 bytes in 3 files / 15Kb packed
+
+$end
+$info=fepriv,feprivg
+$mame
+0.207 [hap, Berger]
+
+Elite Private Line (red version), Fidelity Deutschland, 1984
+
+Technical information and pictures: https://www.schach-computer.info/wiki/index.php/Fidelity_Elite_Privat
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+fidel_scc.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Elite Private Line (red version)' and manufacturer to 'Fidelity Deutschland'.
+- 0.207: hap and Berger added Fidelity Electronics Elite Private Line (red version, English) system.
+
+ROMSET:
+28672 bytes in 4 files / 17.15Kb packed
+
+$end
+$info=fex68k
+$mame
+0.180 [hap, Berger]
+
+Excel 68000 (set 1), Fidelity Electronics, 1987
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.188: Renamed (fexcel68k) to (fex68k).
+- 0.180: hap and Berger added Fidelity Electronics Excel 68000 system.
+
+ROMSET:
+65536 bytes in 2 files / 41.7Kb packed
+
+$end
+$info=fex68ka
+$mame
+0.197 [yoyo_chessboard]
+
+Excel 68000 (set 2), Fidelity Electronics, 1987
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.197: yoyo_chessboard added Fidelity Electronics Excel 68000 (set 2) system.
+
+ROMSET:
+65536 bytes in 2 files / 41.1Kb packed
+
+$end
+$info=fex68kb
+$mame
+0.197 [yoyo_chessboard]
+
+Excel 68000 (set 3), Fidelity Electronics, 1987
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.197: yoyo_chessboard added Fidelity Electronics Excel 68000 (set 3) system.
+
+ROMSET:
+65536 bytes in 2 files / 41.1Kb packed
+
+$end
+$info=fex68km2,fex68km2a
+$mame
+0.188 [CB-Emu]
+
+Excel 68000 Mach II (rev. C+), Fidelity Electronics, 1988
+
+FIDELITY MACH II is an improvement on the original FIDELITY EXCEL 68000, mainly due to an increased RAM of 144K that comprised of 16K static RAM and 128K dynamic RAM which was used for Hash Tables. The original FIDELITY EXCEL 68000 only had 16K RAM. This resulted in a playing strength increase of around 60 ELO for the MACH II (source: http://www.spacious-mind.com/html/mach_ii_c__l_a__version.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.188: added Fidelity Electronics Excel 68000 Mach II (rev. C+) system.
+
+ROMSET:
+65536 bytes in 2 files / 41.4Kb packed
+
+$end
+$info=fex68km3
+$mame
+0.188 [CB-Emu]
+
+Excel 68000 Mach III Master, Fidelity Electronics, 1988
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.188: added Fidelity Electronics Excel 68000 Mach III system.
+
+ROMSET:
+65536 bytes in 2 files / 46.8Kb packed
+
+$end
+$info=fex68km4
+$mame
+0.215 [hap, Berger]
+
+Excel 68020 Mach IV Master 2325, Fidelity Electronics, 1989
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: hap and Berger added Fidelity Electronics Excel 68020 Mach IV Master 2325 system.
+
+ROMSET:
+65536 bytes in 2 files / 45.9Kb packed
+
+$end
+$info=fexcel,fexcel0
+$mame
+0.171 [hap, plgDavid]
+
+The Excellence (model 6080B), Fidelity Electronics, 1987
+
+Technical information and pictures: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Excellence
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.171: hap and plgDavid added Fidelity Electronics Excellence (model 6080/6093) system.
+
+ROMSET:
+32768 / 1 file / 23.6Kb packed
+
+$end
+$info=fexcel12
+$mame
+0.179 [anonymous]
+
+The Excellence (model EP12, set 1), Fidelity Electronics, 1985
+
+Technical information and pictures: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Excellence
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.184: Renamed (fexcela) to (fexcel12).
+- 0.179: anonymous added Fidelity Electronics The Excellence (model EP12) system.
+
+ROMSET:
+16384 bytes in 1 file / 12.0Kb packed
+
+$end
+$info=fexcel124
+$mame
+0.184 [yovan]
+
+The Excellence (model EP12, set 2), Fidelity Electronics, 1985
+
+Technical information and pictures: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Excellence
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.184: yovan added Fidelity Electronics The Excellence (model EP12, set 2) system.
+
+ROMSET:
+16384 bytes in 1 file / 12Kb packed
+
+$end
+$info=fexcela,fexep12
+$mame
+0.179 [hap, yovan]
+
+The Excellence (model 6080), Fidelity Electronics, 1985
+
+Technical information and pictures: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Excellence
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.184: Renamed (fexcelb) to (fexcela).
+- 0.179: hap and yovan added Fidelity Electronics The Excellence (model 6080) system.
+
+ROMSET:
+16384 bytes in 1 file / 12.0Kb packed
+
+$end
+$info=fexceld
+$mame
+0.179 [hap]
+
+Excel Display, Fidelity Electronics, 1987
+
+Technical information and pictures: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Excel_Display
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.179: hap added Fidelity Electronics Excel Display system.
+
+ROMSET:
+16384 bytes in 1 file / 12.0Kb packed
+
+$end
+$info=fexcelp,fparex
+$mame
+0.179 [anonymous]
+
+The Par Excellence, Fidelity Electronics, 1986
+
+In the advertising referred to as a price-performance monster, the Par Excellence offered in fact an excellent price-performance ratio. For a fraction of the price of a Fidelity Elite avant-garde, a device was available that even surpassed the avant-garde's gaming strength. You had to accept a simple plastic version in a color-accustomed case, which gave Par Excellence the top name "Oxenfrosch" (source, translated from the German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Par_Excellence).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.179: anonymous added Fidelity Electronics The Par Excellence system.
+
+ROMSET:
+32768 bytes in 1 file / 23.8Kb packed
+
+$end
+$info=fexcelpb
+$mame
+0.184 [hap]
+
+The Par Excellence (rev. B), Fidelity Electronics, 1986
+
+In the advertising referred to as a prize-money monster, the Par Excellence offered in fact an excellent price-performance ratio. For a fraction of the price of a Fidelity Elite avant-garde, a device was available that even surpassed the avant-garde's strength. You had to accept a simple plastic version in a color-accustomed case, which gave Par Excellence the top name "Oxenfrosch" (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Par_Excellence).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.184: hap added Fidelity Electronics The Par Excellence (rev. B) system.
+
+ROMSET:
+32768 bytes in 1 file / 23.8Kb packed
+
+$end
+$info=fexcelv
+$mame
+0.170 [plgDavid, hap]
+
+Voice Excellence, Fidelity Electronics, 1987
+
+Technical information and pictures: http://www.spacious-mind.com/html/voice_excellence.html
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.170: plgDavid and hap added Fidelity Electronics Voice Excellence system.
+
+ROMSET:
+65536 bytes in 2 files / 46.01Kb packed
+
+$end
+$info=fphantom
+$mame
+0.214 [Sandro Ronco]
+
+Phantom (Fidelity), Fidelity Electronics, 1988
+
+Technical information: http://members.toast.net/j.guy/fidelity/Phantom6100.htm
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.214: Machine promoted to working [Sandro Ronco].
+- 0.173: hap and Lord Nightmare added Fidelity Electronics Phantom (Fidelity) system.
+
+ROMSET:
+65536 bytes in 2 files / 39.4Kb packed
+
+$end
+$info=fpres,fpresg
+$mame
+0.198 [hap, Berger, yoyo_chessboard]
+
+Prestige Challenger (original program), Fidelity Electronics, 1982
+
+At the 8th Porz Open chess tournament from 14.8.1982 - 22.8.1982 the Fidelity Prestige won 3.5 points out of 9 games and achieved an ELO number of 1660 points. This value is surprisingly exactly the same as the 1661 points later determined by the SSDF. This device was the flagship in 1982, the absolute non-plus ultra from Fidelity Electronics. Technically, it is largely identical to the Fidelity Elite A / S, but in appearance it differs from this one by more sophisticated styling. As prestigious as the Prestige looks, it remains a chess computer that does not just want to be admired, it's also there to play. Of course, Fidelity also took this view, otherwise it would not have been provided with the same modular system as the Fidelity Sensory 9 and the Fidelity Elite A / S, and the opening module Fidelity PC 16 would be added at the same time. Thus, at the beginning of the game, 1,345 variants of the most important openings are available, which effectively lead to about 26,900 positions. A special game mode even allows practicing these variants. Modules for general and special openings, middlegame improvements, finals, lightning chess, championship games, special matriculation grades for problem composers and the like were launched over the years (sh fidelity modules), then a maximum depth of 32 half-moves in the analysis and matte search stage and two special programs for iterative and non-iterative search (source, translated from German: https://www.schach-computer.info/wiki/index.php/Fidelity_Prestige).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+fidel_scc.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Prestige Challenger (original program)'.
+- 0.198: hap, Berger and yoyo_chessboard added Fidelity Electronics Prestige Challenger (original program, English) system.
+
+ROMSET:
+24576 bytes in 6 files / 15.1Kb packed
+
+$end
+$info=fpresbu,fpresbug
+$mame
+0.198 [hap, Berger, yoyo_chessboard]
+
+Prestige Challenger (Budapest program), Fidelity Electronics, 1983
+
+At the 8th Porz Open chess tournament from 14.8.1982 - 22.8.1982 the Fidelity Prestige won 3.5 points out of 9 games and achieved an ELO number of 1660 points. This value is surprisingly exactly the same as the 1661 points later determined by the SSDF. This device was the flagship in 1982, the absolute non-plus ultra from Fidelity Electronics. Technically, it is largely identical to the Fidelity Elite A / S, but in appearance it differs from this one by more sophisticated styling. As prestigious as the Prestige looks, it remains a chess computer that does not just want to be admired, it's also there to play. Of course, Fidelity also took this view, otherwise it would not have been provided with the same modular system as the Fidelity Sensory 9 and the Fidelity Elite A / S, and the opening module Fidelity PC 16 would be added at the same time. Thus, at the beginning of the game, 1,345 variants of the most important openings are available, which effectively lead to about 26,900 positions. A special game mode even allows practicing these variants. Modules for general and special openings, middlegame improvements, finals, lightning chess, championship games, special matriculation grades for problem composers and the like were launched over the years (sh fidelity modules), then a maximum depth of 32 half-moves in the analysis and matte search stage and two special programs for iterative and non-iterative search (source, translated from German: https://www.schach-computer.info/wiki/index.php/Fidelity_Prestige).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+fidel_scc.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Prestige Challenger (Budapest program)'.
+- 0.198: hap, Berger and yoyo_chessboard added Fidelity Electronics Prestige Challenger (Budapest program, English) system.
+
+ROMSET:
+24576 bytes in 6 files / 15.1Kb packed
+
+$end
+$info=fscc12,fscc12a
+$mame
+0.189 [hap, Berger, yoyo_chessboard]
+
+Sensory Chess Challenger 12, Fidelity Electronics, 1984
+
+Fidelity Sensory Chess Challenger 12 (SC12)
+he manual indicates that this was the champion of the 1983 World Microcomputer Chess Championship in Budapest, Hungary. Level 9 has not time limit for the computer to respond. Levels 10, 11 and 12 are for solving mate in 2, 3 and 4 respectively. This model could also be hooked up to a printer. Additional features could be selected using special squares during setup, including a book practice mode (source: http://www.ismenio.com/chess_fidelity_sc12.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+fidel_scc.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: hap, Berger and yoyo_chessboard added Fidelity Electronics Sensory Chess Challenger 12 system.
+
+ROMSET:
+20480 bytes in 3 files / 14.3Kb packed
+
+$end
+$info=fscc12b
+$mame
+0.170 [Berger]
+
+Sensory Chess Challenger 12-B, Fidelity Electronics, 1984
+
+Fidelity model no. 6086. It gives me so far not entirely clear what the exact technical difference with the standard version of the Challenger 12. Who knows may say, but please substantiate the facts. From my disposal literature I am none the wiser, in fact, I get ascended information provided. Sometimes I read the Challenger 12 B has a 4 MHz CPU, but other sources contradict this again. Personally, I love it (for now) at 3 MHz. does this Sometimes a version (significantly) improved Budapest program? Or had improved (internal) opening book? This version was sometimes hardware improved? The exact release date remains an open question. A fact is that Fidelity whopping released two optically different models of the Challenger 12 B. My main indication that the Challenger 12B a 3 MHz CPU possession, I tap with a short message from the Computer Chess Digest Supplement (source, translated from Dutch: http://www.schaakcomputers.nl/hein_veldhuis/database/files/11-1984%20[C-0376]%20Fidelity%20-%20Sensory%20Chess%20Challenger%2012%20B%20(3%20MHz%20edition).pdf).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+fidel_scc.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Renamed (fscc12) to (fscc12b).
+- 0.170: Berger added Fidelity Electronics Sensory Chess Challenger 12-B system.
+
+ROMSET:
+20480 bytes in 3 files / 14,68Kb packed
+
+$end
+$info=fscc6
+$mame
+0.186 [hap, yoyo_chessboard]
+
+Sensory Chess Challenger 6, Fidelity, 1982
+
+The successor model of Sensory 8 has a modified library, which is also found in later models. The game levels were streamlined as well as the game strength. The ROM is located in a module, similar to the Sensory Mini. However, it is not compatible with other devices. Also, no other modules are running in the Sensory 6, only 2 specially designed for him on the market (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Sensory_Chess_Challenger_6).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.186: hap and yoyo_chessboard added Fidelity Sensory Chess Challenger 6 system.
+
+ROMSET:
+4096 bytes in 1 file / 2.43Kb packed
+
+$end
+$info=fscc8
+$mame
+0.185 [hap, yovan]
+
+Sensory Chess Challenger 8, Fidelity Electronics, 1980
+
+The successor to the CC 7 was the first fidelity with sensor board. The program is very similar to the predecessor and the openings have only been slightly modified (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Sensory_Chess_Challenger_8).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.185: hap and yovan added Fidelity Electronics Sensory Chess Challenger 8 system.
+
+ROMSET:
+4096 bytes in 1 file / 3.46Kb packed
+
+$end
+$info=fscc9
+$mame
+0.173 [hap, Berger]
+
+Sensory Chess Challenger 9 (rev. D), Fidelity Electronics, 1982
+
+Fidelity Sensory Chess Challenger 9. US Patent # 4,235,442, The opening book has nearly 3,000 positions. Takes back up to 15 moves.
+One feature I like on this unit that even some modern ones don't have is the ability to turn off the beep or it can be set to signal only the computer's move. It thinks on the opponent's time. Hint feature and a book practice mode where it will play any line in the book, not just the good ones. This was a very important machine because of its strength and it also had the ability to use different modules that you could purchase separately (source: http://www.ismenio.com/chess_sc9.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.186: Changed description to 'Sensory Chess Challenger 9 (rev. C01)'.
+- 0.173: hap and Berger added Fidelity Electronics Sensory Chess Challenger 9 system.
+
+ROMSET:
+16384 bytes in 2 files / 11.9Kb packed
+
+$end
+$info=fscc9b
+$mame
+0.176 [anonymous]
+
+Sensory Chess Challenger 9 (rev. B), Fidelity Electronics, 1982
+
+Fidelity Sensory Chess Challenger 9. US Patent # 4,235,442, The opening book has nearly 3,000 positions. Takes back up to 15 moves.
+One feature I like on this unit that even some modern ones don't have is the ability to turn off the beep or it can be set to signal only the computer's move. It thinks on the opponent's time. Hint feature and a book practice mode where it will play any line in the book, not just the good ones. This was a very important machine because of its strength and it also had the ability to use different modules that you could purchase separately (source: http://www.ismenio.com/chess_sc9.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.186: Changed description to 'Sensory Chess Challenger 9 (rev. D01)'.
+- 0.176: anonymous added Fidelity Electronics Sensory Chess Challenger 9 (set 2) system.
+
+ROMSET:
+16384 bytes in 2 files / 11.7Kb packed
+
+$end
+$info=fscc9c
+$mame
+0.187 [yoyo_chessboard]
+
+Sensory Chess Challenger 9 (rev. C), Fidelity Electronics, 1982
+
+Fidelity Sensory Chess Challenger 9. US Patent # 4,235,442, The opening book has nearly 3,000 positions. Takes back up to 15 moves.
+One feature I like on this unit that even some modern ones don't have is the ability to turn off the beep or it can be set to signal only the computer's move. It thinks on the opponent's time. Hint feature and a book practice mode where it will play any line in the book, not just the good ones. This was a very important machine because of its strength and it also had the ability to use different modules that you could purchase separately (source: http://www.ismenio.com/chess_sc9.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+fidel_scc.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.187: yoyo_chessboard added Fidelity Electronics Sensory Chess Challenger 9 (rev. C) system.
+
+ROMSET:
+16384 bytes in 2 files / 11.9Kb packed
+
+$end
+$info=fscc9ps
+$mame
+0.179 [anonymous]
+
+Sensory 9 Playmatic S, Fidelity Deutschland, 1983
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Sensory 9 Playmatic S' and manufacturer to 'Fidelity Deutschland'.
+- 0.179: anonymous added Fidelity Electronics Sensory 9 Playmatic S system.
+
+ROMSET:
+16384 bytes in 2 files / 11.6Kb packed
+
+$end
+$info=galileo
+$mame
+0.220 [hap, Berger]
+
+Kasparov Galileo, Saitek, 1988
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.220: hap and Berger added Saitek Galileo system.
+
+ROMSET:
+32768 bytes in 1 file / 20.6Kb packed
+
+$end
+$info=gen32,gen32_oc
+$mame
+0.143u8 [Cowering]
+
+Mephisto Genius030 V4.01, Hegener & Glaser Muenchen, 1993
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.143u8: Cowering added Mephisto Genius030 V4.01 system.
+
+ROMSET:
+262144 bytes in 1 file / 106.80Kb packed
+
+$end
+$info=gen32a,gen32a_oc
+$mame
+0.143u8 [Cowering]
+
+Mephisto Genius030 V4.00, Hegener & Glaser Muenchen, 1993
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Machine promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Genius030 V4.00 system.
+
+ROMSET:
+262144 bytes in 1 file / 106.78Kb packed
+
+$end
+$info=gen32l,gen32l_oc
+$mame
+0.143u8 [Cowering]
+
+Mephisto Genius 68030 London Upgrade, Hegener & Glaser Muenchen, 19??
+
+At that time, the first relatively low-cost 32 bit module set with a program of Richard Long. The significantly slower 68020 predecessor modules cost about 2000€. The program was also an EPROM upgrade for some older models. The Genius 2.0 program of the best according to many experts, chess programmer Richard Lang in November 1993 could win the world title. Originally conceived as a pure computer program, decided to make the German manufacturer Hegener & Glaser, this program also tip the owner of the modular boards accessible. The operation of the computer cursor is controlled using a model system, only six buttons (source, translated from german: https://www.schach-computer.info/wiki/index.php/Mephisto_Genius).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Clone promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Genius030 London Upgrade V5.00 system.
+
+ROMSET:
+262144 bytes in 1 file / 110.53Kb packed
+
+$end
+$info=ggm,ggm_boris,ggm_sandy,ggm_stein
+$mame
+0.209 [hap, bataais]
+
+Great Game Machine, Applied Concepts, 1980
+Chess modules: Boris-Sargon 2.5 / Sandy Edition / Steinitz Edition-4
+
+This Great Game Machine is with 2 modules: the Sargon 2.5 and the Morphy. Today, the Great Game machine looks like a museum piece, with its basic keyboard, its led display and its high price. But at that time, those like me who saw it coming in the shops were fascinated. It was modular but the modules were to expensive. Still today, its game style is very nice and it defends well at level "2 to 4 mn per move" (source: http://electronicchess.free.fr/index-UK.html#ggm).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+ggm.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: hap and bataais added Applied Concepts Great Game Machine system.
+
+ROMSET:
+None required.
+
+$end
+$info=glasgow
+$mame
+0.120 [Dirk Verwiebe, Robbbert, Cowering]
+
+Mephisto III S Glasgow, Hegener & Glaser Muenchen, 1984
+
+The 4th World Microcomputer Chess Championships were held at Glasgow in September 1984. Nineteen programs took part and first place was shared between the Psion program of Richard Lang, the Princhess program of Ulf Rathsman, Spracklens latest Fidelity version and a program called Mephisto Exclusive S. In fact three versions of Elmar Henne and Thomas Nitsche's Mephisto program competed on machines equipped with 68000 processors running at 12 MHz. Mephisto had both numerical and hardware advantages over their main opposition (source: http://www.chesscomputeruk.com/html/mephisto_iii-s_glasgow.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.196: Converted glasgow.cpp to use mmboard device for chess board I/O [Sandro Ronco].
+- 0.173: Bugfix #06074: [DIP/Input] (glasgow.c) glasgow: Mouse no longer able to move chess pieces [Robbbert].
+- 0.136: Upgraded artwork to be clickable. Fixed various driver problems. Chess can be played by using the mouse [Robbbert].
+- 0.132: Fixed blinking LEDs. This allows basic usage of this system [Fabio Priuli].
+- 03/03/2016 r45455: Removed code from Ralf Schaefer and demoted drivers to skeleton and not working [Miodrag Milanovic].
+- 11/08/2015 r40255: Reduce tagmap lookups [Wilbert Pol].
+- 23/04/2013 r22509: Made BEEP and RAM devices initialize in constructor of driver classes [Miodrag Milanovic].
+- 26/11/2012 r19156: Replaced all device_t's with actual device classes. Regression test recommended [Curt Coder].
+- 17/10/2012 r18573: Clean up some chess machines [Miodrag Milanovic].
+- 25/09/2012 r18139: 'TIMER_CALLBACK_DEVICE_MEMBER' modernization, part 2 [Miodrag Milanovic].
+- 13/09/2012 r17859: Massive change, MACHINE_START\RESET, VIDEO_START\RESET and PALETTE_INIT changed to be members of state classes [Miodrag Milanovic].
+- 0.120: Dirk Verwiebe, Robbbert and Cowering added Mephisto III S Glasgow system.
+
+ROMSET:
+65536 bytes in 4 files / 36.59Kb packed
+
+$end
+$info=granits
+$mame
+0.184 [hap]
+
+Granit S, hack (RCS), 1986
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Granit S'.
+- 0.184: hap added hack (RCS) Granit 'S' system.
+
+ROMSET:
+32768 bytes in 1 file / 23.8Kb packed
+
+$end
+$info=intel02,intel02a
+$mame
+0.207 [hap, Alex_LG]
+
+Intellect-02, BREA Research Institute, 1985
+chess modules: Intellect-02 (3 levels), Intellect-02a (4 levels)
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+intellect02.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.207: hap and Alex_LG added BREA Research Institute Intellect-02 system.
+
+ROMSET:
+None required.
+
+$end
+$info=kishon
+$mame
+0.184 [yovan]
+
+Kishon Chesster (v2.3), Fidelity Electronics, 1991
+
+Kishon Chesster is a German speaking Fidelity chess computer with the voice of the famous German chess amateur player Ephraim Kishon. Just like the English speaking Chesster used in the Fidelity Chesster range of computers, the commentaries are often very humorous and very interactive (source: http://www.spacious-mind.com/html/kishon_chesster.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: Changed description to 'Kishon Chesster (v2.3)'.
+- 0.184: yovan added Fidelity Electronics Kishon Chesster system.
+
+ROMSET:
+557056 bytes in 2 files / 465Kb packed
+
+$end
+$info=kishona
+$mame
+0.208 [Berger]
+
+Kishon Chesster (v2.2), Fidelity Electronics, 1991
+
+Kishon Chesster is a German speaking Fidelity chess computer with the voice of the famous German chess amateur player Ephraim Kishon. Just like the English speaking Chesster used in the Fidelity Chesster range of computers, the commentaries are often very humorous and very interactive (source: http://www.spacious-mind.com/html/kishon_chesster.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: Changed description to 'Kishon Chesster (v2.2)'.
+- 0.208: Berger added Fidelity Electronics Kishon Chesster system.
+
+ROMSET:
+557056 bytes in 2 files / 465Kb packed
+
+$end
+$info=lc80
+$mame
+0.133 [Curt Coder]
+
+Lerncomputer LC 80, VEB Mikroelektronik, 1984
+
+The LC80 was a small one-board computer, which was developed in 1982 by VEB Microelectronics Erfurt. In 1984, the computer was then unveiled at the Leipzig Spring Fair. In the same year began the series production The LC80 was equipped with a calculator keyboard to input and a 6-digit LED digital display for screen output. The main field was the education in schools and communities work (source, translated from german: http://www.robotrontechnik.de/index.htm?/html/computer/lc80.htm).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.133: Curt Coder added Lerncomputer LC-80 system. System is now fully working [Curt Coder].
+- 0.132: Added skeleton driver of Lerncomputer LC-80 system.
+
+ROMSET:
+4096 bytes in 3 files / 3.42Kb packed
+
+$end
+$info=lc80_2
+$mame
+0.133 [Curt Coder]
+
+Lerncomputer LC 80.2, VEB Mikroelektronik, 1984
+
+The LC80 was a small 1-board computer that was developed in 1982 by VEB microelectronics Erfurt. In 1984 the machine was then introduced at the Leipzig Spring Fair. In the same year began the series production. The LC80 was equipped with a calculator keypad for input and a 6-digit LED digital display to display. The main field was training in schools and associations (source, translated from german: http://www.robotrontechnik.de/index.htm?/html/computer/lc80.htm).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.133: Curt Coder added Lerncomputer LC-80.2 system.
+
+ROMSET:
+4096 bytes in 1 file / 3.15Kb packed
+
+$end
+$info=leonardo,leonardoa
+$mame
+0.220 [hap, Berger]
+
+Kasparov Leonardo, SciSys, 1986
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.220: hap and Berger added Saitek Leonardo system.
+
+ROMSET:
+32768 bytes in 1 file / 20.6Kb packed
+
+$end
+$info=lond16
+$mame
+0.212 [hap, Berger]
+
+Mephisto London 16 Bit, Hegener & Glaser Muenchen, 1996
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.212: hap and Berger added Mephisto London 16 Bit system.
+
+ROMSET:
+262144 bytes in 2 files / 117.7Kb packed
+
+$end
+$info=lond32,lond32_oc
+$mame
+0.143u8 [Cowering]
+
+Mephisto London 32 Bit, Hegener & Glaser Muenchen, 1996
+
+The program module of London Richard Long was never officially released. It is in this program for a subsequent update to the device Mephisto Almeria, Lyon, Porto Rose, Vancouver, Genius 68030, Berlin 68000, Berlin Pro, which could be converted in 1996 to the London program. The London program is similar to the PC program Genius 3, which in 1994 the then world champion Garry Kasparov at the Intel World Chess Grand Prix in two 25 minutes games with 1.5: 0.5 struck! (source, translated from german: https://www.schach-computer.info/wiki/index.php/Mephisto_London_68020).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Clone promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto London 68020 32 Bit system.
+
+ROMSET:
+262144 bytes in 1 file / 110.48Kb packed
+
+$end
+$info=lyon16
+$mame
+0.143u8 [Cowering]
+
+Mephisto Lyon 68000, Hegener & Glaser Muenchen, 1990
+
+Technical information (in german) and pictures: https://www.schach-computer.info/wiki/index.php/Mephisto_Lyon_68000
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Clone promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Lyon 68000 system.
+
+ROMSET:
+131072 bytes in 2 files / 98.19Kb packed
+
+$end
+$info=lyon32
+$mame
+0.143u8 [Cowering]
+
+Mephisto Lyon 68020, Hegener & Glaser Muenchen, 1990
+
+The Mephisto Lyon is again a continuous development of Portorose. The program offers a selectable first library in the tournament, he only variants that are advantageous for Lyon to play. The book has been expanded with the support of the Italian opening and IM gurus Sandro Necchi and in the tactical area considerably (in comparison to its predecessor Portorose on identical hardware) 2 to 20 (!) Times faster Lyon agreed program (source, translated from german, https://www.schach-computer.info/wiki/index.php/Mephisto_Lyon_68020).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Clone promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Lyon 68020 system.
+
+ROMSET:
+131072 bytes in 1 file / 91.18Kb packed
+
+$end
+$info=mchess
+$mame
+0.209 [hap, Sean Riddle]
+
+Computer Chess (Mattel), Mattel, 1980
+
+I knew Mattel Electronics Computer Chess was a remarkable game. In fact, I was so confident it was one of the best electronic chess games, I encouraged Mattel Electronics to challenge their leading competitor Fidelity Electronics Sensory Chess Challenger’ “8”, to a match. And as it turned out, my expectations were well founded. In more than 100 games, Mattel Electronics’ Computer Chess beat Fidelity's game 62% of the time (Games were played at highest regular game level for each). Computer Chess was programmed by International Chess Master Julio Kaplan, resulting in a game that plays more like a real person than a machine. It is portable and pocket sized, and has no separate pieces to lose. Both the chessboard and the pieces are represented by a large easy-to-read liquid crystal display. And the game's three playing modes provide a variety of game play for the newcomer as well as the experienced player. If chess is your game, I highly recommend you make your next move to Mattel Electronics Computer Chess. But don’t just take my word for it, compare for yourself. Once you do, I think you’ll choose Computer Chess. The game that checkmates the leading competitor (source: http://www.spacious-mind.com/html/computer_chess.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: hap and Sean Riddle added Mattel Computer Chess system.
+
+ROMSET:
+800430 bytes in 2 files / 54.9Kb packed
+
+$end
+$info=megaiv,megaiv_10,megaiva,megaiva_10
+$mame
+0.143u8 [Cowering]
+
+Mephisto Mega IV, Hegener & Glaser, 1988
+
+Technical information (in german) and pictures: https://www.schach-computer.info/wiki/index.php/Mephisto_Mega_IV
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.190: Machine promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Mega IV Schachcomputer system.
+
+ROMSET:
+32768 bytes in 1 file / 19.60Kb packed
+
+$end
+$info=mephisto
+$mame
+0.213 [hap, Berger]
+
+Mephisto I, Hegener & Glaser Muenchen, 1980
+
+Manfred Hegener and Florian Glaser started working together in 1969, with the aim of producing semiconductors. After coming into contact with programmers Thomas Nitsche and Elmar Henne in 1978, they decided to devote themselves to the production of electronic chess boards, and that was how in 1980 the brand "Mephisto" and the "Mephisto I" - soon nicknamed "Das brickett" came to light. ", The brick - was put up for sale.
+In 1984, Hegener & Glaser managed to add the programmer Richard Lang, known for having just won the World Microcomputer Chess Championship (WMCCC) with his software for Psion. In the same year Thomas Nitsche and Elmar Henne participated in the WMCC with the Mephisto III-S Glasgow, which ranked first among the dedicated chess computers. Richard Lang won the next six WMCCs (1985 - 1990) with the Mephisto brand, thanks to the Amsterdam, Dallas, Rome, Almeria, Portorose and Lyon models, thus making Hegener & Glaser the largest and most famous manufacturer of electronic chessboards of the years 80. In 1989, Hegener & Glaser purchased Fidelity Electronics, which had since become in crisis, but Fidelity's debts and market contraction soon led to Hegener and Glaser, who had to sell their company to Saitek Ltd. (source, translated from Italian: https://museoscacchi.wordpress.com/hegener-glaser-mephisto/).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.213: hap and Berger added Mephisto I system.
+
+ROMSET:
+6144 bytes in 6 files / 5.9Kb packed
+
+$end
+$info=mephisto1x
+$mame
+0.215 [hap, Berger]
+
+Mephisto I X, Hegener & Glaser Muenchen, 1981
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.215: hap and Berger added Mephisto I X system.
+
+ROMSET:
+12288 bytes in 3 files / 10.0Kb packed
+
+$end
+$info=mephisto2,mephisto2a
+$mame
+0.213 [hap, Berger]
+
+Mephisto II, Hegener & Glaser Muenchen, 1981
+
+Manfred Hegener and Florian Glaser started working together in 1969, with the aim of producing semiconductors. After coming into contact with programmers Thomas Nitsche and Elmar Henne in 1978, they decided to devote themselves to the production of electronic chess boards, and that was how in 1980 the brand "Mephisto" and the "Mephisto I" - soon nicknamed "Das brickett" came to light. ", The brick - was put up for sale.
+In 1984, Hegener & Glaser managed to add the programmer Richard Lang, known for having just won the World Microcomputer Chess Championship (WMCCC) with his software for Psion. In the same year Thomas Nitsche and Elmar Henne participated in the WMCC with the Mephisto III-S Glasgow, which ranked first among the dedicated chess computers. Richard Lang won the next six WMCCs (1985 - 1990) with the Mephisto brand, thanks to the Amsterdam, Dallas, Rome, Almeria, Portorose and Lyon models, thus making Hegener & Glaser the largest and most famous manufacturer of electronic chessboards of the years 80. In 1989, Hegener & Glaser purchased Fidelity Electronics, which had since become in crisis, but Fidelity's debts and market contraction soon led to Hegener and Glaser, who had to sell their company to Saitek Ltd. Although the printer or TV interface never appeared on the market, it did, however, launch a new program in December 1981. The Mephisto II program was twice as large (16 KByte), had a much larger opening repertoire (4,000 half-trains instead of 220) and was also considerably stronger. After all, it was the world champion of Travemünde, the Mark V, superior. Only after a few months had it beaten the new Fidelity stars Sensory 9 and Prestige, although it could defeat the Prestige even in a sensational show fight under the supervision of a Bundesliga referee. Here is not flawless, but quite nice lot (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_II).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.213: hap and Berger added Mephisto II system.
+
+ROMSET:
+12288 bytes in 3 files / 10.3Kb packed
+
+$end
+$info=mephisto2e
+$mame
+0.213 [Berger, Achim]
+
+Mephisto ESB II, Hegener & Glaser Muenchen, 1981
+
+With ESB II, the program module for the Mephisto II basic unit was called, which enabled the control of the magnetic sensor boards ESB II, ESB 3000 and ESB 6000. The first version is i. W. the program Mephisto II with from 300 to 350 variants increased opening library and was brought simultaneously with the simple Mephisto II basic unit Christmas 1981 on the market. It ran like the Mephisto II with a 3.5 MHz basic unit. With the introduction of the 6.1 MHz basic units (briquette), a new ESB IIb module was launched, which runs in the boards ESB 3000/6000. In this module, the software should be improved again, especially the Enspielverhalten. This version can also be found in the later Mirage module. ESB II was also the first magnetic sensor board (similar to the Mephisto ESB 6000) of Mephisto called. In contrast to the ESB 6000, the module was built into the board and only modules of the first series are running with a sticker on the back, so the board control is not compatible with the ESB 3000/6000. The Mephisto ESB II clock rate was initially 3.5Mhz, and later, after the introduction of the 6.1MHz briquette, even older 6.1MHz ESB IIs were sold off. From the ESB 3000/6000 all variants had 6.1 MHz (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_ESB_II).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.213: Berger and Achim added Hegener & Glaser Mephisto ESB II system.
+
+ROMSET:
+16384 bytes in 4 files / 13.2Kb packed
+
+$end
+$info=mephisto3,mephisto3b
+$mame
+0.213 [hap, Berger]
+
+Mephisto III, Hegener & Glaser Muenchen, 1983
+
+The memory module of the predecessor Mephisto II (left, inside view of the III module type b) also works in the Mephisto III basic unit. And vice versa, of course! However, there seems to be newer III basic devices in which the II module is not working properly. Also interesting is the fact that in some later III basic devices the processor 1806 was installed instead of the 1802. The Mephisto III program can also be found in the insert Mephisto MM I for the Modular series. The main difference was the use of the 8 MHz processor 1806. There are 2 versions of the Mephisto III program: the former version III a contains a bug in the problem solving level. Only version III b is actively playing e4 e6 in the opening. You can also differentiate the versions with a look at the opened program module: the a-version is stored in 2 EPROMs, the B version is in a ROM (the 2 additional blocks are RAMs, ie the modules contain 4 or 3 chips). Upon request, the newer basic devices of Mephisto II or Mephisto III (6.1 MHz versions) could be converted to 12 MHz, but then ran only with IIIer module. For this purpose, the processor CDP 1802 was replaced by a CDP 1805 and the on-board electronics were slightly modified (supply voltage increased during mains operation). When battery powered, these devices run as usual at 3.5 MHz. Instead of the 6.1 MHz version typical about 1.8 positions / s comes a 12 MHz briquette to about 3.4 positions. For comparison, a Mephisto MM I 8 MHz creates 2.3 positions, while a Mephisto III-S Glasgow (68000, 12 MHz) manages (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_III).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.213: hap and Berger added Mephisto III system.
+
+ROMSET:
+32768 bytes in 2 files / 21.3Kb packed
+
+$end
+$info=milano,milano10,milanoa,milanoa10
+$mame
+0.142 [Dirk Verwiebe, Ralf Schaefer, Cowering]
+
+Mephisto Milano, Hegener & Glaser, 1986
+
+The program of the Mephisto Milano is based on the Mephisto Polgar and contains additional tactical algorithms of Mephisto MM V and its own kind of extensions (in this case extensions for chess bids that go beyond the normal level), which should vouch for the skill level of its predecessor to surpass even a lot. Impact of these extensions is the following position very clearly, the Polgar needed over 20 minutes for Matt, it is for Milan in a matter of seconds (source: https://www.schach-computer.info/wiki/index.php/Mephisto_Milano).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.142: Dirk Verwiebe, Ralf Schaefer and Cowering added Mephisto Milano Schachcomputer system.
+
+ROMSET:
+65536 bytes in 1 file / 32.74Kb packed
+
+$end
+$info=mm1,mm1b
+$mame
+0.213 [hap, Berger]
+
+Mephisto MM I, Hegener & Glaser, 1983
+
+The Mephisto III program can be found here in the insert Mephisto MM I for the modular series again. The main difference to the Mephisto III was the use of the 8 MHz processor 1806. Like the Mephisto III there were at least 2 ROM versions ("A" and "B") on the MM I. Version "a" occupies both ROM slots on the board, with version "b" a slot was left empty (see fig.). There are also modules in which the socket for the 2.EPROM is no longer available. To the programmatic differences regarding "a" and "b" see Mephisto III (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_MM_I).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+mephisto_mm1.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: hap and Berger added Mephisto MM I system.
+
+ROMSET:
+32768 bytes in 2 files / 21.1Kb packed
+
+$end
+$info=mm2,mm20,mm2a,mm2b,mm2c,mm2d
+$mame
+0.140 [Ralf Schaefer]
+
+Mephisto MM II, Hegener & Glaser, 1984
+
+Technical information, in german, and pictures: https://www.schach-computer.info/wiki/index.php/Mephisto_MM_II
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+mephisto_mm2.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Changed description to 'Mephisto MM II'.
+- 03/02/2013 r20690: Fixed csc and mm2 regressions [Sandro Ronco].
+- 0.140: Ralf Schaefer added Mephisto MM2 system.
+
+ROMSET:
+32768 bytes in 2 files / 22.21Kb packed
+
+$end
+$info=mm4,mm4a,mm4b
+$mame
+0.119 [Dirk Verwiebe, Cowering]
+
+Mephisto MM IV, Hegener & Glaser, 1987
+
+"MM IV" - the name is not very successful, but I always prefer names like "Forte", "Rebel" or "Leonardo" to the dry Roman numerals. Also, surely all world will speak of "Mephisto MM IV", which is actually wrong, because one "M" already stands for "Mephisto" (and the second for "Modular"). Accordingly, the "Mephisto Modular IV module" has been released, which is delivered in the well-known Modular, Exclusive and Munich devices, but it can also be operated in the mobile version. The new Hegener & Glaser program comes from Ed Schröder and has been further developed from the rebel. It is to be feared that just as at the time when the "B + P module" was followed shortly after its launch by the "MM IV", this time also many rebel buyers will be annoyed about the rapid obsolescence of their device Dave Kittinger once told me that chess computer business downtime is tantamount to regression (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_MM_IV).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+mephisto_mm4.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Changed description to 'Mephisto MM IV'.
+- 0.119: Dirk Verwiebe, Cowering added Hegener & Glaser Mephisto 4 Schachcomputer system.
+
+ROMSET:
+49152 bytes in 2 files / 31.36Kb packed
+
+$end
+$info=mm4tk,mm4tk_mr
+$mame
+0.154 [Tafoid]
+
+Mephisto MM IV (TurboKit + HG440), Hegener & Glaser, 1987
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Changed description to 'Mephisto MM IV (TurboKit + HG440)'.
+- 0.154: Tafoid added Hegener & Glaser Mephisto 4 Schachcomputer Turbo Kit + HG440 system.
+
+ROMSET:
+32768 bytes in 1 file / 19.37Kb packed
+
+$end
+$info=mm5,mm5a
+$mame
+0.119 [Dirk Verwiebe, Cowering]
+
+Mephisto MM V (V5.1), Hegener & Glaser, 1990
+
+In 1990, the Mephisto MM V program appeared on the market and is still one of the most popular modules! There are several reasons: Firstly, it is the last module of Hegener and Glaser, which can also be operated in the mobile and thus Mephisto "pocket-portable" is. Secondly, it is because of his playing style. But the program itself has other undeniable qualities: failed the narrow opening repertoire for which a circumference of 8000 half moves is specified. But at least all transpositions are detected. To compensate you can access opening to the HG 550 module that expands the scope of nearly 20,000 half moves, but in the mobile / slot can not be operated (source, translated from german: https://www.schach-computer.info/wiki/index.php/Mephisto_MM_V).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+mephisto_mm5.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Changed description to 'Mephisto MM V (V5.1)'.
+- 0.119: Dirk Verwiebe and Cowering added Hegener & Glaser Mephisto 5 Schachcomputer system.
+
+ROMSET:
+49152 bytes in 2 files / 32.72Kb packed
+
+$end
+$info=mm50
+$mame
+0.120 [Dirk Verwiebe]
+
+Mephisto MM V (V5.0), Hegener & Glaser, 1990
+
+In 1990, the Mephisto MM V program appeared on the market and is still one of the most popular modules! There are several reasons: Firstly, it is the last module of Hegener and Glaser, which can also be operated in the mobile and thus Mephisto "pocket-portable" is. Secondly, it is because of his playing style. But the program itself has other undeniable qualities: failed the narrow opening repertoire for which a circumference of 8000 half moves is specified. But at least all transpositions are detected. To compensate you can access opening to the HG 550 module that expands the scope of nearly 20,000 half moves, but in the mobile / slot can not be operated (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_MM_V).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Changed description to 'Mephisto MM V (V5.0)'.
+- 0.120: Dirk Verwiebe added Mephisto Rebel 5.0 system.
+
+ROMSET:
+49152 bytes in 2 files / 32.71Kb packed
+
+$end
+$info=mm5p,mm5ptk
+$mame
+0.214 [CB-Emu]
+
+Mephisto Rebel-X (MM V prototype), Ed Schröder, 1989
+
+This program module (running under the name 'Rebel' in a Mephisto MM V TurboKit) won the 2nd place in the 9th WMCCC Portorose 1989 and the 1st place in the 1st Computer Olympiad (Chess) London 1989.
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+-
+
+ROMSET:
+56536 bytes in 2 files / 28.9Kb packed
+
+$end
+$info=mm5tk
+$mame
+0.142 [Dirk Verwiebe, Cowering]
+
+Mephisto MM V (V5.1) (TurboKit + HG550), Hegener & Glaser, 1990
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+WIP:
+- 0.209: Changed description to 'Mephisto MM V (V5.1) (TurboKit + HG550)'.
+- 0.142: Dirk Verwiebe and Cowering added Hegener & Glaser Mephisto 5.1 Schachcomputer Turbo Kit + HG550 system.
+
+ROMSET:
+49152 bytes in 2 files / 32.72Kb packed
+
+$end
+$info=mmirage
+$mame
+0.213 [hap, Berger]
+
+Mephisto Mirage, Hegener & Glaser, 1984
+
+MEPHISTO Mirage Module has seven preprogrammed playing levels plus one user defined level which allows you define the amount of time per move, between 1 second to 59 minutes and 59 seconds. In addition the MEPHISTO Mirage has a problem level which allows you to setup problem or mate search positions up to Mate-in-8 half moves. The chess program was developed by Thomas Nitsche and Elmar Henne, Mephisto Mirage was first sold in 1985 (source: http://www.spacious-mind.com/html/module_mirage.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: hap and Berger added Mephisto Mirage system.
+
+ROMSET:
+32768 bytes in 1 files / 12.9Kb packed
+
+$end
+$info=modena,modena_8,modenaa,modenaa_8,modenab,modenab_8
+$mame
+0.190 [yoyo_chessboard, Sandro Ronco]
+
+Mephisto Modena, Hegener & Glaser, 1992
+
+The Modena is the weakest device from the laptop design series from Mephisto. The program comes from Frans Morsch and seems to include version 2.05 of the well-known Dominator program. It has some peculiar peculiarities, for example, if one wishes to take back the long Rochade with TAKEBACK, it is first correctly asked to place the king from c1 to e1; but he will have placed the tower from d1 to g1. The self-test is also started with the same key combination, as with the Dominator: Press and hold the springer and pawn buttons, then the display shows "Test". With the Dominator you can now read the version number in the second display; since this is missing at Modena, the version is unfortunately not recognizable with him (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Mephisto_Modena).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.190: yoyo_chessboard and Sandro Ronco added Hegener & Glaser Mephisto Modena system.
+
+ROMSET:
+65536 bytes in 2 files / 44.1Kb packed
+
+$end
+$info=mondial
+$mame
+0.191 [Sandro Ronco]
+
+Mephisto Mondial, Hegener & Glaser, 1985
+
+The Mephisto Mondial was the first chess computer with a program by Frans Morsch. The UrFritz, so to speak, even if the program name Nona was used on the then tournaments. Nona won in 1985 in Amsterdam, then still running on an Apple IIe, superior with 7 points from 7 games, the World Cup title in the amateur group. The second-placed Rebel found his way into the modular series after the 85er WM (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_Mondial).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: Sandro Ronco added Hegener & Glaser Mephisto Mondial system.
+
+ROMSET:
+16384 bytes in 1 file / 9Kb packed
+
+$end
+$info=mondial2
+$mame
+0.191 [yoyo_chessboard, Sandro Ronco]
+
+Mephisto Mondial II, Hegener & Glaser, 1987
+
+Soll der Computer mit Weiss beginnen, so muss wie bei dem "Super-Mondial" mit den weissen Steinen von "oben" gespielt werden! Bei allen anderen Mondial-Brettern ist wird in diesem Fall normal von "unten" begonnen. Den verbesserten Mondial gab es auch als Zusatzmodul MM 1000 zur nachträglichen Aufrüstung (von Mondial auf Mondial II) der ersten Geräte. In dem nun doppelt so großen EPROM fanden neben einer umfangreicheren Eröffnungsbibliothek und neuen Bewertungskriterien für das Mittelspiel, lt. Hersteller auch mehr Endspielwissen Platz (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Mephisto_Mondial_II).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.191: yoyo_chessboard and Sandro Ronco added Hegener & Glaser Mephisto Mondial II system.
+
+ROMSET:
+32768 bytes in 1 file / 22Kb packed
+
+$end
+$info=mondl68k
+$mame
+0.212 [Sandro Ronco, Berger]
+
+Mephisto Mondial 68000XL, Hegener & Glaser, 1988
+
+In order to gain a foothold in the predominantly Fidelity-dominated US market, Hegener & Glaser launched the 16-bit variant of the Mephisto Dallas World Championship program in the Mondial case at a low price of $ 399 at the time. A sale in Europe was not intended, but the Mondial 68000XL was then distributed in Germany. There is an original German BDA. In most German copies minus is located at the power input socket inside, as in the US version, but there are also copies with plus inside. Unfortunately, there is no label on the outside of the power supply connector, but a good reverse polarity protection protects the device (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_Mondial_68000XL).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.212: Sandro Ronco and Berger added Hegener & Glaser Mephisto Mondial 68000XL system.
+
+ROMSET:
+65536 bytes in 2 files / 43.9Kb packed
+
+$end
+$info=montec,montec2,monteca
+$mame
+0.190 [Sandro Ronco]
+
+Mephisto Monte Carlo, Hegener & Glaser, 1987
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.190: Sandro Ronco added Hegener & Glaser Mephisto Monte Carlo system.
+
+ROMSET:
+32768 bytes in 1 file / 22.7Kb packed
+
+$end
+$info=monteciv
+$mame
+0.143u8 [Cowering]
+
+Mephisto Monte Carlo IV LE, Hegener & Glaser, 1990
+
+This Limited Edition Monte Carlo IV was produced for the 10th anniversary of Hegener & Glaser Mephisto Computers. Only 500 were produced and when switched on the two LCD's display 'EDIT' and '500'. With it's 8MHz of processing speed, the MEPHISTO MONTE CARLO IV LIMITED EDITION is the strongest of the Mephisto Monte Carlo named computers. This small wooden Auto Sensory chess computer, like all the other Monte Carlo computers is a very attractive wooden chess computer and it is a pleasure to play. Rated at approximately 2050 ELO (USCF 2300) (source: http://www.spacious-mind.com/html/monte_carlo_iv_le.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.190: Clone promoted to working [Sandro Ronco].
+- 24/05/2013 r23138: Fixed regression [Wilbert Pol].
+- 0.143u8: Cowering added Mephisto Monte Carlo IV LE Schachcomputer system.
+
+ROMSET:
+32768 bytes in 1 file / 19.40Kb packed
+
+$end
+$info=montreux
+$mame
+0.180 [unknown]
+
+Mephisto Montreux, Saitek / Hegener & Glaser, 1995
+
+Montreux, the small town on Lake Geneva, was the name of the Mephisto computer of the same name. "If you want peace of mind, come to Montreux," Freddie Mercury once asked the world. Why, however, this chess computer has been given the name of Montreux, will always remain a secret of the company Hegener & Glaser (Saitek), because this device can not contribute to the peace of the soul. His costume consists much more in mocking this with his aggressive style. Behind the black plastic sheath hides an ARM6 32Bit RISC processor, which is powered at 14 MHz. Furthermore, 128KB RAM is available for thought support. The unit is controlled by 17 buttons, which are located on the right side. The figures are set by pressure sensors or animated by the 16 edge LEDs for setting. Perhaps these factors are inter alia. Responsible for the fact that the Montreux never brought it to a real collecting room. The entire exterior (washboard design) is as simple or if one were malicious, to call cheap. In addition there is the time of the creation. The Montreux dates from 1995. A time, as we all know, in which the rushing PC wave rinsed almost all chess computers. In short, the Montreux just came too late to get a few more laurels (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Mephisto_Montreux).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.180: unknown added Mephisto Montreux system.
+
+ROMSET:
+262144 bytes in 1 file / 105Kb packed
+
+$end
+$info=mrisc,mrisc_28
+$mame
+0.189 [Sandro Ronco]
+
+Mephisto RISC 1MB, Hegener & Glaser, 1992
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.192: Fixed opening book. Machine promoted to working. Added PROM dumps and removed the ARM boot hack [CB-Emu, Roland Langfeld, Sandro Ronco].
+- 0.189: Sandro Ronco added Hegener & Glaser Mephisto RISC 1MB system.
+
+ROMSET:
+131072 bytes in 1 file / 60.7Kb packed
+
+$end
+$info=mrisc2,mrisc2_28
+$mame
+0.189 [Sandro Ronco]
+
+Mephisto RISC II, Hegener & Glaser, 1994
+
+MEPHISTO Risc II came out in 1994. The program is written by Ed Schroeder and is the same program that won the Hardware Division of the 1992 World Computer Chess Championship (WCCC) in Madrid, Spain. The actual program that won 1992 WCCC championship was the TASC B. V. Chessmachine card with the program Gideon version 3.1 Madrid. This program was made available as a module for the MEPHISTO modular range of chess computers in 1994. The processor is an ARM2 RISC processor running at 14 MHz with 128 KB ROM and 1024 KB RAM. The build-in opening book comprises of approximately 80,000 half-moves. The Risc II module works with the MEPHSITO Exclusive and Muenchen modular chessboards (source: http://www.spacious-mind.com/html/module_risc_ii.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.192: Clone promoted to working [CB-Emu, Roland Langfeld and Sandro Ronco].
+- 0.189: Sandro Ronco added Hegener & Glaser Mephisto RISC II system.
+
+ROMSET:
+131072 bytes in 1 file / 61Kb packed
+
+$end
+$info=nocto
+$mame
+0.185 [hap, Berger]
+
+Octo (Novag), Novag, 1987
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.185: hap and Berger added Novag Octo system.
+
+ROMSET:
+2048 bytes in 1 file / 1.98Kb packed
+
+$end
+$info=npresto
+$mame
+0.185 [hap, Berger]
+
+Presto (Novag), Novag, 1984
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.185: hap and Berger added Novag Presto system.
+
+ROMSET:
+2048 bytes in 1 file / 1.98Kb packed
+
+$end
+$info=nshort
+$mame
+0.189 [Sandro Ronco]
+
+Mephisto Nigel Short, Hegener & Glaser, 1993
+
+Contains a slightly revised program version of the Mephisto Milano and came only in England on the market. Mephisto Milano's test mode, backup battery and battery operation also apply to the Nigel Short. The latest program version (available via test mode) is as shown in the photo below 2.00 (source, translated from German: https://www.schach-computer.info/wiki/index.php/Mephisto_Nigel_Short).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Sandro Ronco added Hegener & Glaser Mephisto Nigel Short system.
+
+ROMSET:
+65536 bytes in 1 file / 32.9Kb packed
+
+$end
+$info=polgar
+$mame
+0.140 [Dirk Verwiebe, Ralf Schaefer, Cowering]
+
+Mephisto Polgar, Hegener & Glaser, 1986
+
+A dedicated chess computer module for Mephisto boards by Hegener & Glaser launched in 1989. The Rebel based 8-bit program by Ed Schröder run on a 65C02 CMOS processor. The same program appeared in the Mephisto Academy, a computer with focus on didactics and teaching chess, also dedicated to the Polgar sisters Susan, Sofia and Judit (source: http://chessprogramming.wikispaces.com/Mephisto+Polgar).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Machine promoted to working [Sandro Ronco].
+- 0.140: Dirk Verwiebe, Ralf Schaefera and Cowering added Mephisto Milano Schachcomputer system.
+
+ROMSET:
+67680 bytes in 2 files / 29.65Kb packed
+
+$end
+$info=polgar10,polgar101
+$mame
+0.189 [Sandro Ronco]
+
+Mephisto Polgar 10MHz, Hegener & Glaser, 1990
+
+The program in the Mephisto Polgar 10MHz is the same as the standard Polgar (5MHz) but running exactly twice as fast. The Polgar 10MHz modules were only issued by Mephisto in suitably adapted Modular or Exclusive boards. The Modular combination cost £749 in the UK, and the Exclusive £879. They both came with a stern warning not to attempt to use the modules in other boards or to use the adapted boards with other types of module. The orange notice (pictured below) warns that only the enclosed Polgar 10MHz modules work with that board because of changes made in the electrical supply. All other modules which normally run with the board may be destroyed (or words to that effect) (source: http://www.chesscomputeruk.com/html/mephisto_exclusive_polgar_10_mhz.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Sandro Ronco added Hegener & Glaser Mephisto Polgar 10MHz system.
+
+ROMSET:
+131072 bytes in 2 files / 59.2Kb packed
+
+$end
+$info=port16
+$mame
+0.189 [Sandro Ronco]
+
+Mephisto Portorose 68000, Hegener & Glaser, 1989
+
+One year had passed since the Micro-World Championship in Almeria, Spain, and the new battlefield was called Portorose (today's Slovenia). Hegener & Glaser (Mephisto) had set the same success duo Richard Lang / Ossi Weiner - just as it turned out. Everything should be, and measured against the high expectations, it was also better. The "new" came mainly with a "commercial hardware", which had in itself: a Motorola 68030 with 36 MHz, 2 megabytes for hash tables, to get "favorable" 15,000 DM. Standard mortals were allowed a.) Almeria `S for conversion to Munich or b.) With the" favorable "68020 (32 Bit) + 68000 (16 Bit) modulesets. Since no commercial opponent could be found on the ground in the World Championship, Mephisto got this title without a fight. But just - in the software group, the spoiled serie victor was able to cross the blades and show what improvement he had against his predecessor. It will not surprise anyone when it is said that the game of the Portorose is still to be characterized as a positional calm. The already comprehensive opening library was again expanded (from approx. 60,000 to approximately 85,000 half-berths). The equipment has been rounded off (some "unsettled" of the menu system have been improved, including, in particular, the position input), 3 selectable play styles introduced (risk, active (basic setting) and solid). The rest of the changes concerned mainly the chess program. The game style is slightly more powerful, with a wild attacker still far away in every game style setting. It is interesting that the Portorose already seems to show real strategic approaches and does not act tactically or tactfully. Sure - there were at this time stronger tacticians (Fidelity) but unfortunately in the positionally noticeable dropped (albeit at a high level). It seems to be mainly the whole package, which made the Portorose at that time to a hard to beat for computers as humans. In simultaneous events Karpov + Hübner's scalps were captured, at the open computer world championship, Deep Thought, which was promptly defeated. Whom is it still there, which was also a selection of the then freshly baked German champion in Schnellschach with 7.5 to 4.5 points outclassed? No - to achieve this, the Portorose must be able to play a little chess (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Mephisto_Portorose_68000).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Sandro Ronco added Hegener & Glaser Mephisto Portorose 68000 system.
+
+ROMSET:
+106496 bytes in 2 files / 80.8Kb packed
+
+$end
+$info=port32,port32_oc,port32a,port32a_oc
+$mame
+0.189 [Sandro Ronco]
+
+Mephisto Portorose 68020, Hegener & Glaser, 1989
+
+One year had passed since the Micro-World Championship in Almeria, Spain, and the new battlefield was called Portorose (today's Slovenia). Hegener & Glaser (Mephisto) had set the same success duo Richard Lang / Ossi Weiner - just as it turned out. Everything should be, and measured against the high expectations, it was also better. The "new" came mainly with a "commercial hardware", which had in itself: a Motorola 68030 with 36 MHz, 2 megabytes for hash tables, to get "favorable" 15,000 DM. Standard mortals were allowed a.) Almeria `S for conversion to Munich or b.) With the" favorable "68020 (32 Bit) + 68000 (16 Bit) modulesets. Since no commercial opponent could be found on the ground in the World Championship, Mephisto got this title without a fight. But just - in the software group, the spoiled serie victor was able to cross the blades and show what improvement he had against his predecessor. It will not surprise anyone when it is said that the game of the Portorose is still to be characterized as a positional calm. The already comprehensive opening library was again expanded (from approx. 60,000 to approximately 85,000 half-berths). The equipment has been rounded off (some "unsettled" of the menu system have been improved, including, in particular, the position input), 3 selectable play styles introduced (risk, active (basic setting) and solid). The rest of the changes concerned mainly the chess program. The game style is slightly more powerful, with a wild attacker still far away in every game style setting. It is interesting that the Portorose already seems to show real strategic approaches and does not act tactically or tactfully. Sure - there were at this time stronger tacticians (Fidelity) but unfortunately in the positionally noticeable dropped (albeit at a high level). It seems to be mainly the whole package, which made the Portorose at that time to a hard to beat for computers as humans. In simultaneous events Karpov + Hübner's scalps were captured, at the open computer world championship, Deep Thought, which was promptly defeated. Whom is it still there, which was also a selection of the then freshly baked German champion in Schnellschach with 7.5 to 4.5 points outclassed? No - to achieve this, the Portorose must be able to play a little chess (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Mephisto_Portorose_68020).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Sandro Ronco added Hegener & Glaser Mephisto Portorose 68020 system.
+
+ROMSET:
+131072 bytes in 1 file / 75.3Kb packed
+
+$end
+$info=prodigy,prodigy_kbd
+$mame
+0.180 [Joakim Larsson Edstrom]
+
+ACI Destiny Prodigy, Applied Concepts Inc, 1981
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+Picture from Blitzchess
+
+WIP:
+- 0.210: Driver rewrite by hap (chessboard working)
+- 0.201: Modernized machine configuration on many devices and systems [Ryan Holtz].
+- 0.193: Added basic LAY to SVG XSLT filter [Joakim Larsson Edstrom].
+- 0.192: Added clickable layout, making the machine playable; updated keypad logic to use ioport_array [Joakim Larsson Edstrom].
+- 0.183: Added netlist for BCD display, got correct boot up display but no interaction yet as keypad is missing, added layout [Joakim Larsson Edstrom].
+- 0.181: Added layout [Joakim Larsson Edstrom].
+- 0.180: Joakim Larsson Edstrom added Applied Concepts Inc ACI Destiny Prodigy system.
+
+ROMSET:
+8192 bytes in 1 file / 6.42Kb packed
+
+$end
+$info=prschess
+$mame
+0.215 [hap, Berger]
+
+President Chess, SciSys, 1982
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: hap and Berger added Saitek President Chess system.
+
+ROMSET:
+16384 bytes in 1 file / 12.5Kb packed
+
+$end
+$info=prtchess
+$mame
+0.215 [hap, Sean Riddle]
+
+Portachess (1985 version), CXG Systems / Newcrest Technology, 1985
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: hap and Sean Riddle added CXG Portachess (1985 version) system.
+
+ROMSET:
+8192 bytes in 1 file / 3.5Kb packed
+
+$end
+$info=rebel5,rebel50,rebel5a
+$mame
+0.119 [Dirk Verwiebe]
+
+Mephisto Rebell 5.0, Hegener & Glaser, 1986
+
+Hardly a program has been very eagerly awaited as at the time of the rebel Mephisto 5.0, the foundation stone was laid in this computer-WM 1986 WCCC in Cologne. During the tournament rebel had several competitors that ran on mainframes, beaten and impressively in the last round, the chance to win with a victory over the American program Be-Be for the world title. Unfortunately the program Schröder resist in a profitable position in fatal Pawn not finished and finally the 5th Place (source, translated from german: https://www.schach-computer.info/wiki/index.php/Mephisto_Rebell_5.0).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+WIP:
+- 0.209: Changed description to 'Mephisto Rebell 5.0'.
+- 0.148: Bugfix #05055: [Documentation] (mephisto.cpp): The correct name of this set is 'Mephisto Rebell 5,0' [AntoPISA, Robbbert].
+- 0.119: Dirk Verwiebe added Mephisto Rebel 5 Schachcomputer system.
+
+ROMSET:
+37768 bytes in 1 file / 19.32Kb packed
+
+$end
+$info=rebel5tk
+$mame
+0.215 [CB-Emu]
+
+Mephisto Rebell 5.0 (TurboKit), Hegener & Glaser, 1986
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: added Mephisto Rebell 5.0 (TurboKit)
+
+ROMSET:
+32768 bytes in 1 file / 19.0Kb packed
+
+$end
+$info=regence
+$mame
+0.215 [hap]
+
+La Regence, France Double R, 1982
+
+French chess computer by "France Double R". German distribution by Sandy Electronic, who sub-titled it TSB 4 (Turniersensorbrett). The chess engine is Richard Lang's Cyrus.
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+WIP:
+- 0.215: hap added France Double R La Regence.
+
+ROMSET:
+12288 bytes in 3 file / 10.14Kb packed
+
+$end
+$info=renaissa,renaissaa
+$mame
+0.220 [hap, Berger]
+
+Kasparov Renaissance, Saitek, 1989
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.220: hap and Berger added Saitek Renaissance system.
+
+ROMSET:
+32768 bytes in 1 file / 26.5Kb packed
+
+$end
+$info=reversic
+$mame
+0.175 [hap, yovan]
+
+Reversi Sensory Challenger (green version), Fidelity Electronics, 1981
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.175: hap and yovan added Fidelity Electronics Reversi Sensory Challenger (green version) system.
+
+ROMSET:
+4096 bytes in 1 file / 3.17Kb packed
+
+$end
+$info=risc2500,risc2500a
+$mame
+0.143u8 [Cowering, Sandro Ronco]
+
+RISC 2500, Saitek, 1992
+
+Johan de Koning is undoubtedly one of the best chess programmers of our time. A version of his best-selling series The King was acquired by the company in 1992 for the Saitek Risc 2500. Where there are at least three versions (1.02, 1.03 and 1.04). This chess computer is arguably the strongest tactical chess computers! For maximum performance, a 32-bit RISC processor with 128 KB RAM provides. The hardware is based on the proven technology of the Chess Machine Company TASC. The available memory (128 KB) can be upgraded to 2 MB. However, the skill level to be achieved by growth versus 512 KB marginal and could in practice not been demonstrated. Turning on the computer while the game is loading program from the slow to the fast EPROM program memory (RAM) (source, translated from german: https://www.schach-computer.info/wiki/index.php/Saitek_RISC_2500).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.180: Machine promoted to working [Sandro Ronco].
+- 0.180: Moved Saitek RISC 2500 into a separate driver and added internal layout and inputs [Sandro Ronco].
+- 0.143u8: Cowering added RISC2500 system.
+
+ROMSET:
+133216 bytes in 2 files / 91.56Kb packed
+
+$end
+$info=roma,roma16,roma16a
+$mame
+0.128 [Dirk Verwiebe]
+
+Mephisto Roma, Hegener & Glaser Muenchen, 1984
+
+The program was founded in 1987 Mephisto Roma world champion of the microcomputer and consequently brought two versions of this software as a module and 68000/16-Bit 68020/32-Bit for its 'Modular Series' on the market (source: https://www.schach-computer.info/wiki/index.php/Mephisto_Roma_68000).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.196: Clone promoted to working [Sandro Ronco].
+- 0.128: Dirk Verwiebe added Hegener & Glaser Muenchen Mephisto Roma system.
+
+ROMSET:
+65536 bytes in 1 file / 45.56Kb packed
+
+$end
+$info=roma32
+$mame
+0.120 [Dirk Verwiebe]
+
+Mephisto Roma 32 Bit, Hegener & Glaser Muenchen, 1984
+
+The program was founded in 1987 Mephisto Roma world champion of the microcomputer and consequently brought two versions of this software as a module and 68000/16-Bit 68020/32-Bit for its 'Modular Series' on the market (source: https://www.schach-computer.info/wiki/index.php/Mephisto_Roma_68020).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+WIP:
+- 0.196: Clone promoted to working [Sandro Ronco].
+- 0.120: Dirk Verwiebe added Hegener & Glaser Muenchen Mephisto Roma 32 Bit system.
+
+ROMSET:
+65536 bytes in 1 file / 45.56Kb packed
+
+$end
+$info=savant
+$mame
+0.212 [hap, Berger, Sean Riddle]
+
+Savant, Novag, 1981
+
+On the occasion of the Nuremberg Toy Fair in 1981, Novag introduced its new chess computer product range to a small circle of chess journalists for the first time. The basis for this was the chess program Mychess by the author David Kittinger. For the development, the technical design and the elegant shaping the company California R & D was responsible. The Savant, the flagship of the company, you could buy about 4 weeks before the 2nd World Cup 1981 in Travemünde already in stores. The baptism of fire in the 2nd World Cup did not turn out to be as happy as expected. In group B - commercial microcomputers - the Savant finished third behind the winner Mark V (8.5 pts) and the runner-up Champion Sensory with 6.5 points with a total of 6 points. With the 8K extension module, the buyers of the Savants were able to convert their device to the Savant II in just a few simple steps. Here were then also some small program inaccuracies eliminated (source, translated from German: https://www.schach-computer.info/wiki/index.php/Novag_Savant).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.212: hap, Berger and Sean Riddle added Novag Savant system.
+
+ROMSET:
+790474 bytes in 5 files / 65.2Kb packed
+
+$end
+$info=savant2
+$mame
+0.213 [Berger, Achim]
+
+Savant II, Novag, 1982
+
+This device was the direct successor of the well-known Savant, which was created by adding an expansion module of eight kilobytes. If you already had a Savant, you could purchase this extension module and upgrade your device with it. A special feature is the type of train input and output: The output is on an integrated LCD board, the input is made by the fact that you can move your own figures by tapping the appropriate fields. This is made possible by the fact that there is a transparent pressure sensor foil above the LCD board. Overall, the Savant II excelled by its excellent technical equipment and its modern design. What sets him apart from the Savant Royale is the lower computational speed alone. Otherwise, the Savant II already offered in the basic version 16 stored master games, which could be extended over the module system to 64 more games, eight game and two analysis levels, Permanent Brain and the application of all draw rules. Internally, the device has a capacity of 48 kilobytes, of which only 32 are used by default (source, translated from German: https://www.schach-computer.info/wiki/index.php/Novag_Savant_II).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: hap and Berger added Novag Savant II.
+
+ROMSET:
+798666 bytes in 6 files / 72.4Kb packed
+
+$end
+$info=sc1,sc2a,sc1_wb
+$mame
+0.140 [Sandro Ronco]
+
+Schachcomputer SC1, VEB Mikroelektronik Erfurt, 19??
+
+The SC1 represents the prototype of chess computers from Erfurt and was only produced in limited numbers. According to the developers then there were 12 pieces. The computer consists of a keypad with 15 keys that are used to establish playing level, color and enter the train and/or positions, shall have two double-seven-segment displays and output the computer train and two LED indicators for signaling Checkmate. Also located in the computer field. The power supply is installed separately (sources: https://www.schach-computer.info/wiki/index.php/SC_1, https://www.chessprogramming.org/SC_1).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.140: Sandro Ronco added Schachcomputer SC1 system.
+- 0.132: Sandro Ronco added skeleton driver of Schachcomputer SC1 system.
+
+ROMSET:
+9216 bytes in 9 files / 7.70Kb packed
+
+$end
+$info=sc2,sc2_wb
+$mame
+0.140 [Sandro Ronco]
+
+Schachcomputer SC2, VEB Mikroelektronik Erfurt, 1981
+
+The SC2, a dedicated chess computer manufactured from 1981 until 1983 by VEB Funkwerk Erfurt, in 1983 renamed to VEB Mikroelektronik „Karl Marx“ Erfurt. The SC2 ran on an 8-bit U880 CPU, which was an unlicensed Z80 clone, and had 9 KB ROM and 1 KB RAM. The chess program was an apparently re-engineered, slightly modified clone of Ron Nelson's program of the Chess Challenger 10 C manufactured by Fidelity Electronics (sources: https://www.schach-computer.info/wiki/index.php/SC_2, https://www.chessprogramming.org/SC_2).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.140: Sandro Ronco added Schachcomputer SC2 system.
+- 0.132: Sandro Ronco added skeleton driver of VEB Schachcomputer SC2 system.
+
+ROMSET:
+9216 bytes in 9 files / 7.70Kb packed
+
+$end
+$info=sc80
+$mame
+0.132 [Curt Coder]
+
+Schachcomputer SC-80, VEB Mikroelektronik, 1984
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+WIP:
+- 0.133: Merged with lc80.c [Curt Coder].
+- 0.132: Curt Coder added skeleton driver of EVB SC-80 system.
+
+ROMSET:
+12288 bytes in 3 files / 7.91Kb packed
+
+$end
+$info=schess
+$mame
+0.215 [hap, bataais]
+
+Sensor Chess, SciSys, 1981
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+saitek_schess.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: hap and bataais added Saitek Sensor Chess system.
+
+ROMSET:
+4096 bytes in 1 file / 3.4Kb packed
+
+$end
+$info=scorpio68
+$mame
+0.198 [hap, yoyo_chessboard]
+
+Scorpio 68000, Novag, 1991
+
+In 1991, Dave Kittinger finally managed to bring out his programs on 16-bit hardware, it appeared the Novag Diablo 68000 wooden device and the hardware-identical device Novag Scorpio 68000. The design of the plastic device was completely redesigned, it was still black but the optics was in favor of round Shaped forms. The basic design has been retained to this day in the successor devices Novag Diamond (black), Novag Diamond II (gray) and Novag Star Diamond (gray). The used Motorola 68000 processor (soldered in) was clocked at 16 MHz and the program, like the Novag Super Expert C, had a size of 96 KB. As an innovation, however, 64 KB for Hash Tables and 16 K extended RAM were added for the first time. Circuit board of the Novag Scorpio 68000. One likes about the innovation strength of 24 z. T. doubly occupied keys argue, but in terms of equipment both devices are the chess computer with the largest ever released by Novag range of functions. After all, the most important functions can be accessed via the 8 buttons on the far right (source, translated from German: https://www.schach-computer.info/wiki/index.php/Novag_Scorpio_68000).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.198: hap and yoyo_chessboard added Novag Scorpio 68000 system.
+
+ROMSET:
+98304 bytes in 3 files / 44Kb packed
+
+$end
+$info=scptchess
+$mame
+0.215 [hap, Sean Riddle]
+
+Sensor Computachess, CXG Systems, 1981
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: hap and Sean Riddle added CXG Sensor Computachess system.
+
+ROMSET:
+8192 bytes in 1 file / 3.5Kb packed
+
+$end
+$info=sdtor
+$mame
+0.215 [hap, Berger]
+
+Sphinx Dominator, CXG, 1989
+
+The chess engine is by Frans Morsch, older versions (before 2.05) were buggy. It's also used in the newer Mephisto Modena.
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: hap and Berger added CXG Sphinx Dominator system.
+
+ROMSET:
+32768 bytes in 1 file / 22.0Kb packed
+
+$end
+$info=sexperta
+$mame
+0.209 [Berger]
+
+Super Expert (version A, model 886), Novag, 1988
+
+The Novag Super Expert series was produced during 4 years: Super Expert in 1987, Super Expert B in 1988, Super Expert C in 1989 and a new generation Super Expert C in 1990. The Novag Super Expert B adds many imorvements to the Super Expert. It wins more than 100 ELO to reach a score of around 2000 ELO / very similar to the Super Expert C (source: http://electronicchess.free.fr/heroes.html#superexpertb).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Berger added Novag Super Expert (version A, model 886) system.
+
+ROMSET:
+98304 bytes in 3 files / 60.0Kb packed
+
+$end
+$info=sexperta1
+$mame
+0.182 [hap, Berger]
+
+Super Expert (version A, old), Novag, 1987
+
+The Novag Super Expert series was produced during 4 years: Super Expert in 1987, Super Expert B in 1988, Super Expert C in 1989 and a new generation Super Expert C in 1990. The Novag Super Expert B adds many imorvements to the Super Expert. It wins more than 100 ELO to reach a score of around 2000 ELO / very similar to the Super Expert C (source: http://electronicchess.free.fr/heroes.html#superexpertb).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.182: hap and Berger added Novag Super Expert (version A) system.
+
+ROMSET:
+98304 bytes in 3 files / 60.0Kb packed
+
+$end
+$info=sexpertb
+$mame
+0.143u8 [Cowering]
+
+Super Expert (version B, model 887), Novag, 1988
+
+The Novag Super Expert series was produced during 4 years: Super Expert in 1987, Super Expert B in 1988, Super Expert C in 1989 and a new generation Super Expert C in 1990. The Novag Super Expert B adds many imorvements to the Super Expert. It wins more than 100 ELO to reach a score of around 2000 ELO / very similar to the Super Expert C (source: http://electronicchess.free.fr/heroes.html#superexpertb).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Changed description to 'Super Expert (version B, model 887)'.
+- 09/06/2013 r23569: Bugfix #5060: [Documentation] (mmodular.c) sexpertb: Fixed description for sexpertb [AntoPISA, Wilbert Pol].
+- 0.143u8: Cowering added Novag Expert B Chess Computer system.
+
+ROMSET:
+98304 bytes in 3 files / 65.51Kb packed
+
+$end
+$info=sexpertc
+$mame
+0.143u8 [Cowering]
+
+Super Expert (version C, V3.6), Novag, 1989
+
+The units of the Super Forte/Expert series appeared in 1987 with the program version A, 1989 the release of version B. The development culminated in the C version in 1990, the same time, this was also the last 8-bit unit of the company Novag, then it rose to 16-bit technology in the form of the Motorola 68000 CPU at (Novag Diablo Scorpio 68000 and 68000). The Novag Super Forte had virtually the plastic housing of the predecessor Novag Forte (though completely in black) during the Super Expert was a new creation made of wood, which was based on the Novag Constellation Expert. Especially the wooden device was a feast for the eyes and is still today one of the most beautiful chess computers that have ever been built. The devices were quasi modular, they were but by simply opening the case and replacing the EPROMs converted to the latest version. The clock was first 5 MHz, Version B was also the conversion to 6 MHz offered (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Super_Expert_C).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.143u8: Cowering added Novag Super Expert C Chess Computer system.
+
+ROMSET:
+98304 bytes in 3 files / 64.23Kb packed
+
+$end
+$info=sexpertc1
+$mame
+0.182 [hap, Berger]
+
+Super Expert (version C, V3.0), Novag, 1990
+
+The units of the Super Forte/Expert series appeared in 1987 with the program version A, 1989 the release of version B. The development culminated in the C version in 1990, the same time, this was also the last 8-bit unit of the company Novag, then it rose to 16-bit technology in the form of the Motorola 68000 CPU at (Novag Diablo Scorpio 68000 and 68000). The Novag Super Forte had virtually the plastic housing of the predecessor Novag Forte (though completely in black) during the Super Expert was a new creation made of wood, which was based on the Novag Constellation Expert. Especially the wooden device was a feast for the eyes and is still today one of the most beautiful chess computers that have ever been built. The devices were quasi modular, they were but by simply opening the case and replacing the EPROMs converted to the latest version. The clock was first 5 MHz, Version B was also the conversion to 6 MHz offered (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Super_Expert_C).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.182: hap and Berger added Novag Super Expert (version C, V3.0) system.
+
+ROMSET:
+98304 bytes in 3 files / 64.2Kb packed
+
+$end
+$info=sfortea
+$mame
+0.143u8 [Cowering]
+
+Super Forte (version A, set 1), Novag, 1987
+
+The Super Forte represents the evolution of the (Constellation) Forte, who was heir to the legendary Super Constellation, the Super Forte is thus a kind of 'great-grandchildren' of the Super Connie. The same chess engine can exploit his pride in the handsome wood-magnetic sensor board the Super Expert. The Super Forte was released in three versions: in 1987, version A, 1988/1989 in the version B, and finally 1989/1990 in the version C. distinguishing these can be through the selective stages. A version has only the option Selective ON/OFF, version B is set to Selective Level 3, version C on selective level 5 On all versions is discussed in more detail in the following article to each his playful identical wood counterparts: Novag Super Expert C (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Super_Forte).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 09/06/2013 r23569: Bugfix #5061: [Documentation] (mmodular.c) sfortea, sforteb, sforteba, sfortec: Fixed descriptions for sfortea, sforteb, sforteba, and sfortec [AntoPISA, Wilbert Pol].
+- 0.143u8: Cowering added Novag Super Forte A Chess Computer system.
+
+ROMSET:
+100448 bytes in 4 files / 60.06Kb packed
+
+$end
+$info=sfortea1
+$mame
+0.182 [hap, Berger]
+
+Super Forte (version A, set 2), Novag, 1987
+
+The Super Forte represents the evolution of the (Constellation) Forte, who was heir to the legendary Super Constellation, the Super Forte is thus a kind of 'great-grandchildren' of the Super Connie. The same chess engine can exploit his pride in the handsome wood-magnetic sensor board the Super Expert. The Super Forte was released in three versions: in 1987, version A, 1988/1989 in the version B, and finally 1989/1990 in the version C. distinguishing these can be through the selective stages. A version has only the option Selective ON/OFF, version B is set to Selective Level 3, version C on selective level 5 On all versions is discussed in more detail in the following article to each his playful identical wood counterparts: Novag Super Expert C (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Super_Forte).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.182: hap and Berger added Novag Super Forte (version A, set 2) system.
+
+ROMSET:
+98304 bytes in 3 files / 33.8Kb packed
+
+$end
+$info=sfortea2
+$mame
+0.209 [Berger]
+
+Super Forte (version A, set 3), Novag, 1987
+
+The Super Forte represents the evolution of the (Constellation) Forte, who was heir to the legendary Super Constellation, the Super Forte is thus a kind of 'great-grandchildren' of the Super Connie. The same chess engine can exploit his pride in the handsome wood-magnetic sensor board the Super Expert. The Super Forte was released in three versions: in 1987, version A, 1988/1989 in the version B, and finally 1989/1990 in the version C. distinguishing these can be through the selective stages. A version has only the option Selective ON/OFF, version B is set to Selective Level 3, version C on selective level 5 On all versions is discussed in more detail in the following article to each his playful identical wood counterparts: Novag Super Expert C (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Super_Forte).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.209: Berger added Novag Super Forte (version A, set 3) system.
+
+ROMSET:
+98304 bytes in 3 files / 33.8Kb packed
+
+$end
+$info=sforteb
+$mame
+0.143u8 [Cowering]
+
+Super Forte (version B), Novag, 1988
+
+The Super Forte represents the evolution of the (Constellation) Forte, who was heir to the legendary Super Constellation, the Super Forte is thus a sense 'grandson' of the Super Connie. The same chess engine can exploit his pride in the handsome wood-magnetic sensor board the Super Expert. The Super Forte was released in three versions: in 1987, version A, 1988/1989 in the version B, and finally 1989/1990 in the version C. distinguishing these can be through the selective stages. A version has only the option Selective On / Off, version B is set to Selective Level 3, version C on selective level 5 On all versions is discussed in more detail in the following article to each his playful identical wood counterparts: Novag Super Expert C (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Super_Forte).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 09/06/2013 r23569: Bugfix #5061: [Documentation] (mmodular.c) sfortea, sforteb, sforteba, sfortec: Fixed descriptions for sfortea, sforteb, sforteba, and sfortec [AntoPISA, Wilbert Pol].
+- 0.143u8: Cowering added Novag Super Forte B Chess Computer system.
+
+ROMSET:
+98304 bytes in 3 files / 65.43Kb packed
+
+$end
+$info=sfortec
+$mame
+0.143u8 [Cowering]
+
+Super Forte (version C), Novag, 1989
+
+The Super Forte represents the evolution of the (Constellation) Forte, who was heir to the legendary Super Constellation, the Super Forte is thus a sense 'grandson' of the Super Connie. The same chess engine can exploit his pride in the handsome wood-magnetic sensor board the Super Expert. The Super Forte was released in three versions: in 1987, version A, 1988/1989 in the version B, and finally 1989/1990 in the version C. distinguishing these can be through the selective stages. A version has only the option Selective On / Off, version B is set to Selective Level 3, version C on selective level 5 On all versions is discussed in more detail in the following article to each his playful identical wood counterparts: Novag Super Expert C (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Super_Forte).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 09/06/2013 r23569: Bugfix #5061: [Documentation] (mmodular.c) sfortea, sforteb, sforteba, sfortec: Fixed descriptions for sfortea, sforteb, sforteba, and sfortec [AntoPISA, Wilbert Pol].
+- 0.143u8: Cowering added Novag Super Forte C Chess Computer system.
+
+ROMSET:
+98304 bytes in 3 files / 63.90Kb packed
+
+$end
+$info=slc1,slc10,slc1a,slc1_wb,slc10_wb
+$mame
+0.143u2 [Robbbert]
+
+Schach- und Lerncomputer SLC-1, Dr. Dieter Scheuschner, 1989
+
+This computer is both a Z80 trainer, and a chess computer. The keyboard is different between the two, so we redefine it for your convenience. There is no chess board attached. You supply your own and you sync the pieces and the computer instructions. When started, it is in Chess mode. Press 11111 to switch to 'Trainer mode' (source: http://mamedev.org/source/src/mess/drivers/slc1.c.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+WIP:
+- 0.144u5: Systems Promoted from GAME_NOT_WORKING. Updated romset [Robbbert].
+- 0.143u2: Robbbert added skeleton driver of SLC1 system.
+
+ROMSET:
+8192 bytes in 2 files / 7.04Kb packed
+
+$end
+$info=smchess
+$mame
+0.220 [hap, Sean Riddle]
+
+Mini Chess, SciSys, 1981
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.220: hap and Sean Riddle added Saitek Mini Chess system.
+
+ROMSET:
+8192 bytes in 1 file / 3.5Kb packed
+
+$end
+$info=smondial,smondial_8,smondialab,smondialab_8,smondialb,smondialb_8
+$mame
+0.190 [yoyo_chessboard, Sandro Ronco]
+
+Mephisto Super Mondial, Hegener & Glaser, 1986
+
+The successor of the Mephisto Mondial II now has a whopping 8 KB RAM as well as 32 KB ROM and runs at twice the clock frequency. Thanks to the two LCD displays, he informs the operator of all the important search information - the main variant is 6 half-berths, addiction depth, position evaluation, the train currently being examined, the number of trains and train times. In addition, the Super Mondial shows the current game phase, divided into opening, center game and final game (open-midg-endg). The Super Mondial has very easy-to-use pressure sensors, the function buttons are clearly arranged and speak just as easily, the play style is rather positional, without falling into the tactical range, the end game behavior must be described as weak. There are several program versions (called versions A, B and AB) of the Super Mondial, which can be identified in different ways: The figures above show two different possibilities: - The versions A and AB have the name at the upper left edge of the playing field, the signature over the two displays (source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Mephisto_Super_Mondial).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+smondial2.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.190: yoyo_chessboard and Sandro Ronco added Hegener & Glaser Mephisto Super Mondial system.
+
+ROMSET:
+32768 bytes in 1 file / 22.5Kb packed
+
+$end
+$info=smondial2,smondial2_8
+$mame
+0.190 [yoyo_chessboard, Sandro Ronco]
+
+Mephisto Super Mondial II, Hegener & Glaser, 1988
+
+Optionally, the SuperMondial II can be retrofitted with the so-called college module, which is inserted in the area of the battery compartment. The functions of the Super Mondial II do not change, the module is only an extension, on the EPROM there are about 8 KB of data. After the module is installed, the tutor mode is available, this includes 100 exercises, 64 opening variants for training and the HELP function. The HELP function warns of threats during a game, points to weak moves, and makes suggestions for improvement. This function is not implemented in the related Monte Carlo IV and Monte Carlo IV LE brothers and the college module works in these devices also not. The devices sold as a college version had the coordinate printed on each field. With the College Module plugged in, the SuperMondial II will report "College" when it is switched on (source, translated by German: https://www.schach-computer.info/wiki/index.php/Mephisto_Super_Mondial_II).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.190: yoyo_chessboard and Sandro Ronco added Hegener & Glaser Mephisto Super Mondial II system.
+
+ROMSET:
+32768 bytes in 1 file / 19.4Kb packed
+
+$end
+$info=sphinx40
+$mame
+0.215 [hap, Berger]
+
+Sphinx 40, CXG, 1987
+
+This is a modular chesscomputer, similar to Mephisto's 3-drawers one. Chesscomputer on the right, LCD in the middle, and future expansion on the left. The only difference between 40 and 50 is the board size (40cm vs 50cm). The chess engine is Cyrus 68K, by Mark Taylor, with advice from David Levy. It's not related to the Z80 version of Cyrus, only by name. This chessboard was also used on the Sphinx 40 / 50 Plus, which is another incarnation of Frans Morsch's Dominator program.
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.215: hap and Berger added CXG Sphinx 40 system.
+
+ROMSET:
+65536 bytes in 2 files / 46.7Kb packed
+
+$end
+$info=ssensor4
+$mame
+0.213 [hap, Berger, Achim]
+
+Super Sensor IV, Novag, 1981
+
+NOVAG SUPER SENSOR IV offers you a deep and well researched book opening library of 600 half moves which combined with our strong random generator assures lots of variety in your games. SET LEVEL BUTTON: Choose play strength. TIME CONTROL BUTTON: Choose time control. The NOVAG SUPER SENSOR IV has 8 play levels in which the level 1 is the weakest and level 8 is the strongest. A further option which plays a factor in the search depth of the computer is the Time Control as explained below. The higher the play level the longer it takes for the computer to make a move but the computer will analyze the position and the moves in more depth which will influence the strength of his reply. The NOVAG SUPER SENSOR IV also uses your move time and continues to analyze positions while you ponder your next move (this is also called Permanent Brain). In addition to the 8 play levels, the computer also has 2 time control options available for use in which variable or fixed response times can be set up. If the variable option is used the computer will move more quickly in simple game situations but it will also use more time in more complex positions. The levels 7 and 8 will be used for analysis or the solving of special chess problems. If the fixed option is used, the computer will make its move only after the time allocated by the level choice is used. In the fixed option the levels 6, 7 and 8 are tournament play levels (source: http://www.spacious-mind.com/html/super_sensor_iv.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: hap, Berger and Achim added Novag Super Sensor IV system.
+
+ROMSET:
+8192 bytes in 1 file / 6.8Kb packed
+
+$end
+$info=sstar28k
+$mame
+0.213 [hap, Berger]
+
+Superstar 28K Chess Computer, Saitek, 1983
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: hap and Berger added Saitek Superstar 28K Chess Computer system.
+
+ROMSET:
+24576 bytes in 3 files / 16 Kb packed
+
+$end
+$info=ssystem3
+$mame
+0.213 [hap, Berger]
+
+Chess Champion Super System III, Novag, 1979
+
+This unit I have now. Well with the LCD panel and the printer, but it should have been produced very often, because it is encountered very often in auctions He's a piece of the history of chess but has in the collector circles (still) not depressed. The price, including completing parts was. Unfortunately, I think because at present no record of how much more it cost the whole time. But I think I did for the unit with printer and LCD panel with approximately 600.00€ not much besides lying. Euro has cost / with the base unit 200. The condition is already somewhat battered by the printer and LCD board is even while the original packaging. The LCD panel is also working knotless not (source: http://www.schachcomputer.at/system3.htm).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: hap and Berger added Novag Chess Champion Super System III system.
+
+ROMSET:
+61917 bytes in 4 files / 25.4Kb packed
+
+$end
+$info=stratos,stratosa
+$mame
+0.210 [Olivier Galibert, hap]
+
+Kasparov Stratos Chess Computer, Saitek, 1986
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+saitek_egr.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: promoted to working by hap
+- 0.153: Cowering and Olivier Galibert added Saitek Kasparov Stratos Chess Computer system.
+
+ROMSET:
+65536 bytes in 2 files / 48 Kb packed
+
+$end
+$info=super9cc,super9ccg
+$mame
+0.175 [hap]
+
+Super 9 Sensory Chess Challenger, Fidelity Electronics, 1983
+
+The chess computer containing the program of Fidelity Prestige on slower hardware Fidelity Chess Challenger Sensory Champion and with the optics of the Fidelity Sensory 9. The exact type designation was Fidelity Super 9 Sensory Chess Challenger, who "DeLuxe" represented the noble wood trim (Source, translated from German: https://www.schach-computer.info/wiki/index.php?title=Fidelity_Super_9_Sensory_Chess_Challenger).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Super 9 Sensory Chess Challenger'.
+- 0.175: hap added Fidelity Electronics Super 9 Sensory Chess Challenger (English) system.
+
+ROMSET:
+30720 bytes in 5 files / 23.1Kb packed
+
+$end
+$info=supercon,superc_n,superc_t
+$mame
+0.140 [Ralf Schaefer]
+
+Super Constellation, Novag, 1983
+
+The company Novag and with it the American programmer Dave Kittinger was with the release of the Super Constellation in 1984, the declared favorites of many computer chess fans. For that time, the unit was very strong game and was mainly due to his unorthodox, intuitive and tactically-oriented and very human style of play a large following. The program had as all former 8bit computer one clocked at 3.6 MHz 6502 CPU. Later there was also a 4.0 MHz version that was probably then probably sold the most. Rumored for a large sales campaign in 1999 will also be available with 5.0 MHz have been delivered (source, translated from german: https://www.schach-computer.info/wiki/index.php/Novag_Super_Constellation).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.148u2: Fix regressions [Ralf Schöfer].
+- 26/01/2013 r20482: Cleanups. It seems this driver regressed somewhere between 0.147 and now [Wilbert Pol].
+- 0.147u3: Fixed inputs, now playable [Ralf Schöfer].
+- 0.140: Ralf Schaefer added Novag SuperConstellation Chess Computer system.
+
+ROMSET:
+65536 bytes in 2 files / 41.54Kb packed
+
+$end
+$info=supremo
+$mame
+0.220 [hap, Berger]
+
+Supremo - Limited Edition, Novag, 1990
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Preliminary
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.220: hap and Berger added Novag Supremo system.
+
+ROMSET:
+32768 bytes in 1 file / 25.6Kb packed
+
+$end
+$info=tascr30,tascr30a,tascr30b,tascr30g,tascr40,tascr40a,tascr40b,tascr40g
+$mame
+0.210 [hap, Sandro Ronco]
+
+Tasc ChessSystem R30, Tasc, 1993
+
+TASC Chess System R30 is operated through a system of menus, which can be accessed via the direction keys (photo: bottom right). The options are confirmed with the enter key. This conveniently-organized system makes it possible (even during games) to adjust all kinds of things, such as language (the computer knows English, German and Dutch). The menu does not only allow an almost endless range of levels. The board can be disabled, or just the LEDs. The style of play, sound, permanent brain, notation and many more options can be set (source: https://tluif.home.xs4all.nl/chescom/EngTascR30menu.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: hap and Sandro Ronco added Tasc ChessSystem R30.
+
+ROMSET:
+1048576 bytes in 8 files / 635.2Kb packed
+
+$end
+$info=tking,tkinga,tkingb
+$mame
+0.210 [Olivier Galibert, hap]
+
+Kasparov Turbo King Chess Computer, Saitek, 1988-90
+
+Your Kasparov Turbo King is a sophisticated electronic chessboard that automatically records your movements on its built-in chessboard. It has tricolor lights that make it very easy to use and a LCD screen that gives you a lot of information during the game. He can go back on a whole part, he allows to review a part, he announces the Mat and displays his reflection. It has 64 game levels as well as a programmable library that allows you to store parts, positions and openings in its permanent memory. These features make the Kasparov Turbo King one of the most sophisticated electronic chess boards (source, translated from French: http://www.blitzchess.fr/fr/jeuxdes7familles/saitek/saitek-turbo-king/).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+saitek_egr.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.210: promoted to working by hap
+- 0.153: Cowering and Olivier Galibert added Saitek Kasparov Turbo King Chess Computer system.
+
+ROMSET:
+65536 bytes in 2 files / 48 Kb packed
+
+$end
+$info=tstar432
+$mame
+0.213 [hap, anonymous]
+
+Turbostar 432 Chess Computer, Saitek, 1985
+
+TURBOSTAR 432 is one of the world’s strongest chess computers. Rated over 2,000 ELO, it is capable of beating over 97% of of all chess players. It features a high speed 4 MHz microprocessor and a 40K program. TURBOSTAR 432 is also very aggressive and frequently anticipates its opponent’s move and responds immediately. 31 preset levels of play can be selected to match the skill of any player, novice or top club standard. It is ideal for tournaments with over 4,000 programmable time settings to match any special time controls. TURBOSTAR 432 with its Kasparov Selected Openings (KSO) program has all the advanced features of a top chess computer (source: http://www.spacious-mind.com/html/turbostar_432_kso.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+saitek_kso.xml
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.213: hap and Berger added Saitek Turbostar 432 Chess Computer system.
+
+ROMSET:
+32768 bytes in 1 file / 23.4Kb packed
+
+$end
+$info=uvc,uvcg,uvc_wb
+$mame
+0.141 [Kevin Horton, Jonathan Gevaryahu, Sandro Ronco]
+
+Advanced Voice Chess Challenger, Fidelity Electronics, 1980
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description 'Advanced Voice Chess Challenger'.
+- 0.141: Kevin Horton, Jonathan Gevaryahu and Sandro Ronco added Advanced Talking Chess Challenger (model UVC) system.
+
+ROMSET:
+16384 bytes in 3 files / 13.58Kb packed
+
+$end
+$info=van16
+$mame
+0.143u8 [Cowering]
+
+Mephisto Vancouver 68000, Hegener & Glaser Muenchen, 1991
+
+Technical information and pictures: http://www.spacious-mind.com/html/module_vancouver_16_bit.html
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Clone promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Vancouver 68000 system.
+
+ROMSET:
+264288 bytes in 3 files / 124.59Kb packed
+
+$end
+$info=van32
+$mame
+0.143u8 [Cowering]
+
+Mephisto Vancouver 68020, Hegener & Glaser Muenchen, 1991
+
+Technical information and pictures: http://www.spacious-mind.com/html/module_vancouver_16_bit.html
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.189: Clone promoted to working [Sandro Ronco].
+- 0.143u8: Cowering added Mephisto Vancouver 68020 system.
+
+ROMSET:
+262144 bytes in 1 file / 114.86Kb packed
+
+$end
+$info=vcc,vccg,vcc_wb
+$mame
+0.137 [Kevin Horton, Jonathan Gevaryahu, Sandro Ronco]
+
+Voice Chess Challenger, Fidelity Electronics, 1979
+
+<No certified information found. If you have info on this machine, please contact us!>
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Voice Chess Challenger'.
+- 0.137: Kevin Horton, Jonathan Gevaryahu and Sandro Ronc added Fidelity Electronics Talking Chess Challenger (model VCC) system.
+
+ROMSET:
+16384 bytes in 4 files / 13.27Kb packed
+
+$end
+$info=vsc,vscg
+$mame
+0.142u4 [Kevin Horton, Jonathan Gevaryahu, Sandro Ronco]
+
+Voice Sensory Chess Challenger, Eckhard Schiller, 1983
+
+This has a very distinctive 70/80's robot voice. The carrying case comes with a key. It has a random play feature where the computer selects a random move from the good ones it has found. It could be hooked up to a printer. It anounces mate in two. You can turn the voice on and off and control the volume (high or low). You can also limit voice anouncements to illegal moves and check warnings. It has a built in chess clock and you can set uyp the time to play (source: http://www.ismenio.com/chess_vscc.html).
+
+DRIVER STATUS:
+Emulation: Good
+Color: Good
+Sound: Good
+Graphics: Good
+Save State: Supported
+
+SOFTWARE LIST:
+-
+
+RESOURCES:
+Artwork
+
+WIP:
+- 0.208: Changed description to 'Voice Sensory Chess Challenger'.
+- 0.142u4: Kevin Horton, Jonathan Gevaryahu and Sandro Ronco added Eckhard Schiller Sensory Chess Challenger (model VSC) system.
+
+ROMSET:
+24576 bytes in 4 files / 19.83Kb packed
+
+$end

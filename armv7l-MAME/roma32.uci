@@ -1,0 +1,36 @@
+[00-1s move]
+level = 0
+
+[01-2s move]
+level = 1
+
+[02-3s move]
+level = 2
+
+[03-5s move]
+level = 3
+
+[04-10s move]
+level = 4
+
+[05-2m move]
+level = 5
+
+[06-B 5mins]
+level = 30
+
+[07-B-10mins]
+level = 34
+
+[08-B-30mins]
+level = 37
+
+[09-40m/120m]
+level = 40
+
+[10-60m/120m]
+level = 47
+
+[99-Analysis]
+level = 99
+

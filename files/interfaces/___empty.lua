@@ -1,3 +1,0 @@
-interface = {}
-
-return interface
