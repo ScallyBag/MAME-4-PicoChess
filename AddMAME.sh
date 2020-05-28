@@ -13,16 +13,16 @@ sudo service picochess stop
 wait
 
 # Move mame_emulation to /opt/picochess/engines/
-cd ~/MAME-4-PicoChess/mame_emulation_new
+cd ~/MAME-4-PicoChess
 echo ""
-echo "Unzipping mess & copying mame_emulation to /opt/picochess/engines"
+echo "Copying mame_emulation_new to /opt/picochess/engines & unzip mess.zip"
 sleep 1
+cp -r mame_emulation_new /opt/picochess/engines
+cd /opt/picochess/engines/mame_emulation_new
 unzip mess.zip
 wait
 rm mess.zip
-./mess -cc 
-cd ~/MAME-4-PicoChess
-cp -r mame_emulation_new /opt/picochess/engines
+./mess -cc
 
 # Rename your existing armv7l to armv7lPICO and copy the armv7l-MAME-new file to /opt/picochess/engines
 echo ""
@@ -38,8 +38,7 @@ echo "Moving any existing mame_emulation to mame_emulation_old & replacing with 
 sleep 1
 mv mame_emulation mame_emulation_old
 mv mame_emulation_new mame_emulation
-
-
+ 
 echo ""
 echo "You can revert to your existing engines by deleting armv7l & copying armv7lPICO to armv7l"
 echo "This will still keep a copy of your original engine folder plus the armv7l-MAME engine folder"
