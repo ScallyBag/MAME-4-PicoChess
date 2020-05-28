@@ -43,9 +43,9 @@ sudo apt update && sudo apt upgrade
 * Install the following Packages:  
 sudo apt install git build-essential libsdl2-dev libsdl2-ttf-dev libfontconfig1-dev qt5-default zip unzip
 
-* Install My MAME GitHub repository:  
-cd ~/		         <<<<<<< Important it has to be this folder
-sudo git clone https://github.com/ScallyBag/MAME-4-PicoChess
+* Install My MAME GitHub repository (important, it must be this folder to work):    
+cd ~/  
+sudo git clone https://github.com/ScallyBag/MAME-4-PicoChess  
  
 * Change folders to the newly installed repository:  
 cd ~/MAME-4-PicoChess
