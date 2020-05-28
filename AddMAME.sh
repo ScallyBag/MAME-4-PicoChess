@@ -1,5 +1,5 @@
 #!/bin/bash
- 
+
 # Distribute the files required for MAME-4-PicoChess
 clear
 echo "This will not work alongside my new Switchable Image as the folder names have changed"
@@ -28,6 +28,7 @@ rm mess.zip
 echo ""
 echo "Moving your existing armv7l to armv7lPICO (unless it exists) & replacing with the new armv7l-MAME folder"
 sleep 1
+cd ~/MAME-4-PicoChess
 cp -r armv7l-MAME-new /opt/picochess/engines
 cd /opt/picochess/engines
 mv -vn armv7l armv7lPICO
