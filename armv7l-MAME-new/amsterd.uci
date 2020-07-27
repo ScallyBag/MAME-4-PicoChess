@@ -1,8 +1,8 @@
-[S-40m/2h]
+8[S-40m/2h]
 speed = 0
 level = 6
 
-[0-1s move]
+[0-3s move]
 level = 0
 
 [1-5s move]
@@ -24,12 +24,11 @@ level = 5
 level = 6
 
 [7-5m game]
-level = 7
+level = 7 00:05:00
 
-[8-30s]
-level = 8
+[8-1s]
+level = 8 00:00:01
 
 [9-Analysis]
 level = 9
-
 
